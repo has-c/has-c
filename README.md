@@ -34,7 +34,7 @@ Connect with me on LinkedIn:
 ### Latest Posts
 
 <!-- SUBSTACK POSTS -->
-- Loading posts...
+- Error loading posts
 <!-- /SUBSTACK POSTS -->
 
 ---
@@ -43,7 +43,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The greatest breakthroughs come not from perfecting the known, but from bravely asking 'what if?' and then daring to build the answer.
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 > 
-> — *Grace Hopper* (computer science)
+> — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
