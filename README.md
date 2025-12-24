@@ -23,7 +23,7 @@ I write about data, ML, and markets on Substack:
 <sub>*Quote updates daily via Gemini AI*</sub>
 
 <!-- DAILY QUOTE -->
-> Sometimes it is the people no one imagines anything of who do the things no one can imagine.
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 > 
 > — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
