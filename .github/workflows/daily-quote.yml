@@ -26,13 +26,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python .github/scripts/update_quote.py
       
-      - name: Fetch Substack posts and update README
-        run: python .github/scripts/update_substack.py
-      
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update quote and Substack posts [skip ci]"
+          git diff --staged --quiet || git commit -m "Update daily quote [skip ci]"
           git push
