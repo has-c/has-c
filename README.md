@@ -11,6 +11,16 @@
 
 ---
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=has-c&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=has-c&theme=dark&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=has-c&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+---
+
 ### Writing
 
 I write about data, ML, and markets on Substack:
@@ -20,6 +30,12 @@ I write about data, ML, and markets on Substack:
 Connect with me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-cheena/)
+
+### Latest Posts
+
+<!-- SUBSTACK POSTS -->
+- Loading posts...
+<!-- /SUBSTACK POSTS -->
 
 ---
 
