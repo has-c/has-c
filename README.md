@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!-- DAILY QUOTE -->
-> No quote found
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 > 
-> — *System* (error)
+> — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
 
 <!--
