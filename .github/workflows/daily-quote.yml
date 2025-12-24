@@ -2,8 +2,8 @@ name: Update Daily Quote
 
 on:
   schedule:
-    # Runs daily at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:

@@ -20,7 +20,7 @@ I write about data, ML, and markets on Substack:
 ---
 
 
-<sub>*Quote updates daily via Gemini AI*</sub>
+<sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
 > We can only see a short distance ahead, but we can see plenty there that needs to be done.
