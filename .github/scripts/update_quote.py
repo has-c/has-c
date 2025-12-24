@@ -10,7 +10,7 @@ api_key = os.environ.get('GEMINI_API_KEY')
 if not api_key:
     raise ValueError("GEMINI_API_KEY secret is not set")
 
-url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
 
 prompt = """Generate an inspirational quote from a famous mathematician, statistician, or computer scientist. 
 Format your response as valid JSON with exactly these fields:
