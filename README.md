@@ -23,7 +23,7 @@ I write about data, ML, and markets on Substack:
 <sub>*Quote updates daily via Gemini AI*</sub>
 
 <!-- DAILY QUOTE -->
-> The most dangerous phrase in the language is 'we've always done it this way.'
+> Sometimes it is the people no one imagines anything of who do the things no one can imagine.
 > 
-> — *Grace Hopper* (computer science)
+> — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
