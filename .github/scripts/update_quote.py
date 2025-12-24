@@ -85,8 +85,8 @@ if re.search(pattern, content, re.DOTALL):
     # Replace existing quote
     new_content = re.sub(pattern, quote_section, content, flags=re.DOTALL)
 else:
-    # Add quote section after the header
-    header_match = re.match(r'(.*?## Hi there 👋\n)', content, re.DOTALL)
+    # Add quote section after the intro
+    header_match = re.match(r'(#.*?\n\n\*\*.*?\*\*.*?\n)', content, re.DOTALL)
     if header_match:
         new_content = header_match.group(1) + '\n' + quote_section + '\n\n' + content[header_match.end():]
     else:
