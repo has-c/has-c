@@ -2,19 +2,12 @@
 
 **Data Scientist & Engineer** building with machine learning
 
-<!-- DAILY QUOTE -->
-> The most dangerous phrase in the language is 'we've always done it this way.'
-> 
-> — *Grace Hopper* (computer science)
-<!-- /DAILY QUOTE -->
-
 ---
 
-### What I Do
+### What I Love To Do
 
-🔬 Build ML models & data pipelines  
-📊 Turn messy data into insights  
-🚀 Ship data products to production  
+🔬 Build ML systems & data pipelines  
+🚀 Build systems that have business impacts
 
 ---
 
@@ -28,3 +21,9 @@ I write about data, ML, and markets on Substack:
 
 
 <sub>*Quote updates daily via Gemini AI*</sub>
+
+<!-- DAILY QUOTE -->
+> The most dangerous phrase in the language is 'we've always done it this way.'
+> 
+> — *Grace Hopper* (computer science)
+<!-- /DAILY QUOTE -->
