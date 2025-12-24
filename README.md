@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!-- DAILY QUOTE -->
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> The most dangerous phrase in the language is 'we've always done it this way.'
 > 
-> — *Alan Turing* (computer science)
+> — *Grace Hopper* (computer science)
 <!-- /DAILY QUOTE -->
 
 <!--
