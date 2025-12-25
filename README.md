@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies, I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.
+> We may regard the present state of the universe as the effect of its anterior state and as the cause of the one which is to follow. An intelligence which at a given moment knew all the forces that animate nature, and the mutual positions of the beings that compose it, if this intelligence were vast enough to submit these data to analysis, would embrace in the same formula the movements of the greatest bodies of the universe and those of the lightest atom: for it, nothing would be uncertain, and the future, like the past, would be present to its eyes.
 > 
-> — *Claudius Ptolemy* (Astronomer)
+> — *Pierre-Simon Laplace* (Mathematician, Astronomer)
 <!-- /DAILY QUOTE -->
