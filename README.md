@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Give me a place to stand, and I will move the Earth.
+> We may regard the present state of the universe as the effect of its antecedent state and as the cause of the state that is to follow. An intelligence knowing all the forces acting in nature, and the momentary positions of all things of which the universe is composed, would, if it were also vast enough to submit these data to analysis, embrace in a single formula the movements of the greatest bodies of the universe and those of the lightest atom; nothing would be uncertain for it, and the future, like the past, would be present to its eyes.
 > 
-> — *Archimedes* (Mathematics and Physics)
+> — *Pierre-Simon Laplace* (Mathematician)
 <!-- /DAILY QUOTE -->
