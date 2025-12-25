@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The universe is not a computer.
+> Give me a place to stand, and I will move the Earth.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Archimedes* (Mathematics and Physics)
 <!-- /DAILY QUOTE -->
