@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The sciences do not try to explain, they hardly even try to interpret, they mainly make models. By a model is meant a mathematical construct which, with the addition of some verbal interpretations, describes observed phenomena. The justification of such a mathematical construct is solely and precisely that it is expected to work.
+> The world is not just information. It is also a physical reality. And the laws of physics are not just algorithms.
 > 
-> — *John von Neumann* (Mathematics)
+> — *Roger Penrose* (Mathematical Physics)
 <!-- /DAILY QUOTE -->
