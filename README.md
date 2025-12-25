@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A ship in port is safe, but that is not what ships are built for.
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 > 
-> — *Grace Hopper* (computer science)
+> — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
