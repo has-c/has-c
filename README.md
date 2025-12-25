@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most dangerous phrase in the language is 'we've always done it this way.'
+> Mathematics is an aesthetic experience, like art or music. Without it, the universe is unintelligible.
 > 
-> — *Grace Hopper* (computer science)
+> — *Subrahmanyan Chandrasekhar* (Astrophysicist)
 <!-- /DAILY QUOTE -->
