@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.
+> The most profound insights are often the simplest ones, and the ones that are most surprising are often the ones that you discover when you just explore, without having a particular goal in mind.
 > 
-> — *Eugene Wigner* (Theoretical Physics)
+> — *Stephen Wolfram* (Computer Scientist)
 <!-- /DAILY QUOTE -->
