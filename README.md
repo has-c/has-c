@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The world is not just information. It is also a physical reality. And the laws of physics are not just algorithms.
+> I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies, I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.
 > 
-> — *Roger Penrose* (Mathematical Physics)
+> — *Claudius Ptolemy* (Astronomer)
 <!-- /DAILY QUOTE -->
