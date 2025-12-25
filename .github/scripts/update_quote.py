@@ -46,9 +46,8 @@ prompt = f"""Generate a unique, thought-provoking quote from a mathematician, st
 REQUIREMENTS FOR VARIETY:
 - Focus on: {theme}
 - Prefer authors from: {era} era
-- Choose someone LESS commonly quoted (avoid overused quotes from Einstein, Turing, Dijkstra, Knuth)
 - The quote should be genuinely insightful, not a cliché
-- Pick real, verifiable quotes when possible
+- Pick real, verifiable quotes ALWAYS
 
 Format your response as valid JSON with exactly these fields:
 {{
