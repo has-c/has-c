@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We may regard the present state of the universe as the effect of its anterior state and as the cause of the one which is to follow. An intelligence which at a given moment knew all the forces that animate nature, and the mutual positions of the beings that compose it, if this intelligence were vast enough to submit these data to analysis, would embrace in the same formula the movements of the greatest bodies of the universe and those of the lightest atom: for it, nothing would be uncertain, and the future, like the past, would be present to its eyes.
+> The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.
 > 
-> — *Pierre-Simon Laplace* (Mathematician, Astronomer)
+> — *Eugene Wigner* (Theoretical Physics)
 <!-- /DAILY QUOTE -->
