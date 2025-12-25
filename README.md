@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> Sometimes it is the people no one imagines anything of who do the things no one can imagine.
 > 
 > — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
