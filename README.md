@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most dangerous phrase in the language is 'we've always done it this way.'
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 > 
-> — *Grace Hopper* (computer science)
+> — *Alan Turing* (computer science)
 <!-- /DAILY QUOTE -->
