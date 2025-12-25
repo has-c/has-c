@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Sometimes it is the people no one imagines anything of who do the things no one can imagine.
+> The most dangerous phrase in the language is, 'We've always done it this way.'
 > 
-> — *Alan Turing* (computer science)
+> — *Grace Hopper* (computer science)
 <!-- /DAILY QUOTE -->
