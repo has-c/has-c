@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics is an aesthetic experience, like art or music. Without it, the universe is unintelligible.
+> The sciences do not try to explain, they hardly even try to interpret, they mainly make models. By a model is meant a mathematical construct which, with the addition of some verbal interpretations, describes observed phenomena.
 > 
-> — *Subrahmanyan Chandrasekhar* (Astrophysicist)
+> — *John von Neumann* (Mathematician)
 <!-- /DAILY QUOTE -->
