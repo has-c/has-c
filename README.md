@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most dangerous phrase in the language is, 'We've always done it this way.'
+> The most dangerous phrase in the language is 'we've always done it this way.'
 > 
 > — *Grace Hopper* (computer science)
 <!-- /DAILY QUOTE -->
