@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Sometimes it is the people no one imagines anything of who do the things no one can imagine.
+> A ship in port is safe, but that is not what ships are built for.
 > 
-> — *Alan Turing* (computer science)
+> — *Grace Hopper* (computer science)
 <!-- /DAILY QUOTE -->
