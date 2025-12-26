@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All things whatsoever that have been constituted in the nature of things, seem to have been formulated by the condition of numbers.
+> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
 > 
-> — *Boethius* (Mathematician)
+> — *Leonhard Euler* (Mathematics)
 <!-- /DAILY QUOTE -->
