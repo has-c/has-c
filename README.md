@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Beauty is the first test: there is no permanent place in the world for ugly mathematics.
+> Mathematics is not about things, it's about the relationships between things.
 > 
-> — *G.H. Hardy* (Pure Mathematics)
+> — *Terence Tao* (Mathematics)
 <!-- /DAILY QUOTE -->
