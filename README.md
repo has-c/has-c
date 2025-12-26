@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics makes the mind pure and gives it power to see truths unchangeable.
+> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
 > 
-> — *Proclus* (Mathematics)
+> — *Leonhard Euler* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
