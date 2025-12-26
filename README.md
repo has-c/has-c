@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We are still trying to understand number. It is just a concept, but it is one of the deepest concepts we have.
+> There is no limit to the problems the analytic art can resolve.
 > 
-> — *John H. Conway* (Pure Mathematics)
+> — *François Viète* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
