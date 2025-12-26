@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Perhaps I can best describe my experience of doing mathematics in terms of entering a dark mansion. You go into the first room, and it's dark, completely dark. You stumble around, bumping into the furniture, but gradually you learn where each piece of furniture is. And eventually, after six months or so, you find the light switch and turn it on. And suddenly, it's all illuminated. You can see exactly where you are. Then you move into the next room and spend another six months in the dark. So, each of these breakthroughs has its own story.
+> Mathematics makes the mind pure and gives it power to see truths unchangeable.
 > 
-> — *Andrew Wiles* (Number Theory)
+> — *Proclus* (Mathematics)
 <!-- /DAILY QUOTE -->
