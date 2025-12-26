@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics is the queen of the sciences and number theory is the queen of mathematics. She often condescends to render service to astronomy and other natural sciences, but in all other relations she is entitled to the first rank.
+> Perhaps I can best describe my experience of doing mathematics in terms of entering a dark mansion. You go into the first room, and it's dark, completely dark. You stumble around, bumping into the furniture, but gradually you learn where each piece of furniture is. And eventually, after six months or so, you find the light switch and turn it on. And suddenly, it's all illuminated. You can see exactly where you are. Then you move into the next room and spend another six months in the dark. So, each of these breakthroughs has its own story.
 > 
-> — *Carl Friedrich Gauss* (Number Theory)
+> — *Andrew Wiles* (Number Theory)
 <!-- /DAILY QUOTE -->
