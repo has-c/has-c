@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
+> Either mathematics is too big for the human mind, or the human mind is more than a machine.
 > 
-> — *Leonhard Euler* (Mathematics)
+> — *Kurt Gödel* (Mathematical Logic)
 <!-- /DAILY QUOTE -->
