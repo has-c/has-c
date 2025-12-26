@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> You enter the first room, and it's dark. You stumble about, bumping into the furniture. Then, gradually, you learn where the furniture is, and you start to find your way around. Then, suddenly, one day, you switch on the light and you see where you are.
+> All things whatsoever that have been constituted in the nature of things, seem to have been formulated by the condition of numbers.
 > 
-> — *Andrew Wiles* (Number Theory)
+> — *Boethius* (Mathematician)
 <!-- /DAILY QUOTE -->
