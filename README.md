@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Perhaps I could best describe my experience of doing mathematics in terms of entering a dark mansion. You go into the first room, and it's dark, completely dark. You stumble around, knocking into the furniture. Gradually, you learn where each piece of furniture is. And eventually, after six months or so, you find the light switch and turn it on. Suddenly, it's all illuminated, and you can see exactly where you were. Then you move into the next dark room.
+> The reader of this book will find himself confronted by many problems whose solutions seem at first sight to defy discovery, but which, when more closely investigated, turn out to be solvable; he will also find other problems which, though they seem at first sight to admit of solution, prove on closer investigation to be insoluble.
 > 
-> — *Andrew Wiles* (Pure Mathematics)
+> — *Diophantus* (Number Theory)
 <!-- /DAILY QUOTE -->
