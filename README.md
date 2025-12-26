@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony beautiful. If you don't see why, someone can't tell you. I know numbers are beautiful. If they aren't beautiful, nothing is.
+> You enter the first room, and it's dark. You stumble about, bumping into the furniture. Then, gradually, you learn where the furniture is, and you start to find your way around. Then, suddenly, one day, you switch on the light and you see where you are.
 > 
-> — *Paul Erdős* (Number Theory)
+> — *Andrew Wiles* (Number Theory)
 <!-- /DAILY QUOTE -->
