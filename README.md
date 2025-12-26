@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most profound insights are often the simplest ones, and the ones that are most surprising are often the ones that you discover when you just explore, without having a particular goal in mind.
+> Mathematics is the queen of the sciences and number theory is the queen of mathematics. She often condescends to render service to astronomy and other natural sciences, but in all other relations she is entitled to the first rank.
 > 
-> — *Stephen Wolfram* (Computer Scientist)
+> — *Carl Friedrich Gauss* (Number Theory)
 <!-- /DAILY QUOTE -->
