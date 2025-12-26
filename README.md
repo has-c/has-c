@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics is the queen of the sciences and number theory is the queen of mathematics.
+> Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony beautiful. If you don't see why, someone can't tell you. I know numbers are beautiful. If they aren't beautiful, nothing is.
 > 
-> — *Carl Friedrich Gauss* (Pure Mathematics)
+> — *Paul Erdős* (Number Theory)
 <!-- /DAILY QUOTE -->
