@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
+> Reductio ad absurdum, which Euclid loved so much, is one of a mathematician's finest weapons. It is a far finer gambit than any chess gambit: a chess player may offer a pawn or even a piece for the sake of a problem, but a mathematician offers the game itself.
 > 
-> — *Leonhard Euler* (Mathematics)
+> — *G.H. Hardy* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
