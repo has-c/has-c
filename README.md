@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For everything which is arranged in the universe by a certain natural and fore-ordained law, is adorned and arranged in accordance with number, because the first model, according to which it was ordered, was the reason of numbers existing in the mind of the world's Creator.
+> Mathematics is the queen of the sciences and number theory is the queen of mathematics.
 > 
-> — *Nicomachus of Gerasa* (Number Theory)
+> — *Carl Friedrich Gauss* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
