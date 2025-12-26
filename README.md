@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The reader of this book will find himself confronted by many problems whose solutions seem at first sight to defy discovery, but which, when more closely investigated, turn out to be solvable; he will also find other problems which, though they seem at first sight to admit of solution, prove on closer investigation to be insoluble.
+> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
 > 
-> — *Diophantus* (Number Theory)
+> — *Leonhard Euler* (Mathematics)
 <!-- /DAILY QUOTE -->
