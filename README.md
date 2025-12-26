@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The 'real' mathematics of the 'real' mathematicians, the mathematics of Fermat and Euler and Gauss and Abel and Riemann, is almost wholly 'useless'.
+> Perhaps I could best describe my experience of doing mathematics in terms of entering a dark mansion. You go into the first room, and it's dark, completely dark. You stumble around, knocking into the furniture. Gradually, you learn where each piece of furniture is. And eventually, after six months or so, you find the light switch and turn it on. Suddenly, it's all illuminated, and you can see exactly where you were. Then you move into the next dark room.
 > 
-> — *G.H. Hardy* (Pure Mathematics)
+> — *Andrew Wiles* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
