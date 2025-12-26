@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Either mathematics is too big for the human mind, or the human mind is more than a machine.
+> We are still trying to understand number. It is just a concept, but it is one of the deepest concepts we have.
 > 
-> — *Kurt Gödel* (Mathematical Logic)
+> — *John H. Conway* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
