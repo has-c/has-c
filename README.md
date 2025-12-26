@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is no limit to the problems the analytic art can resolve.
+> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
 > 
-> — *François Viète* (Pure Mathematics)
+> — *Leonhard Euler* (Mathematics)
 <!-- /DAILY QUOTE -->
