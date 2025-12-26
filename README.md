@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Reductio ad absurdum, which Euclid loved so much, is one of a mathematician's finest weapons. It is a far finer gambit than any chess gambit: a chess player may offer a pawn or even a piece for the sake of a problem, but a mathematician offers the game itself.
+> There are many other conjectures in mathematics that depend on the Riemann hypothesis being true, so if it were shown to be false, there would be a lot of collateral damage in the mathematical literature, and a lot of exciting new mathematics would have to be done to figure out how to navigate these new irregular distributions.
 > 
-> — *G.H. Hardy* (Pure Mathematics)
+> — *Terence Tao* (Number Theory)
 <!-- /DAILY QUOTE -->
