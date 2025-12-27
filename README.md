@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We are the slaves of our algorithms.
+> P versus NP asks whether creativity can be automated, or whether hard work always pays off. It's one of the deepest philosophical questions facing science.
 > 
-> — *Norbert Wiener* (Cybernetics and Mathematics)
+> — *Scott Aaronson* (Theoretical Computer Science)
 <!-- /DAILY QUOTE -->
