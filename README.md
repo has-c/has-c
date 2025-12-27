@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I composed this book... containing a compendium of the easiest and most useful rules of calculation... so that thereby the application of them [is] simplified.
+> The difficulty is not so much mechanical as intellectual.
 > 
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
