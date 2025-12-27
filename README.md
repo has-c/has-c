@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine is not merely an arithmetical machine. It can perform other operations besides those of number, if means can be devised to express those operations by means of symbols, and if the intricate arrangements necessary for acting on other than numerical objects, were once made out.
+> The art of programming is the art of organizing complexity, of mastering multitude and intricacy by the introduction of effective abstractions.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *Edsger W. Dijkstra* (Computer Science)
 <!-- /DAILY QUOTE -->
