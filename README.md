@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The P vs. NP problem is about whether the universe would be able to compute everything it wanted to.
+> I composed this book... containing a compendium of the easiest and most useful rules of calculation... so that thereby the application of them [is] simplified.
 > 
-> — *Scott Aaronson* (Theoretical Computer Science)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
