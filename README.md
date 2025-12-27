@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The popular idea that a computer is a machine which calculates sums is a very superficial one. The machine's essential feature is that it can carry out any clearly specified process.
+> P vs. NP is not about whether we can quickly *solve* problems, but whether we can quickly *find* solutions when they exist.
 > 
-> — *Alan Turing* (Computer Science)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
