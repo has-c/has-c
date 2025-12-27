@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
+> The process of preparing programs for a digital computer is an involved and difficult task, requiring the utmost in skill, ingenuity, and care.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *Donald Knuth* (Computer Scientist)
 <!-- /DAILY QUOTE -->
