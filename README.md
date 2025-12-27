@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Analysis is the path from the thing sought, as if it were admitted, through its consequences, to something admitted to be true. Synthesis is the path from something admitted to be true, through its consequences, to the construction or proof of the thing sought.
+> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
 > 
-> — *Pappus of Alexandria* (Mathematics)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
