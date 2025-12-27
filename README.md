@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We may say most aptly that the Analytical Engine weaves algebraic patterns just as the Jacquard-loom weaves flowers and leaves. Here it seems to us that the peculiar and independent nature of the Repetitions, and their combination into a whole, can be expressed with a peculiar beauty of generality.
+> The popular idea that a computer is a machine which calculates sums is a very superficial one. The machine's essential feature is that it can carry out any clearly specified process.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *Alan Turing* (Computer Science)
 <!-- /DAILY QUOTE -->
