@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> P versus NP asks whether creativity can be automated, or whether hard work always pays off. It's one of the deepest philosophical questions facing science.
+> Argument by its nature should be clear and not convoluted.
 > 
-> — *Scott Aaronson* (Theoretical Computer Science)
+> — *Aristotle* (Logician)
 <!-- /DAILY QUOTE -->
