@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> If one has to be more precise, the main conclusion is that high complexity is usually coupled with high stability.
+> To me, the P vs. NP problem isn't just about Turing machines and algorithms; it's about the inherent difficulty of creation versus verification, the asymmetry between finding a needle in a haystack and checking that a given needle is indeed the right one.
 > 
-> — *John von Neumann* (Computer Science)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
