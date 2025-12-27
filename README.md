@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> P vs. NP asks: is finding a solution fundamentally harder than checking one?
+> I have been urged by some friends to write a concise book on calculation by al-jabr and al-muqābala, containing what is simplest and easiest in it, so that people may understand the method of it better than by any other method.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Muḥammad ibn Musa al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
