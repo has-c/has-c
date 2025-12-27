@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The process of preparing programs for a digital computer is an involved and difficult task, requiring the utmost in skill, ingenuity, and care.
+> The whole point of computational complexity is to understand *why* some problems are hard and others are easy, and what this implies about the fundamental limits of computation.
 > 
-> — *Donald Knuth* (Computer Scientist)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
