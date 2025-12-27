@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The science of analysis can take one to any height, provided there is enough time to develop the calculations, but the paths are sometimes so long that a lifetime is not enough to follow them.
+> P vs. NP asks: is finding a solution fundamentally harder than checking one?
 > 
-> — *Gottfried Wilhelm Leibniz* (Mathematician)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
