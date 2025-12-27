@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To me, the P vs. NP problem isn't just about Turing machines and algorithms; it's about the inherent difficulty of creation versus verification, the asymmetry between finding a needle in a haystack and checking that a given needle is indeed the right one.
+> Analysis is the path from the thing sought, as if it were admitted, through its consequences, to something admitted to be true. Synthesis is the path from something admitted to be true, through its consequences, to the construction or proof of the thing sought.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Pappus of Alexandria* (Mathematics)
 <!-- /DAILY QUOTE -->
