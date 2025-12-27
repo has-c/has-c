@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Many persons who have for years been familiar with the ordinary routine of a circle of calculation, are yet quite unable to perceive the mutual relations which, in various ways, may be established between the several processes of which that circle may be composed; or to generalise the abstract principle of any one of such processes, and determine its proper place and dependencies amongst others equally general.
+> We are the slaves of our algorithms.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *Norbert Wiener* (Cybernetics and Mathematics)
 <!-- /DAILY QUOTE -->
