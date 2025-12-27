@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There are many other conjectures in mathematics that depend on the Riemann hypothesis being true, so if it were shown to be false, there would be a lot of collateral damage in the mathematical literature, and a lot of exciting new mathematics would have to be done to figure out how to navigate these new irregular distributions.
+> The science of analysis can take one to any height, provided there is enough time to develop the calculations, but the paths are sometimes so long that a lifetime is not enough to follow them.
 > 
-> — *Terence Tao* (Number Theory)
+> — *Gottfried Wilhelm Leibniz* (Mathematician)
 <!-- /DAILY QUOTE -->
