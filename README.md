@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I have been introduced to the art of the Indians' nine figures, and I have learned how to use them with diligence and care, and how to compose them to get results. Thus I have composed this book, setting forth the entire science of numbers, explaining the method of calculation by these figures, and applying it to various problems.
+> The Analytical Engine is not merely an arithmetical machine. It can perform other operations besides those of number, if means can be devised to express those operations by means of symbols, and if the intricate arrangements necessary for acting on other than numerical objects, were once made out.
 > 
-> — *Leonardo Fibonacci* (Mathematician)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
