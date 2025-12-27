@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Argument by its nature should be clear and not convoluted.
+> We may say most aptly that the Analytical Engine weaves algebraic patterns just as the Jacquard-loom weaves flowers and leaves. Here it seems to us that the peculiar and independent nature of the Repetitions, and their combination into a whole, can be expressed with a peculiar beauty of generality.
 > 
-> — *Aristotle* (Logician)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
