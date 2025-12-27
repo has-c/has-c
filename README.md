@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The difficulty is not so much mechanical as intellectual.
+> If one has to be more precise, the main conclusion is that high complexity is usually coupled with high stability.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *John von Neumann* (Computer Science)
 <!-- /DAILY QUOTE -->
