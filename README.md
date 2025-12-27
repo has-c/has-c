@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The art of programming is the art of organizing complexity, of mastering multitude and intricacy by the introduction of effective abstractions.
+> The P vs. NP problem is about whether the universe would be able to compute everything it wanted to.
 > 
-> — *Edsger W. Dijkstra* (Computer Science)
+> — *Scott Aaronson* (Theoretical Computer Science)
 <!-- /DAILY QUOTE -->
