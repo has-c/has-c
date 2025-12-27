@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> P vs. NP is not about whether we can quickly *solve* problems, but whether we can quickly *find* solutions when they exist.
+> I have been introduced to the art of the Indians' nine figures, and I have learned how to use them with diligence and care, and how to compose them to get results. Thus I have composed this book, setting forth the entire science of numbers, explaining the method of calculation by these figures, and applying it to various problems.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Leonardo Fibonacci* (Mathematician)
 <!-- /DAILY QUOTE -->
