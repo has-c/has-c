@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All models are wrong, but some are useful.
+> Probability is not really about numbers; it is about our state of knowledge.
 > 
-> — *George E.P. Box* (Statistician)
+> — *Andrew Gelman* (Statistics)
 <!-- /DAILY QUOTE -->
