@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Correlation does not imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.
+> It is the property of the true astronomer to use everything which, when applied with reason, shows agreement with the observed things of the heavens.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Claudius Ptolemy* (Astronomy)
 <!-- /DAILY QUOTE -->
