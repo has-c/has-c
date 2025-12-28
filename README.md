@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most important questions of life are, for the most part, really only problems of probability.
+> To consult the statistician after an experiment is finished is often merely to ask him to perform a post-mortem examination: he can perhaps say what the experiment died of.
 > 
-> — *Carl Friedrich Gauss* (Mathematician)
+> — *Ronald Fisher* (Statistics)
 <!-- /DAILY QUOTE -->
