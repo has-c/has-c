@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The more numerous the individuals observed, the more do individual peculiarities disappear, and allow the general facts which depend on the constant causes, to become prominent.
+> To consult a statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps tell you what the experiment died of.
 > 
-> — *Adolphe Quetelet* (Statistics)
+> — *R.A. Fisher* (Statistics)
 <!-- /DAILY QUOTE -->
