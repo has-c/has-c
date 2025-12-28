@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most fundamental principle of all in gambling is to consider the entire circuit, and how many ways the desired results can happen, and to compare these with the whole number of possible outcomes.
+> The more numerous the individuals observed, the more do individual peculiarities disappear, and allow the general facts which depend on the constant causes, to become prominent.
 > 
-> — *Gerolamo Cardano* (Mathematician)
+> — *Adolphe Quetelet* (Statistics)
 <!-- /DAILY QUOTE -->
