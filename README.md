@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Probability is not really about numbers; it is about our state of knowledge.
+> For it is clear that if two equal forces meet, then neither one is more powerful than the other; so also with two equal chances.
 > 
-> — *Andrew Gelman* (Statistics)
+> — *Gerolamo Cardano* (Mathematics)
 <!-- /DAILY QUOTE -->
