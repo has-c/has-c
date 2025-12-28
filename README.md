@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The whole point of computational complexity is to understand *why* some problems are hard and others are easy, and what this implies about the fundamental limits of computation.
+> The theory of probabilities is at bottom nothing but common sense reduced to calculation; it makes us appreciate with exactitude what reasonable minds feel by a sort of instinct, often without being able to account for it.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Pierre-Simon Laplace* (Mathematician)
 <!-- /DAILY QUOTE -->
