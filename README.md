@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Unless you have a theory about the data, the data will have a theory about you.
+> The most fundamental principle of all in gambling is to consider the entire circuit, and how many ways the desired results can happen, and to compare these with the whole number of possible outcomes.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
