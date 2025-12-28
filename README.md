@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The theory of probabilities is at bottom nothing but common sense reduced to calculation; it makes us appreciate with exactitude what reasonable minds feel by a sort of instinct, often without being able to account for it.
+> Probability is not a crystal ball, but a disciplined way of accounting for uncertainty.
 > 
-> — *Pierre-Simon Laplace* (Mathematician)
+> — *David Spiegelhalter* (Statistician)
 <!-- /DAILY QUOTE -->
