@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To consult the statistician after an experiment is finished is often merely to ask him to perform a post-mortem examination: he can perhaps say what the experiment died of.
+> Unless you have a theory about the data, the data will have a theory about you.
 > 
-> — *Ronald Fisher* (Statistics)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
