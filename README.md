@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Probability is not a crystal ball, but a disciplined way of accounting for uncertainty.
+> So the method of playing consists in understanding the nature of things, and in rightly calculating the chances, and so gambling in accordance with the probability.
 > 
-> — *David Spiegelhalter* (Statistician)
+> — *Girolamo Cardano* (Mathematics)
 <!-- /DAILY QUOTE -->
