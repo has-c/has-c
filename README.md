@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To understand God's thoughts, we must study statistics, for these are the measure of His purpose.
+> All models are wrong, but some are useful.
 > 
-> — *Florence Nightingale* (Statistician)
+> — *George E.P. Box* (Statistician)
 <!-- /DAILY QUOTE -->
