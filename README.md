@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The data alone are not enough to infer causality. We need assumptions, and those assumptions must come from somewhere beyond the data.
+> The entire circuit of games of chance is reduced to a single method, that is, that we consider the whole number of possible ways and the number of ways that are favorable to us.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
