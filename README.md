@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To consult a statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps tell you what the experiment died of.
+> Correlation does not imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.
 > 
-> — *R.A. Fisher* (Statistics)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
