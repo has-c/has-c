@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is difficult to understand why statisticians commonly limit their inquiries to Averages, and do not revel in Variation.
+> Probabilities are not facts. They are expressions of what we know.
 > 
-> — *Francis Galton* (Statistician)
+> — *Jerzy Neyman* (Statistics)
 <!-- /DAILY QUOTE -->
