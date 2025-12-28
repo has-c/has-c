@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Probability is common sense reduced to calculation.
+> Statistical inference is not a mechanical rule but a matter of judgment based on experience and knowledge.
 > 
-> — *Pierre-Simon Laplace* (Mathematics and Statistics)
+> — *Abraham Wald* (Statistics)
 <!-- /DAILY QUOTE -->
