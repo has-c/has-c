@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For it is clear that if two equal forces meet, then neither one is more powerful than the other; so also with two equal chances.
+> It is difficult to understand why statisticians commonly limit their inquiries to Averages, and do not revel in Variation.
 > 
-> — *Gerolamo Cardano* (Mathematics)
+> — *Francis Galton* (Statistician)
 <!-- /DAILY QUOTE -->
