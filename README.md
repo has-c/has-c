@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The entire circuit of games of chance is reduced to a single method, that is, that we consider the whole number of possible ways and the number of ways that are favorable to us.
+> The most important questions of life are, for the most part, really only problems of probability.
 > 
-> — *Gerolamo Cardano* (Mathematician)
+> — *Carl Friedrich Gauss* (Mathematician)
 <!-- /DAILY QUOTE -->
