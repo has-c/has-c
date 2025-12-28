@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> So the method of playing consists in understanding the nature of things, and in rightly calculating the chances, and so gambling in accordance with the probability.
+> Probability is common sense reduced to calculation.
 > 
-> — *Girolamo Cardano* (Mathematics)
+> — *Pierre-Simon Laplace* (Mathematics and Statistics)
 <!-- /DAILY QUOTE -->
