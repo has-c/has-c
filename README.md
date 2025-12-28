@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is the property of the true astronomer to use everything which, when applied with reason, shows agreement with the observed things of the heavens.
+> To understand God's thoughts, we must study statistics, for these are the measure of His purpose.
 > 
-> — *Claudius Ptolemy* (Astronomy)
+> — *Florence Nightingale* (Statistician)
 <!-- /DAILY QUOTE -->
