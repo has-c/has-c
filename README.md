@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Statistical inference is not a mechanical rule but a matter of judgment based on experience and knowledge.
+> The data alone are not enough to infer causality. We need assumptions, and those assumptions must come from somewhere beyond the data.
 > 
-> — *Abraham Wald* (Statistics)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
