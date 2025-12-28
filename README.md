@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Probabilities are not facts. They are expressions of what we know.
+> Uncertainty is not just a lack of knowledge, but a fundamental characteristic of the world.
 > 
-> — *Jerzy Neyman* (Statistics)
+> — *David Spiegelhalter* (Statistics)
 <!-- /DAILY QUOTE -->
