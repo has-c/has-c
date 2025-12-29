@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Thus if controversies were to arise, there would be no more need of disputation between two philosophers than between two accountants. For it would suffice for them to take their pens into their hands, to sit down to their slates, and to say to one other (with a friend as witness, if they liked): Let us calculate!
+> A proof is an argument that convinces a skeptical reader.
 > 
-> — *Gottfried Wilhelm Leibniz* (Mathematician)
+> — *Leslie Lamport* (Computer Science)
 <!-- /DAILY QUOTE -->
