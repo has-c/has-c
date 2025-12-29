@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not at all unlikely that the human mind, in its operations, far surpasses any finite automaton.
+> Data alone is not enough to understand cause and effect.
 > 
-> — *Kurt Gödel* (Mathematics)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
