@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematical proof is a social construct. It is a story that convinces a human reader, not an algorithm that verifies a claim.
+> The object of geometry is the knowledge of the eternal.
 > 
-> — *Leslie Lamport* (Computer Science)
+> — *Plato* (Philosopher)
 <!-- /DAILY QUOTE -->
