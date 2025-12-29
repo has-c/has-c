@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For the definition of truth itself or of a semantically closed language, a method essentially richer than that of the language itself is indispensable.
+> Mathematical proof is a social construct. It is a story that convinces a human reader, not an algorithm that verifies a claim.
 > 
-> — *Alfred Tarski* (Mathematician)
+> — *Leslie Lamport* (Computer Science)
 <!-- /DAILY QUOTE -->
