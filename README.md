@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematical rigour is not about being pedantic; it's about being robust.
+> It is impossible for the same thing at the same time to belong and not to belong to the same thing in the same respect.
 > 
-> — *Terence Tao* (Mathematics)
+> — *Aristotle* (Logician)
 <!-- /DAILY QUOTE -->
