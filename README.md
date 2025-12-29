@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two faculties, which we may call intuition and ingenuity.
+> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 > 
-> — *Alan Turing* (Computer Scientist)
+> — *Edsger W. Dijkstra* (Computer Science)
 <!-- /DAILY QUOTE -->
