@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Data alone is not enough to understand cause and effect.
+> All mathematical propositions must be derived from principles, and demonstrated by reasoning; for a science, that does not proceed from principles, is no science.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Proclus* (Mathematician and Philosopher)
 <!-- /DAILY QUOTE -->
