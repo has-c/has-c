@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is impossible for the same thing at the same time to belong and not to belong to the same thing in the same respect.
+> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
 > 
-> — *Aristotle* (Logician)
+> — *George Boole* (Mathematics)
 <!-- /DAILY QUOTE -->
