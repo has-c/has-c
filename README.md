@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
+> The very possibility of developing the deductive method and of solving the central problems of logic and of the methodology of deductive sciences depends entirely on a correct and adequately justified solution of the problem of defining truth.
 > 
-> — *George Boole* (Mathematics)
+> — *Alfred Tarski* (Mathematical Logic)
 <!-- /DAILY QUOTE -->
