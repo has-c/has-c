@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A small inaccuracy at the start will make a great inaccuracy at the end.
+> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
 > 
-> — *Aristotle* (Logician)
+> — *George Boole* (Mathematical Logic)
 <!-- /DAILY QUOTE -->
