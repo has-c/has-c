@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The very possibility of developing the deductive method and of solving the central problems of logic and of the methodology of deductive sciences depends entirely on a correct and adequately justified solution of the problem of defining truth.
+> Mathematical rigour is not about being pedantic; it's about being robust.
 > 
-> — *Alfred Tarski* (Mathematical Logic)
+> — *Terence Tao* (Mathematics)
 <!-- /DAILY QUOTE -->
