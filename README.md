@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The laws which are investigated in the following treatise are the mathematical expression of those laws of thought which form the basis of all reasoning.
+> Pure mathematics consists of propositions to the effect that if such and such a proposition is true of anything, then such and such another proposition is true of that thing. It is essential not to discuss whether the first proposition is really true, and not to mention what the anything is of which it is supposed to be true.
 > 
-> — *George Boole* (Mathematician, Logician)
+> — *Bertrand Russell* (Mathematician and Logician)
 <!-- /DAILY QUOTE -->
