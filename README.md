@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
+> It is not at all unlikely that the human mind, in its operations, far surpasses any finite automaton.
 > 
-> — *George Boole* (Mathematical Logic)
+> — *Kurt Gödel* (Mathematics)
 <!-- /DAILY QUOTE -->
