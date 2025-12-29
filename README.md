@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A proof is an argument that convinces a skeptical reader.
+> A small inaccuracy at the start will make a great inaccuracy at the end.
 > 
-> — *Leslie Lamport* (Computer Science)
+> — *Aristotle* (Logician)
 <!-- /DAILY QUOTE -->
