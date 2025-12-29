@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is no royal road to geometry.
+> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
 > 
-> — *Euclid* (Mathematics)
+> — *George Boole* (Mathematics)
 <!-- /DAILY QUOTE -->
