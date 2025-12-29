@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
+> For the definition of truth itself or of a semantically closed language, a method essentially richer than that of the language itself is indispensable.
 > 
-> — *George Boole* (Mathematics)
+> — *Alfred Tarski* (Mathematician)
 <!-- /DAILY QUOTE -->
