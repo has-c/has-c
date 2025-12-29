@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Uncertainty is not just a lack of knowledge, but a fundamental characteristic of the world.
+> Thus if controversies were to arise, there would be no more need of disputation between two philosophers than between two accountants. For it would suffice for them to take their pens into their hands, to sit down to their slates, and to say to one other (with a friend as witness, if they liked): Let us calculate!
 > 
-> — *David Spiegelhalter* (Statistics)
+> — *Gottfried Wilhelm Leibniz* (Mathematician)
 <!-- /DAILY QUOTE -->
