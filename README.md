@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All mathematical propositions must be derived from principles, and demonstrated by reasoning; for a science, that does not proceed from principles, is no science.
+> The laws which are investigated in the following treatise are the mathematical expression of those laws of thought which form the basis of all reasoning.
 > 
-> — *Proclus* (Mathematician and Philosopher)
+> — *George Boole* (Mathematician, Logician)
 <!-- /DAILY QUOTE -->
