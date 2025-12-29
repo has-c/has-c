@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The object of geometry is the knowledge of the eternal.
+> The sole way to rectify our reasonings is to make them as tangible as those of the mathematicians, so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate, without further ado, to see who is right.
 > 
-> — *Plato* (Philosopher)
+> — *Gottfried Wilhelm Leibniz* (Mathematician)
 <!-- /DAILY QUOTE -->
