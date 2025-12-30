@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry is the knowledge of the eternally existent.
+> Although this question is trivial, yet its solution contains something that is not devoid of interest, for it is something quite new in geometry, namely, analysis situs.
 > 
-> — *Proclus* (Mathematician and Philosopher)
+> — *Leonhard Euler* (Mathematics)
 <!-- /DAILY QUOTE -->
