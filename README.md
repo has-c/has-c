@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I am becoming more and more convinced that the necessity of our geometry cannot be demonstrated, at least not by human reason nor for human understanding. Perhaps in another life we shall arrive at different insights into the nature of space which are now inaccessible to us.
+> Topology, for me, is the true mathematics, the mathematics of what is real.
 > 
-> — *Carl Friedrich Gauss* (Differential Geometry)
+> — *Solomon Lefschetz* (Topology)
 <!-- /DAILY QUOTE -->
