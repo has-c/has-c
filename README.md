@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is geometry in the humming of the strings, there is music in the spacing of the spheres.
+> I am more and more convinced that the necessity of our geometry cannot be proved, at least not by human intellect nor for human intellect. Perhaps in another life we shall gain insight into the nature of space which is now entirely inaccessible to us.
 > 
-> — *Pythagoras* (Mathematician)
+> — *Carl Friedrich Gauss* (Mathematics)
 <!-- /DAILY QUOTE -->
