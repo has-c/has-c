@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The problem of space is the central problem of mathematics and physics.
+> The study of three-dimensional manifolds provides a grand synthesis of geometry, topology, and group theory. Often, the most fruitful way to understand the topology of a manifold is to put a geometry on it.
 > 
-> — *Hermann Weyl* (Geometry and Mathematical Physics)
+> — *William P. Thurston* (Geometric Topology)
 <!-- /DAILY QUOTE -->
