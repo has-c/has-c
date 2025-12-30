@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is always a mistake to try to reduce a multi-dimensional subject to a one-dimensional path.
+> Perspective is a most subtle invention, which, by means of lines, makes a plane appear to be in relief and at a distance.
 > 
-> — *William P. Thurston* (Geometry and Topology)
+> — *Leonardo da Vinci* (Geometry)
 <!-- /DAILY QUOTE -->
