@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> This type of problem seems to me to be quite distinct from geometry, inasmuch as geometry is concerned with magnitudes, whereas here it is only position that is considered; and it is precisely this that makes this solution all the more interesting, for it appears that a new species of geometry is unfolding here.
+> The mathematical world is essentially qualitative, not quantitative.
 > 
-> — *Leonhard Euler* (Mathematics)
+> — *René Thom* (Mathematics)
 <!-- /DAILY QUOTE -->
