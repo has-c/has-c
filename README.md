@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> My personal credo is that geometry plays a role in mathematics similar to that of experiment in the natural sciences.
+> There is geometry in the humming of the strings, there is music in the spacing of the spheres.
 > 
-> — *Mikhail Gromov* (Mathematics)
+> — *Pythagoras* (Mathematician)
 <!-- /DAILY QUOTE -->
