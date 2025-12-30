@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The geometer does not, like the natural philosopher, handle his subject as one subject to generation and corruption, but as eternal and immaterial.
+> This type of problem seems to me to be quite distinct from geometry, inasmuch as geometry is concerned with magnitudes, whereas here it is only position that is considered; and it is precisely this that makes this solution all the more interesting, for it appears that a new species of geometry is unfolding here.
 > 
-> — *Proclus* (Mathematician and Philosopher)
+> — *Leonhard Euler* (Mathematics)
 <!-- /DAILY QUOTE -->
