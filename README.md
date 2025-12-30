@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometric propositions are not derivable from general analytic notions, but that the properties which distinguish space from other thinkable three-fold extended magnitudes are only to be gathered from experience.
+> The problem of space is the central problem of mathematics and physics.
 > 
-> — *Bernhard Riemann* (Mathematics)
+> — *Hermann Weyl* (Geometry and Mathematical Physics)
 <!-- /DAILY QUOTE -->
