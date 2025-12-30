@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A lot of mathematics is about finding the 'right' definitions, the 'right' way to phrase a concept, so that it becomes evident what its properties are and how it relates to other concepts. This is often a geometric rather than an algebraic task, involving a great deal of visualization and intuition.
+> Geometry is the knowledge of the eternally existent.
 > 
-> — *Terence Tao* (Mathematics)
+> — *Proclus* (Mathematician and Philosopher)
 <!-- /DAILY QUOTE -->
