@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I am more and more convinced that the necessity of our geometry cannot be proved, at least not by human intellect nor for human intellect. Perhaps in another life we shall gain insight into the nature of space which is now entirely inaccessible to us.
+> Geometry is the art of reasoning well on badly drawn figures.
 > 
-> — *Carl Friedrich Gauss* (Mathematics)
+> — *Henri Poincaré* (Mathematician)
 <!-- /DAILY QUOTE -->
