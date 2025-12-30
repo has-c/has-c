@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The mathematical world is essentially qualitative, not quantitative.
+> Mathematics is a science of language. It describes the shapes and transformations of the universe. It's about ideas that connect very different things.
 > 
-> — *René Thom* (Mathematics)
+> — *Mikhail Gromov* (Geometry and Topology)
 <!-- /DAILY QUOTE -->
