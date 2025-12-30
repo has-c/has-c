@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics is a science of language. It describes the shapes and transformations of the universe. It's about ideas that connect very different things.
+> God always geometrizes.
 > 
-> — *Mikhail Gromov* (Geometry and Topology)
+> — *Plato* (Mathematics)
 <!-- /DAILY QUOTE -->
