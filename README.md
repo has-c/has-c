@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Although this question is trivial, yet its solution contains something that is not devoid of interest, for it is something quite new in geometry, namely, analysis situs.
+> The ultimate object of study for geometry is the qualitative behavior of singularities.
 > 
-> — *Leonhard Euler* (Mathematics)
+> — *René Thom* (Mathematics)
 <!-- /DAILY QUOTE -->
