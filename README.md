@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The ultimate object of study for geometry is the qualitative behavior of singularities.
+> It is always a mistake to try to reduce a multi-dimensional subject to a one-dimensional path.
 > 
-> — *René Thom* (Mathematics)
+> — *William P. Thurston* (Geometry and Topology)
 <!-- /DAILY QUOTE -->
