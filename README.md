@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry, in my view, is not so much about the shapes of objects, but about relations between them.
+> The geometer does not, like the natural philosopher, handle his subject as one subject to generation and corruption, but as eternal and immaterial.
 > 
-> — *Mikhail Gromov* (Geometric Analysis)
+> — *Proclus* (Mathematician and Philosopher)
 <!-- /DAILY QUOTE -->
