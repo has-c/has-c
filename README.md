@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Topology, for me, is the true mathematics, the mathematics of what is real.
+> A lot of mathematics is about finding the 'right' definitions, the 'right' way to phrase a concept, so that it becomes evident what its properties are and how it relates to other concepts. This is often a geometric rather than an algebraic task, involving a great deal of visualization and intuition.
 > 
-> — *Solomon Lefschetz* (Topology)
+> — *Terence Tao* (Mathematics)
 <!-- /DAILY QUOTE -->
