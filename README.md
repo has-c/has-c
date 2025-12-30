@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The question of the validity of the assumptions of geometry in the infinitely small is bound up with the question of the inner ground of the metric relations of space.
+> My personal credo is that geometry plays a role in mathematics similar to that of experiment in the natural sciences.
 > 
-> — *Bernhard Riemann* (Geometry)
+> — *Mikhail Gromov* (Mathematics)
 <!-- /DAILY QUOTE -->
