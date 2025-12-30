@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry is the art of reasoning well on badly drawn figures.
+> Geometry, in my view, is not so much about the shapes of objects, but about relations between them.
 > 
-> — *Henri Poincaré* (Mathematician)
+> — *Mikhail Gromov* (Geometric Analysis)
 <!-- /DAILY QUOTE -->
