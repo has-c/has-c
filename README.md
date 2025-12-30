@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> The question of the validity of the assumptions of geometry in the infinitely small is bound up with the question of the inner ground of the metric relations of space.
 > 
-> — *Edsger W. Dijkstra* (Computer Science)
+> — *Bernhard Riemann* (Geometry)
 <!-- /DAILY QUOTE -->
