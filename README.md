@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> God always geometrizes.
+> I am becoming more and more convinced that the necessity of our geometry cannot be demonstrated, at least not by human reason nor for human understanding. Perhaps in another life we shall arrive at different insights into the nature of space which are now inaccessible to us.
 > 
-> — *Plato* (Mathematics)
+> — *Carl Friedrich Gauss* (Differential Geometry)
 <!-- /DAILY QUOTE -->
