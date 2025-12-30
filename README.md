@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Perspective is a most subtle invention, which, by means of lines, makes a plane appear to be in relief and at a distance.
+> Geometric propositions are not derivable from general analytic notions, but that the properties which distinguish space from other thinkable three-fold extended magnitudes are only to be gathered from experience.
 > 
-> — *Leonardo da Vinci* (Geometry)
+> — *Bernhard Riemann* (Mathematics)
 <!-- /DAILY QUOTE -->
