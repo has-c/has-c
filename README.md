@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain.
+> You are not going to get a machine to think like a person until it can answer 'what if' questions.
 > 
-> — *Alan Turing* (Computer Scientist)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
