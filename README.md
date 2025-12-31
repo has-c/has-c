@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The machine learning community has largely ignored the problem of causality because they were busy doing something else that worked pretty well, which is prediction.
+> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
