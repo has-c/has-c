@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
+> The Analytical Engine has no pretensions whatever to originate anything. It can only do whatever we know how to order it to perform. It can follow analysis; but it has no power of anticipating any analytical truths or relations.
 > 
 > — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
