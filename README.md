@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the language of a Calculus.
+> The machine, like the sorcerer's apprentice, may well be on the way to getting out of human control.
 > 
-> — *George Boole* (Mathematician)
+> — *Norbert Wiener* (Mathematics)
 <!-- /DAILY QUOTE -->
