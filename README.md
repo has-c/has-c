@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The next frontier for AI will be to equip machines with the ability to ask 'why?' – to understand causes and effects, not just correlations.
+> You don't understand anything until you learn it more than one way.
 > 
-> — *Judea Pearl* (Computer Scientist)
+> — *Marvin Minsky* (Artificial Intelligence)
 <!-- /DAILY QUOTE -->
