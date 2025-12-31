@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Data alone is not enough. We need to teach machines to understand cause and effect.
+> The question is not whether intelligent machines can have emotions, but whether machines can be intelligent without emotions.
 > 
-> — *Judea Pearl* (Computer Scientist)
+> — *Marvin Minsky* (Computer Scientist)
 <!-- /DAILY QUOTE -->
