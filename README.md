@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The ability to ask 'what if' questions, to ponder the consequences of alternative actions, to explain why things happened, and to render informed decisions is the essence of human intelligence. And these are precisely the capabilities that we wish to impart to AI.
+> It is now our task to describe and to explain the universal art which is generally useful for the discovery of truth, the acquisition of knowledge, and for resolving all doubts about the nature of any given subject, be it speculative or practical.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Ramon Llull* (Philosopher and logician)
 <!-- /DAILY QUOTE -->
