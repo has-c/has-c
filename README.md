@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers... At some stage therefore, we should have to expect the machines to take control.
+> The machine learning community has largely ignored the problem of causality because they were busy doing something else that worked pretty well, which is prediction.
 > 
-> — *Alan Turing* (Computer Scientist)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
