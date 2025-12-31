@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> You are smarter than your data. Data do not know answers; they only know frequencies.
+> By means of this Art, it is possible for a person who has not studied logic nevertheless to argue logically and truly.
 > 
-> — *Judea Pearl* (Artificial Intelligence)
+> — *Ramon Llull* (Logician)
 <!-- /DAILY QUOTE -->
