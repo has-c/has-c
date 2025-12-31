@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is now our task to describe and to explain the universal art which is generally useful for the discovery of truth, the acquisition of knowledge, and for resolving all doubts about the nature of any given subject, be it speculative or practical.
+> To investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the language of a Calculus.
 > 
-> — *Ramon Llull* (Philosopher and logician)
+> — *George Boole* (Mathematician)
 <!-- /DAILY QUOTE -->
