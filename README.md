@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The study of three-dimensional manifolds provides a grand synthesis of geometry, topology, and group theory. Often, the most fruitful way to understand the topology of a manifold is to put a geometry on it.
+> We may regard the present state of the universe as the effect of its antecedent state and as the cause of the state that is to follow. An intelligence which at a given moment would know all the forces that animate nature, and the respective situation of the beings that compose it, if moreover it were vast enough to submit these data to analysis, would embrace in the same formula the movements of the greatest bodies of the universe and those of the lightest atom: for such an intelligence, nothing would be uncertain, and the future, as well as the past, would be present to its eyes.
 > 
-> — *William P. Thurston* (Geometric Topology)
+> — *Pierre-Simon Laplace* (Mathematician)
 <!-- /DAILY QUOTE -->
