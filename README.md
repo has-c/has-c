@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> You don't understand anything until you learn it more than one way.
+> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform. It can follow analysis; but it has no power of anticipating any analytical relations or truths.
 > 
-> — *Marvin Minsky* (Artificial Intelligence)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
