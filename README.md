@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain.
+> You are smarter than your data. Data do not know answers; they only know frequencies.
 > 
-> — *Alan Turing* (Computer Scientist)
+> — *Judea Pearl* (Artificial Intelligence)
 <!-- /DAILY QUOTE -->
