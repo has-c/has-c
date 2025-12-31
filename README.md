@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We may regard the present state of the universe as the effect of its antecedent state and as the cause of the state that is to follow. An intelligence which at a given moment would know all the forces that animate nature, and the respective situation of the beings that compose it, if moreover it were vast enough to submit these data to analysis, would embrace in the same formula the movements of the greatest bodies of the universe and those of the lightest atom: for such an intelligence, nothing would be uncertain, and the future, as well as the past, would be present to its eyes.
+> The next frontier for AI will be to equip machines with the ability to ask 'why?' – to understand causes and effects, not just correlations.
 > 
-> — *Pierre-Simon Laplace* (Mathematician)
+> — *Judea Pearl* (Computer Scientist)
 <!-- /DAILY QUOTE -->
