@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The machine, like the sorcerer's apprentice, may well be on the way to getting out of human control.
+> Data alone is not enough. We need to teach machines to understand cause and effect.
 > 
-> — *Norbert Wiener* (Mathematics)
+> — *Judea Pearl* (Computer Scientist)
 <!-- /DAILY QUOTE -->
