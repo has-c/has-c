@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain.
+> The ability to ask 'what if' questions, to ponder the consequences of alternative actions, to explain why things happened, and to render informed decisions is the essence of human intelligence. And these are precisely the capabilities that we wish to impart to AI.
 > 
-> — *Alan Turing* (Computer Science)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
