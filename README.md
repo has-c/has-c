@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, would embrace in a single formula the movements of the greatest bodies of the universe and those of the smallest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
+> Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain.
 > 
-> — *Pierre-Simon Laplace* (Mathematician)
+> — *Alan Turing* (Computer Scientist)
 <!-- /DAILY QUOTE -->
