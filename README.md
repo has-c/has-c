@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The more you simplify the machine, the more complex the program usually becomes.
+> If P equals NP, then the world would be a profoundly different place than we usually assume it to be. There would be no special creativity, no fundamental gap between knowing and doing.
 > 
-> — *John von Neumann* (Mathematician)
+> — *Scott Aaronson* (Theoretical Computer Science)
 <!-- /DAILY QUOTE -->
