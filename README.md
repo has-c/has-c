@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> If P equals NP, then the world would be a profoundly different place than we usually assume it to be. There would be no special creativity, no fundamental gap between knowing and doing.
+> There is no royal road to geometry.
 > 
-> — *Scott Aaronson* (Theoretical Computer Science)
+> — *Euclid* (Mathematics)
 <!-- /DAILY QUOTE -->
