@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All these come under the same head, and are treated by the same methods.
+> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
 > 
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
+> — *Ada Lovelace* (Mathematics)
 <!-- /DAILY QUOTE -->
