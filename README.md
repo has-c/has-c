@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is possible to invent a single machine which can be used to compute any computable sequence.
+> If P equals NP, then the world would be a profoundly different place than we usually assume it to be. There would be no special value in 'creative leaps', no fundamental gap between solving a problem and recognizing the solution once it's found.
 > 
-> — *Alan Turing* (Computer Science)
+> — *Scott Aaronson* (Theoretical Computer Science)
 <!-- /DAILY QUOTE -->
