@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
+> The central, irreducible philosophical insight of theoretical computer science is simply this: there are limits to what can be efficiently computed. And understanding those limits is as important as understanding what *can* be computed.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
