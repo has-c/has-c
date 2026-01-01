@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The computing scientist's main challenge is not to build bigger and faster computers, but to design programs that can cope with the complexity of the problems that these computers are meant to solve.
+> Algorithms are not just recipes; they are hypotheses about the computational structure of the universe.
 > 
-> — *Edsger W. Dijkstra* (Computer Scientist)
+> — *Christos Papadimitriou* (Computer Science)
 <!-- /DAILY QUOTE -->
