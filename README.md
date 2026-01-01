@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Analysis, taking that which is sought as granted, tracks back through its consequences to a known truth. Synthesis, starting from a known truth, builds forward through consequences to the conclusion desired.
+> Its great object is to afford the most extensive and important calculations with the least possible intellectual exertion, and with the greatest possible economy of time.
 > 
-> — *Pappus of Alexandria* (Mathematician)
+> — *Charles Babbage* (Mathematician and Inventor)
 <!-- /DAILY QUOTE -->
