@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Its great object is to afford the most extensive and important calculations with the least possible intellectual exertion, and with the greatest possible economy of time.
+> The more you simplify the machine, the more complex the program usually becomes.
 > 
-> — *Charles Babbage* (Mathematician and Inventor)
+> — *John von Neumann* (Mathematician)
 <!-- /DAILY QUOTE -->
