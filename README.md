@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The only way to rectify our reasonings is to make them as tangible as those of the mathematicians, so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate, without further ado, to see who is right.
+> The computing scientist's main challenge is not to build bigger and faster computers, but to design programs that can cope with the complexity of the problems that these computers are meant to solve.
 > 
-> — *Gottfried Wilhelm Leibniz* (Mathematician)
+> — *Edsger W. Dijkstra* (Computer Scientist)
 <!-- /DAILY QUOTE -->
