@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
+> The results of my paper *On formally undecidable propositions of Principia Mathematica and related systems I* seem to have a more general significance which, however, I cannot yet quite explain.
 > 
-> — *Ada Lovelace* (Mathematics)
+> — *Kurt Gödel* (Mathematician)
 <!-- /DAILY QUOTE -->
