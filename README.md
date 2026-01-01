@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Algorithms are not just recipes; they are hypotheses about the computational structure of the universe.
+> All these come under the same head, and are treated by the same methods.
 > 
-> — *Christos Papadimitriou* (Computer Science)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
