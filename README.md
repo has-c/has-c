@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The mathematical language of the central nervous system is not the language of numbers but that of convergent programming.
+> The P versus NP problem is really asking whether creativity can be automated. That is, whether every problem whose solution can be quickly verified can also be quickly found.
 > 
-> — *John von Neumann* (Computer Scientist)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
