@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The P versus NP problem is really asking whether creativity can be automated. That is, whether every problem whose solution can be quickly verified can also be quickly found.
+> There is no royal road to geometry.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Euclid* (Mathematics)
 <!-- /DAILY QUOTE -->
