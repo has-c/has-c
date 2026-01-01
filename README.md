@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The results of my paper *On formally undecidable propositions of Principia Mathematica and related systems I* seem to have a more general significance which, however, I cannot yet quite explain.
+> If P does not equal NP, then the world is a much more interesting place, for it implies a fundamental asymmetry: that finding a solution often requires genuine creativity, beyond merely checking one.
 > 
-> — *Kurt Gödel* (Mathematician)
+> — *Scott Aaronson* (Computational Complexity Theory)
 <!-- /DAILY QUOTE -->
