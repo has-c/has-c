@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The central, irreducible philosophical insight of theoretical computer science is simply this: there are limits to what can be efficiently computed. And understanding those limits is as important as understanding what *can* be computed.
+> I saw that it was useful to compose a concise book about it, including what is most easy and most useful in arithmetic.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
