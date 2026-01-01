@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> If P does not equal NP, then the world is a much more interesting place, for it implies a fundamental asymmetry: that finding a solution often requires genuine creativity, beyond merely checking one.
+> Analysis, taking that which is sought as granted, tracks back through its consequences to a known truth. Synthesis, starting from a known truth, builds forward through consequences to the conclusion desired.
 > 
-> — *Scott Aaronson* (Computational Complexity Theory)
+> — *Pappus of Alexandria* (Mathematician)
 <!-- /DAILY QUOTE -->
