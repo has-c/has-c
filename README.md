@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I saw that it was useful to compose a concise book about it, including what is most easy and most useful in arithmetic.
+> The Analytical Engine might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations, and which should be also susceptible of adaptations to the action of the operating notation and mechanism of the Engine.
 > 
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
