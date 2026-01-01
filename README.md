@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
+> It is possible to invent a single machine which can be used to compute any computable sequence.
 > 
-> — *Ada Lovelace* (Mathematician)
+> — *Alan Turing* (Computer Science)
 <!-- /DAILY QUOTE -->
