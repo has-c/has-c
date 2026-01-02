@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> So there is one general rule, namely, that we should consider the whole circuit, and the number of ways in which the favorable chances can occur.
+> The more observations that are collected, the more do individual differences disappear, and allow the general facts, which are the aim of all science, to become manifest.
 > 
-> — *Gerolamo Cardano* (Mathematics)
+> — *Adolphe Quetelet* (Statistician)
 <!-- /DAILY QUOTE -->
