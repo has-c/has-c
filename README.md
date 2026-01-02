@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To consult a statistician after an experiment is finished is often merely to ask him to perform a postmortem examination. He can perhaps tell you what the experiment died of.
+> The core idea is that we think about causation in a three-level hierarchy. The bottom level is just pure statistics, pure association: 'What if I see that…?' The second level is 'What if I do that…?' The third level is 'What if I had done that…?' — counterfactuals.
 > 
-> — *Ronald Fisher* (Statistician)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
