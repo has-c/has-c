@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The theory of probability is an attempt to measure degrees of belief in a rational way.
+> The dirty little secret of statistics is that there's not one right answer; there's a range of reasonable answers, and the job of the statistician is to explore that range.
 > 
-> — *Harold Jeffreys* (Statistician)
+> — *Andrew Gelman* (Statistics)
 <!-- /DAILY QUOTE -->
