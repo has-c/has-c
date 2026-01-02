@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> So there is one general rule, namely, that we should compare the whole circuit and the number of particular throws, and see how much the one exceeds the other; then the ratio, as I teach elsewhere, indicates the proportion.
+> The more numerous the individuals observed, the more do individual peculiarities disappear, and allow the general facts, by which society exists and is preserved, to become manifest.
 > 
-> — *Gerolamo Cardano* (Mathematics)
+> — *Adolphe Quetelet* (Statistician)
 <!-- /DAILY QUOTE -->
