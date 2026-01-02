@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Probability theory is but a syntax for encoding beliefs, not a calculus for discovering them.
+> The greatest error of all is to believe that fortune is blind.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
