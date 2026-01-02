@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> If we take any two arbitrary magnitudes, it is probable that they are incommensurable.
+> The curve described by a simple molecule of air or vapor is regulated in a manner just as certain as the planetary orbits; the only difference between them is that which comes from our ignorance.
 > 
-> — *Nicole Oresme* (Mathematician)
+> — *Pierre-Simon Laplace* (Mathematics)
 <!-- /DAILY QUOTE -->
