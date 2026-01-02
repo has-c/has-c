@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Causality is in the mind, not in the data.
+> So there is one general rule, namely, that we should compare the whole circuit and the number of particular throws, and see how much the one exceeds the other; then the ratio, as I teach elsewhere, indicates the proportion.
 > 
-> — *Donald Rubin* (Statistics)
+> — *Gerolamo Cardano* (Mathematics)
 <!-- /DAILY QUOTE -->
