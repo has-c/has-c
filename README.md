@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The more numerous the individuals observed, the more do individual peculiarities disappear, and allow the general facts, by which society exists and is preserved, to become manifest.
+> Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
 > 
-> — *Adolphe Quetelet* (Statistician)
+> — *John von Neumann* (Computer Scientist)
 <!-- /DAILY QUOTE -->
