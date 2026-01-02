@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Although Chance produces Irregularities, yet the Flux of them is not altogether void of Regularity; but on the contrary, the most constant Order is to be observed in it; and, that in proportion to the great number of Co-incidences, so will the regularity be more or less accurately observed.
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
 > 
-> — *Abraham de Moivre* (Probability)
+> — *John W. Tukey* (Statistics)
 <!-- /DAILY QUOTE -->
