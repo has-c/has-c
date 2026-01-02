@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The more observations that are collected, the more do individual differences disappear, and allow the general facts, which are the aim of all science, to become manifest.
+> The theory of probability is an attempt to measure degrees of belief in a rational way.
 > 
-> — *Adolphe Quetelet* (Statistician)
+> — *Harold Jeffreys* (Statistician)
 <!-- /DAILY QUOTE -->
