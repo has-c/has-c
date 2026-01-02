@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Probability is composed partly of the ignorance we have of the causes of the phenomena and partly of the knowledge we have of them.
+> To consult a statistician after an experiment is finished is often merely to ask him to perform a postmortem examination. He can perhaps tell you what the experiment died of.
 > 
-> — *Pierre-Simon Laplace* (Probability Theory)
+> — *Ronald Fisher* (Statistician)
 <!-- /DAILY QUOTE -->
