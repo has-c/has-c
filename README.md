@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Statistical literacy is not about being good at sums, it's about being good at uncertainty.
+> But there is one general rule, namely, that we should deduct from the sum of the whole circuit the number of ways in which the throw can fail, and the remainder is the number of ways in which it can happen.
 > 
-> — *David Spiegelhalter* (Statistics)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
