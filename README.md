@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> If P equals NP, then the world would be a profoundly different place than we usually assume it to be. There would be no special value in 'creative leaps', no fundamental gap between solving a problem and recognizing the solution once it's found.
+> It is seen that the theory of probabilities is at bottom only common sense expressed in numbers; it makes us appreciate with exactitude what reasonable minds feel by a sort of instinct, often without being able to give a reason for it.
 > 
-> — *Scott Aaronson* (Theoretical Computer Science)
+> — *Pierre-Simon Laplace* (Mathematics)
 <!-- /DAILY QUOTE -->
