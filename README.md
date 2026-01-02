@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is seen that the theory of probabilities is at bottom only common sense expressed in numbers; it makes us appreciate with exactitude what reasonable minds feel by a sort of instinct, often without being able to give a reason for it.
+> Probability theory is but a syntax for encoding beliefs, not a calculus for discovering them.
 > 
-> — *Pierre-Simon Laplace* (Mathematics)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
