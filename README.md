@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The greatest error of all is to believe that fortune is blind.
+> Although Chance produces Irregularities, yet the Flux of them is not altogether void of Regularity; but on the contrary, the most constant Order is to be observed in it; and, that in proportion to the great number of Co-incidences, so will the regularity be more or less accurately observed.
 > 
-> — *Gerolamo Cardano* (Mathematician)
+> — *Abraham de Moivre* (Probability)
 <!-- /DAILY QUOTE -->
