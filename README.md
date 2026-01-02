@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
+> Causality is in the mind, not in the data.
 > 
-> — *John W. Tukey* (Statistics)
+> — *Donald Rubin* (Statistics)
 <!-- /DAILY QUOTE -->
