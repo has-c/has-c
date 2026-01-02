@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Data are dumb. They don't know where they came from and what they mean.
+> So there is one general rule, namely, that we should consider the whole circuit, and the number of ways in which the favorable chances can occur.
 > 
-> — *Judea Pearl* (Computer Scientist)
+> — *Gerolamo Cardano* (Mathematics)
 <!-- /DAILY QUOTE -->
