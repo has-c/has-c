@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> But there is one general rule, namely, that we should deduct from the sum of the whole circuit the number of ways in which the throw can fail, and the remainder is the number of ways in which it can happen.
+> Probability is composed partly of the ignorance we have of the causes of the phenomena and partly of the knowledge we have of them.
 > 
-> — *Gerolamo Cardano* (Mathematician)
+> — *Pierre-Simon Laplace* (Probability Theory)
 <!-- /DAILY QUOTE -->
