@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
+> Statistical literacy is not about being good at sums, it's about being good at uncertainty.
 > 
-> — *John von Neumann* (Computer Scientist)
+> — *David Spiegelhalter* (Statistics)
 <!-- /DAILY QUOTE -->
