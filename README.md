@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The core idea is that we think about causation in a three-level hierarchy. The bottom level is just pure statistics, pure association: 'What if I see that…?' The second level is 'What if I do that…?' The third level is 'What if I had done that…?' — counterfactuals.
+> If we take any two arbitrary magnitudes, it is probable that they are incommensurable.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Nicole Oresme* (Mathematician)
 <!-- /DAILY QUOTE -->
