@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I have no doubt that they have made me wiser, but I have not been able to find a firm basis for them.
+> A set is a Many that allows itself to be thought of as a One.
 > 
-> — *Omar Khayyam* (Mathematician)
+> — *Georg Cantor* (Mathematics)
 <!-- /DAILY QUOTE -->
