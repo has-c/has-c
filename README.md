@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is one of the chief objects of the following treatise to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the language of a Calculus, and upon this foundation to establish the science of Logic and construct its method; to make that method itself an object of scientific inquiry; to discover its essential principles and to demonstrate its consistency and completeness.
+> The logical structure of automata, in particular the existence of self-reproducing automata, shows that complexity does not necessarily imply design, but can arise from simple logical rules.
 > 
-> — *George Boole* (Mathematician)
+> — *John von Neumann* (Computer Science)
 <!-- /DAILY QUOTE -->
