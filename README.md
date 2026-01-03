@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> When a truth is necessary, its reason can be found by analysis, resolving it into simpler ideas and truths until the primitive ones are reached.
+> Mathematics, you see, is the subject in which we never know what we are talking about, nor whether what we are saying is true.
 > 
-> — *Gottfried Wilhelm Leibniz* (Mathematics, Philosophy, Logic)
+> — *Bertrand Russell* (Mathematical Logic)
 <!-- /DAILY QUOTE -->
