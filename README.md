@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most important results in theoretical computer science, I think, are the impossibility results. Not what you can compute, but what you can't.
+> I have no doubt that they have made me wiser, but I have not been able to find a firm basis for them.
 > 
-> — *Scott Aaronson* (Computer Science)
+> — *Omar Khayyam* (Mathematician)
 <!-- /DAILY QUOTE -->
