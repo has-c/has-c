@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> My art is like a tree which has leaves and flowers and fruits, but the root is logic.
+> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
 > 
-> — *Raymond Lull* (Logician)
+> — *George Boole* (Mathematician)
 <!-- /DAILY QUOTE -->
