@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ### Writing
 
 I write about data, ML, and markets on Substack:
