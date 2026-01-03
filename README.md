@@ -6,8 +6,7 @@
 
 ### What I Love To Do
 
-🔬 Build ML systems & data pipelines  
-🚀 Build systems that have business impacts
+🔬 Build intelligent ML systems & data pipelines  
 
 ---
 
