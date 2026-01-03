@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics, you see, is the subject in which we never know what we are talking about, nor whether what we are saying is true.
+> Science is what we understand well enough to explain to a computer. Art is everything else.
 > 
-> — *Bertrand Russell* (Mathematical Logic)
+> — *Donald Knuth* (Computer Science)
 <!-- /DAILY QUOTE -->
