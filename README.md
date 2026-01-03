@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not of the essence of mathematics to be conversant with the ideas of number and quantity.
+> The true reason for the incompleteness of all formal systems of mathematics is that the formation of the next higher type of concepts (e.g., of 'truth' for a given formalism) always requires the use of a new, more powerful formalism.
 > 
-> — *George Boole* (Mathematician)
+> — *Kurt Gödel* (Mathematical Logic)
 <!-- /DAILY QUOTE -->
