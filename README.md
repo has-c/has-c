@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The result of my work is that the axiomatic method has certain inherent limitations, which cannot be overcome by purely formal means.
+> Science is what we understand well enough to explain to a computer. Art is everything else.
 > 
-> — *Kurt Gödel* (Mathematician)
+> — *Donald Knuth* (Computer Science)
 <!-- /DAILY QUOTE -->
