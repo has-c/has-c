@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The dirty little secret of statistics is that there's not one right answer; there's a range of reasonable answers, and the job of the statistician is to explore that range.
+> It is not of the essence of mathematics to be conversant with the ideas of number and quantity. Its fundamental conceptions are those of relation and operation, of which the ideas of number and quantity are but particular forms.
 > 
-> — *Andrew Gelman* (Statistics)
+> — *George Boole* (Mathematics)
 <!-- /DAILY QUOTE -->
