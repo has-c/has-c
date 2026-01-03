@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Science is what we understand well enough to explain to a computer. Art is everything else.
+> My art is like a tree which has leaves and flowers and fruits, but the root is logic.
 > 
-> — *Donald Knuth* (Computer Science)
+> — *Raymond Lull* (Logician)
 <!-- /DAILY QUOTE -->
