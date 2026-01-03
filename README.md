@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Science is what we understand well enough to explain to a computer. Art is everything else.
+> Every demonstrative science must start from indemonstrable principles; otherwise, the steps of proof would be infinite.
 > 
-> — *Donald Knuth* (Computer Science)
+> — *Aristotle* (Philosopher)
 <!-- /DAILY QUOTE -->
