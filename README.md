@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The logical structure of automata, in particular the existence of self-reproducing automata, shows that complexity does not necessarily imply design, but can arise from simple logical rules.
+> The most important results in theoretical computer science, I think, are the impossibility results. Not what you can compute, but what you can't.
 > 
-> — *John von Neumann* (Computer Science)
+> — *Scott Aaronson* (Computer Science)
 <!-- /DAILY QUOTE -->
