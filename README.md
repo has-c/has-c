@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Every demonstrative science must start from indemonstrable principles; otherwise, the steps of proof would be infinite.
+> When a truth is necessary, its reason can be found by analysis, resolving it into simpler ideas and truths until the primitive ones are reached.
 > 
-> — *Aristotle* (Philosopher)
+> — *Gottfried Wilhelm Leibniz* (Mathematics, Philosophy, Logic)
 <!-- /DAILY QUOTE -->
