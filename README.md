@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The secret to understanding causality is not to be found in the data itself but in the models we impose on the data.
+> All instruction given or received by way of argument proceeds from pre-existent knowledge.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Aristotle* (Logician)
 <!-- /DAILY QUOTE -->
