@@ -2,8 +2,8 @@ name: Update Daily Quote
 
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs daily at 8am NZT (20:00 UTC previous day)
+    - cron: '0 20 * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -33,3 +33,4 @@ jobs:
           git add README.md
           git diff --staged --quiet || git commit -m "Update daily quote [skip ci]"
           git push
+
