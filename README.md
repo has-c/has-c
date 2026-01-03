@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A set is a Many that allows itself to be thought of as a One.
+> The result of my work is that the axiomatic method has certain inherent limitations, which cannot be overcome by purely formal means.
 > 
-> — *Georg Cantor* (Mathematics)
+> — *Kurt Gödel* (Mathematician)
 <!-- /DAILY QUOTE -->
