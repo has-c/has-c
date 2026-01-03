@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not of the essence of mathematics to be conversant with the ideas of number and quantity. Its fundamental conceptions are those of relation and operation, of which the ideas of number and quantity are but particular forms.
+> The secret to understanding causality is not to be found in the data itself but in the models we impose on the data.
 > 
-> — *George Boole* (Mathematics)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
