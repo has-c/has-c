@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The true reason for the incompleteness of all formal systems of mathematics is that the formation of the next higher type of concepts (e.g., of 'truth' for a given formalism) always requires the use of a new, more powerful formalism.
+> The language of causality is the most essential ingredient for true artificial intelligence.
 > 
-> — *Kurt Gödel* (Mathematical Logic)
+> — *Judea Pearl* (Computer Science)
 <!-- /DAILY QUOTE -->
