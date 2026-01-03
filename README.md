@@ -29,7 +29,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The language of causality is the most essential ingredient for true artificial intelligence.
+> Mathematics makes the soul familiar with what is in itself stable, ever-abiding, and intelligible, and brings it up from the consideration of becoming and perishing to the contemplation of being and the eternal.
 > 
-> — *Judea Pearl* (Computer Science)
+> — *Proclus* (Mathematician)
 <!-- /DAILY QUOTE -->
