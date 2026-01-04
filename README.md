@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics makes the soul familiar with what is in itself stable, ever-abiding, and intelligible, and brings it up from the consideration of becoming and perishing to the contemplation of being and the eternal.
+> Geometry, you know, is the knowledge of the eternally existent.
 > 
-> — *Proclus* (Mathematician)
+> — *Plato* (Philosopher)
 <!-- /DAILY QUOTE -->
