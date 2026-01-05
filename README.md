@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry, you know, is the knowledge of the eternally existent.
+> For if every instrument could accomplish its own work, obeying or anticipating the will of others... then chief workmen would not want servants, nor masters slaves.
 > 
-> — *Plato* (Philosopher)
+> — *Aristotle* (Philosopher and Logician)
 <!-- /DAILY QUOTE -->
