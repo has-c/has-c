@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For if every instrument could accomplish its own work, obeying or anticipating the will of others... then chief workmen would not want servants, nor masters slaves.
+> We ought not to be ashamed to admit the truth and to acquire it from wherever it comes, even if it comes from nations and races remote from us. For the seeker of truth there is nothing of higher value than truth itself.
 > 
-> — *Aristotle* (Philosopher and Logician)
+> — *Al-Kindi* (Polymath)
 <!-- /DAILY QUOTE -->
