@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We ought not to be ashamed to admit the truth and to acquire it from wherever it comes, even if it comes from nations and races remote from us. For the seeker of truth there is nothing of higher value than truth itself.
+> There are two modes of knowledge, namely by argumentation and experience. Argumentation concludes and forces us to concede the conclusion, but it neither makes the conclusion certain, nor does it remove doubt so that the mind may rest in the intuition of truth, unless the mind discovers it by the path of experience.
 > 
-> — *Al-Kindi* (Polymath)
+> — *Roger Bacon* (Natural Philosophy)
 <!-- /DAILY QUOTE -->
