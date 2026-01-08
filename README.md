@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There are two modes of knowledge, namely by argumentation and experience. Argumentation concludes and forces us to concede the conclusion, but it neither makes the conclusion certain, nor does it remove doubt so that the mind may rest in the intuition of truth, unless the mind discovers it by the path of experience.
+> The Art is nothing else than an abbreviation of the whole of human knowledge, where a few principles are given by means of which all knowable things can be discovered.
 > 
-> — *Roger Bacon* (Natural Philosophy)
+> — *Ramon Llull* (Logician)
 <!-- /DAILY QUOTE -->
