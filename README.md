@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Art is nothing else than an abbreviation of the whole of human knowledge, where a few principles are given by means of which all knowable things can be discovered.
+> The duty of the man who investigates the writings of scientists, if learning the truth is his goal, is to become an enemy of all that he reads, and... to question it from every side... His criticism of it must be founded on proofs and demonstrations, not on the likes of the belief of a person in a given statement because of its author's greatness.
 > 
-> — *Ramon Llull* (Logician)
+> — *Ibn al-Haytham* (Physics and Mathematics)
 <!-- /DAILY QUOTE -->
