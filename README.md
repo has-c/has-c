@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The duty of the man who investigates the writings of scientists, if learning the truth is his goal, is to become an enemy of all that he reads, and... to question it from every side... His criticism of it must be founded on proofs and demonstrations, not on the likes of the belief of a person in a given statement because of its author's greatness.
+> Arithmetic has a very great and elevating effect, compelling the soul to reason about abstract number, and rebelling against the introduction of visible or tangible objects into the argument.
 > 
-> — *Ibn al-Haytham* (Physics and Mathematics)
+> — *Plato* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
