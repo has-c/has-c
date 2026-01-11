@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Arithmetic has a very great and elevating effect, compelling the soul to reason about abstract number, and rebelling against the introduction of visible or tangible objects into the argument.
+> Analysis is the path from what is sought to something already known; for we assume what is sought as found, and inquire from what it follows, and again what is the antecedent of that.
 > 
-> — *Plato* (Pure Mathematics)
+> — *Pappus of Alexandria* (Mathematician)
 <!-- /DAILY QUOTE -->
