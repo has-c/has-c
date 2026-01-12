@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Analysis is the path from what is sought to something already known; for we assume what is sought as found, and inquire from what it follows, and again what is the antecedent of that.
+> It is beyond the power of any human being to ensure that his observations and experiments are entirely free from error.
 > 
-> — *Pappus of Alexandria* (Mathematician)
+> — *Al-Biruni* (Mathematician)
 <!-- /DAILY QUOTE -->
