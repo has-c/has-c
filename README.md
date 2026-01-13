@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is beyond the power of any human being to ensure that his observations and experiments are entirely free from error.
+> The most certain of all principles is that contradictories cannot be true at the same time.
 > 
-> — *Al-Biruni* (Mathematician)
+> — *Aristotle* (Logician)
 <!-- /DAILY QUOTE -->
