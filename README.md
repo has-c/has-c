@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most certain of all principles is that contradictories cannot be true at the same time.
+> There is no royal road to geometry.
 > 
-> — *Aristotle* (Logician)
+> — *Euclid* (Geometry)
 <!-- /DAILY QUOTE -->
