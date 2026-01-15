@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is no royal road to geometry.
+> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
 > 
-> — *Euclid* (Geometry)
+> — *Ada Lovelace* (Mathematics)
 <!-- /DAILY QUOTE -->
