@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
+> I have devised a new method of writing that is so secret that not even the most astute and diligent enemy could discern its meaning without my instruction.
 > 
-> — *Ada Lovelace* (Mathematics)
+> — *Leone Battista Alberti* (Mathematician)
 <!-- /DAILY QUOTE -->
