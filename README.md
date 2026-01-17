@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I have devised a new method of writing that is so secret that not even the most astute and diligent enemy could discern its meaning without my instruction.
+> Experience is the sole interpreter of nature.
 > 
-> — *Leone Battista Alberti* (Mathematician)
+> — *Leonardo da Vinci* (Mathematician)
 <!-- /DAILY QUOTE -->
