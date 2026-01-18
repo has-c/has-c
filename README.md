@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Experience is the sole interpreter of nature.
+> Architecture depends on Order, Arrangement, Eurythmy, Symmetry, Propriety, and Economy.
 > 
-> — *Leonardo da Vinci* (Mathematician)
+> — *Vitruvius* (Architect and Engineer)
 <!-- /DAILY QUOTE -->
