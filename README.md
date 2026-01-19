@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Architecture depends on Order, Arrangement, Eurythmy, Symmetry, Propriety, and Economy.
+> Mechanics is the paradise of the mathematical sciences, because by means of it one comes to the fruits of mathematics.
 > 
-> — *Vitruvius* (Architect and Engineer)
+> — *Leonardo da Vinci* (Engineer and Mathematician)
 <!-- /DAILY QUOTE -->
