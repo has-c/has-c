@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mechanics is the paradise of the mathematical sciences, because by means of it one comes to the fruits of mathematics.
+> The arithmetical art has a very great and elevating effect, compelling the soul to reason about abstract number, and rebelling against the introduction of visible or tangible objects into the argument.
 > 
-> — *Leonardo da Vinci* (Engineer and Mathematician)
+> — *Plato* (Philosophy of Mathematics)
 <!-- /DAILY QUOTE -->
