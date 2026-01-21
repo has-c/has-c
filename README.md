@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The arithmetical art has a very great and elevating effect, compelling the soul to reason about abstract number, and rebelling against the introduction of visible or tangible objects into the argument.
+> By means of such concise and powerful methods as to be readily understood by every person, at the same time that they will possess all the requisites of calculation.
 > 
-> — *Plato* (Philosophy of Mathematics)
+> — *Al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
