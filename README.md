@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> By means of such concise and powerful methods as to be readily understood by every person, at the same time that they will possess all the requisites of calculation.
+> It is very rarely that a player wins or loses beyond expectation, but not so rarely that he wins or loses much less or much more than expectation.
 > 
-> — *Al-Khwarizmi* (Mathematics)
+> — *Gerolamo Cardano* (Mathematics (Probability Theory))
 <!-- /DAILY QUOTE -->
