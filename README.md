@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is very rarely that a player wins or loses beyond expectation, but not so rarely that he wins or loses much less or much more than expectation.
+> There is no royal road to geometry.
 > 
-> — *Gerolamo Cardano* (Mathematics (Probability Theory))
+> — *Euclid* (Mathematician)
 <!-- /DAILY QUOTE -->
