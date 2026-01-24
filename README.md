@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is no royal road to geometry.
+> Geometry, which is co-eternal with God and splendidly shines in the human mind, provides the very best images of the universe.
 > 
-> — *Euclid* (Mathematician)
+> — *Johannes Kepler* (Mathematician)
 <!-- /DAILY QUOTE -->
