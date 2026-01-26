@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Through this art, one can arrive at the knowledge of all truths.
+> The constant patterns within language betray all attempts at concealment.
 > 
-> — *Ramon Llull* (Mathematician)
+> — *Al-Kindi* (Mathematician)
 <!-- /DAILY QUOTE -->
