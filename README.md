@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The constant patterns within language betray all attempts at concealment.
+> We should also endeavour to represent the motions of the heavenly bodies by the simplest hypotheses, provided always that these hypotheses are not contradicted by the observations.
 > 
-> — *Al-Kindi* (Mathematician)
+> — *Claudius Ptolemy* (Astronomy)
 <!-- /DAILY QUOTE -->
