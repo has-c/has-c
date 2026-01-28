@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We should also endeavour to represent the motions of the heavenly bodies by the simplest hypotheses, provided always that these hypotheses are not contradicted by the observations.
+> Experimental science has three great prerogatives over all other sciences: it verifies conclusions by experiment, discovers truths impossible by other methods, and solves the secrets of the future.
 > 
-> — *Claudius Ptolemy* (Astronomy)
+> — *Roger Bacon* (Philosopher, Scientist)
 <!-- /DAILY QUOTE -->
