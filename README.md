@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Experimental science has three great prerogatives over all other sciences: it verifies conclusions by experiment, discovers truths impossible by other methods, and solves the secrets of the future.
+> Mathematics is the gate and key of the sciences... Neglect of mathematics works injury to all knowledge, since he who is ignorant of it cannot know the other sciences or the things of the world.
 > 
-> — *Roger Bacon* (Philosopher, Scientist)
+> — *Roger Bacon* (Mathematics)
 <!-- /DAILY QUOTE -->
