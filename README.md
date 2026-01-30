@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics is the gate and key of the sciences... Neglect of mathematics works injury to all knowledge, since he who is ignorant of it cannot know the other sciences or the things of the world.
+> All things, whatsoever exist in the world, whether natural or artificial, are ordered and arranged by virtue of number, which is the source and root of all things.
 > 
-> — *Roger Bacon* (Mathematics)
+> — *Nicomachus of Gerasa* (Mathematics (Number Theory))
 <!-- /DAILY QUOTE -->
