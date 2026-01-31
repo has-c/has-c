@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All things, whatsoever exist in the world, whether natural or artificial, are ordered and arranged by virtue of number, which is the source and root of all things.
+> The Art is not merely for knowing, but also for doing.
 > 
-> — *Nicomachus of Gerasa* (Mathematics (Number Theory))
+> — *Ramon Llull* (Philosopher, logician)
 <!-- /DAILY QUOTE -->
