@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Art is not merely for knowing, but also for doing.
+> All things happen by chance, but some things more frequently than others.
 > 
-> — *Ramon Llull* (Philosopher, logician)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
