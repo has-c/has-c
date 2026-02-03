@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All things happen by chance, but some things more frequently than others.
+> Geometry is the knowledge of the eternally existent.
 > 
-> — *Gerolamo Cardano* (Mathematician)
+> — *Proclus* (Philosopher and Mathematician)
 <!-- /DAILY QUOTE -->
