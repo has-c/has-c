@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry is the knowledge of the eternally existent.
+> The soul never thinks without a mental image.
 > 
-> — *Proclus* (Philosopher and Mathematician)
+> — *Aristotle* (Logician & Philosopher)
 <!-- /DAILY QUOTE -->
