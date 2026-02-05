@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The soul never thinks without a mental image.
+> By this manner of writing, the script becomes not merely obscure, but entirely unreadable, unless the key be known.
 > 
-> — *Aristotle* (Logician & Philosopher)
+> — *Leon Battista Alberti* (Mathematician)
 <!-- /DAILY QUOTE -->
