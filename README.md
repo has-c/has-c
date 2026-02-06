@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> By this manner of writing, the script becomes not merely obscure, but entirely unreadable, unless the key be known.
+> The duty of the man who studies the books of the scientists, if his aim is the truth, is to make himself an enemy of all that he reads, and, applying his mind to the text from every angle, to attack it in every way possible. He should also suspect himself as he performs his critical examination of it, so that he may avoid falling into either prejudice or leniency.
 > 
-> — *Leon Battista Alberti* (Mathematician)
+> — *Ibn al-Haytham* (Mathematician)
 <!-- /DAILY QUOTE -->
