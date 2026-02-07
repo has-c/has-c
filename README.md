@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The duty of the man who studies the books of the scientists, if his aim is the truth, is to make himself an enemy of all that he reads, and, applying his mind to the text from every angle, to attack it in every way possible. He should also suspect himself as he performs his critical examination of it, so that he may avoid falling into either prejudice or leniency.
+> A perfect architect ought to observe, first, that no part of the whole work is neglected; secondly, that all the parts are in their proper places; thirdly, that everything is prepared and ready for use; fourthly, that the work be done in due time; and lastly, that nothing be wanting to the finishing of it, so that the edifice may be strong, fair, and commodious.
 > 
-> — *Ibn al-Haytham* (Mathematician)
+> — *Roger Bacon* (Mathematician)
 <!-- /DAILY QUOTE -->
