@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A perfect architect ought to observe, first, that no part of the whole work is neglected; secondly, that all the parts are in their proper places; thirdly, that everything is prepared and ready for use; fourthly, that the work be done in due time; and lastly, that nothing be wanting to the finishing of it, so that the edifice may be strong, fair, and commodious.
+> Give me a place to stand, and I shall move the Earth.
 > 
-> — *Roger Bacon* (Mathematician)
+> — *Archimedes* (Physics)
 <!-- /DAILY QUOTE -->
