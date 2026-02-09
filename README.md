@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Give me a place to stand, and I shall move the Earth.
+> For mathematics is the science of all being insofar as it is capable of being numbered or measured.
 > 
-> — *Archimedes* (Physics)
+> — *Proclus* (Mathematics and Philosophy)
 <!-- /DAILY QUOTE -->
