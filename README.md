@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For mathematics is the science of all being insofar as it is capable of being numbered or measured.
+> There is no royal road to geometry.
 > 
-> — *Proclus* (Mathematics and Philosophy)
+> — *Euclid* (Mathematics)
 <!-- /DAILY QUOTE -->
