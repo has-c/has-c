@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is likely that many things happen contrary to likelihood.
+> There is no royal road to geometry.
 > 
-> — *Aristotle* (Logician)
+> — *Euclid* (Mathematics)
 <!-- /DAILY QUOTE -->
