@@ -28,5 +28,5 @@ Connect with me on LinkedIn:
 <!-- DAILY QUOTE -->
 > There is no royal road to geometry.
 > 
-> — *Euclid* (Mathematics)
+> — *Euclid* (Geometry)
 <!-- /DAILY QUOTE -->
