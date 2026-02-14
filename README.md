@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is no royal road to geometry.
+> The Art is a science of combination, by means of which one can come to understand the truth of any subject, and refute any error.
 > 
-> — *Euclid* (Geometry)
+> — *Ramon Llull* (Logician)
 <!-- /DAILY QUOTE -->
