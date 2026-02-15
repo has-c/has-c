@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Art is a science of combination, by means of which one can come to understand the truth of any subject, and refute any error.
+> I have contrived a method for writing ciphers which, though it may seem very obscure and difficult to those who do not know the key, yet to those who have it, it is most easy and certain to read.
 > 
-> — *Ramon Llull* (Logician)
+> — *Leon Battista Alberti* (Cryptography)
 <!-- /DAILY QUOTE -->
