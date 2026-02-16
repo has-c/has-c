@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I have contrived a method for writing ciphers which, though it may seem very obscure and difficult to those who do not know the key, yet to those who have it, it is most easy and certain to read.
+> We must not be surprised if it does not prove possible to produce agreements to the last degree between the numerical computations and the observed phenomena; it is sufficient, provided that a difference of only a very small amount appears, which one would reasonably attribute to the inevitable inaccuracy of the observations, or of the measuring instruments.
 > 
-> — *Leon Battista Alberti* (Cryptography)
+> — *Ptolemy* (Astronomy)
 <!-- /DAILY QUOTE -->
