@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We must not be surprised if it does not prove possible to produce agreements to the last degree between the numerical computations and the observed phenomena; it is sufficient, provided that a difference of only a very small amount appears, which one would reasonably attribute to the inevitable inaccuracy of the observations, or of the measuring instruments.
+> I have done my utmost to make it easily intelligible and brief, at the same time giving it a clear, full exposition.
 > 
-> — *Ptolemy* (Astronomy)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematician)
 <!-- /DAILY QUOTE -->
