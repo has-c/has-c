@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I have done my utmost to make it easily intelligible and brief, at the same time giving it a clear, full exposition.
+> For if a man had the surest foundations of the sciences, and had the most perfect instruments, but had not experience, he could not know anything, nor could he make any progress.
 > 
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematician)
+> — *Roger Bacon* (Natural Philosopher)
 <!-- /DAILY QUOTE -->
