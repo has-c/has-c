@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For if a man had the surest foundations of the sciences, and had the most perfect instruments, but had not experience, he could not know anything, nor could he make any progress.
+> Among all things that exist and are named, numbers alone possess a nature that is fixed and unchangeable, everywhere the same, not diminished by time, nor augmented by place, nor altered by any motion.
 > 
-> — *Roger Bacon* (Natural Philosopher)
+> — *Boethius* (Mathematics)
 <!-- /DAILY QUOTE -->
