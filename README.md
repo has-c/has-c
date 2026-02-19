@@ -22,14 +22,6 @@ Connect with me on LinkedIn:
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=has-c&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=has-c&layout=compact&hide_border=true)
-
----
-
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
