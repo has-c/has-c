@@ -1,10 +1,31 @@
 #!/usr/bin/env python3
 import json
 import re
+import time
 import urllib.request
-import urllib.error
 import os
 from datetime import datetime
+
+HISTORY_FILE = '.github/data/quote_history.json'
+HISTORY_MAX = 50  # Number of quotes to remember for deduplication
+
+
+def load_history():
+    try:
+        with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def save_history(history, quote, author):
+    os.makedirs(os.path.dirname(HISTORY_FILE), exist_ok=True)
+    history.append({"quote_start": quote[:60], "author": author})
+    history = history[-HISTORY_MAX:]
+    with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+        json.dump(history, f, indent=2, ensure_ascii=False)
+    return history
+
 
 # Fetch quote from Gemini API
 api_key = os.environ.get('GEMINI_API_KEY')
@@ -12,6 +33,10 @@ if not api_key:
     raise ValueError("GEMINI_API_KEY secret is not set")
 
 url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+
+# Load quote history to avoid repeats
+history = load_history()
+recent_authors = list({entry['author'] for entry in history[-20:]})
 
 # Generate a unique seed based on current time for variety
 current_time = datetime.now()
@@ -41,13 +66,17 @@ eras = [
 ]
 era = eras[current_time.hour % len(eras)]
 
+avoid_clause = ""
+if recent_authors:
+    avoid_clause = f"\n- DO NOT use quotes from these recently used authors: {', '.join(recent_authors)}"
+
 prompt = f"""Generate a unique, thought-provoking quote from a mathematician, statistician, or computer scientist.
 
 REQUIREMENTS FOR VARIETY:
 - Focus on: {theme}
 - Prefer authors from: {era} era
 - The quote should be genuinely insightful, not a cliché
-- Pick real, verifiable quotes ALWAYS
+- Pick real, verifiable quotes ALWAYS{avoid_clause}
 
 Format your response as valid JSON with exactly these fields:
 {{
@@ -71,43 +100,57 @@ payload = json.dumps({
 
 headers = {"Content-Type": "application/json"}
 
-try:
-    req = urllib.request.Request(url, data=payload, headers=headers, method='POST')
-    with urllib.request.urlopen(req) as response:
-        data = json.loads(response.read().decode('utf-8'))
-    
-    # Extract text from Gemini response
-    text = data['candidates'][0]['content']['parts'][0]['text'].strip()
-    
-    # Remove markdown code blocks if present
-    text = re.sub(r'```json\s*', '', text)
-    text = re.sub(r'```\s*', '', text)
-    text = text.strip()
-    
-    # Parse JSON
-    try:
-        quote_data = json.loads(text)
-    except json.JSONDecodeError:
-        # Try to extract JSON object from text
-        json_match = re.search(r'\{[^{}]*(?:\{[^{}]*\}[^{}]*)*\}', text)
-        if json_match:
-            quote_data = json.loads(json_match.group())
-        else:
-            quote_data = {
-                "quote": "No quote found",
-                "author": "System",
-                "field": "error"
-            }
-    
-    quote = quote_data.get('quote', 'No quote found')
-    author = quote_data.get('author', 'Unknown')
-    field = quote_data.get('field', 'unknown')
+quote = None
+author = None
+field = None
 
-except Exception as e:
-    print(f"Error fetching quote: {e}")
-    quote = "No quote found"
-    author = "System"
-    field = "error"
+MAX_RETRIES = 3
+for attempt in range(MAX_RETRIES):
+    try:
+        req = urllib.request.Request(url, data=payload, headers=headers, method='POST')
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode('utf-8'))
+
+        # Extract text from Gemini response
+        text = data['candidates'][0]['content']['parts'][0]['text'].strip()
+
+        # Remove markdown code blocks if present
+        text = re.sub(r'```json\s*', '', text)
+        text = re.sub(r'```\s*', '', text)
+        text = text.strip()
+
+        # Parse JSON
+        try:
+            quote_data = json.loads(text)
+        except json.JSONDecodeError:
+            # Try to extract JSON object from text
+            json_match = re.search(r'\{[^{}]*(?:\{[^{}]*\}[^{}]*)*\}', text)
+            if json_match:
+                quote_data = json.loads(json_match.group())
+            else:
+                raise ValueError(f"Could not parse JSON from response: {text[:200]}")
+
+        quote = quote_data.get('quote', '').strip()
+        author = quote_data.get('author', '').strip()
+        field = quote_data.get('field', '').strip()
+
+        if not quote or not author:
+            raise ValueError(f"Incomplete quote data: {quote_data}")
+
+        save_history(history, quote, author)
+        break  # Success
+
+    except Exception as e:
+        print(f"Attempt {attempt + 1}/{MAX_RETRIES} failed: {e}")
+        if attempt < MAX_RETRIES - 1:
+            wait = 2 ** attempt
+            print(f"Retrying in {wait}s...")
+            time.sleep(wait)
+        else:
+            print("All retries exhausted, using fallback.")
+            quote = "The purpose of computing is insight, not numbers."
+            author = "Richard Hamming"
+            field = "Mathematics"
 
 # Read README
 with open('README.md', 'r', encoding='utf-8') as f:
@@ -116,7 +159,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 # Create quote section with closing marker
 quote_section = f"""<!-- DAILY QUOTE -->
 > {quote}
-> 
+>
 > — *{author}* ({field})
 <!-- /DAILY QUOTE -->"""
 
@@ -138,5 +181,4 @@ else:
 with open('README.md', 'w', encoding='utf-8') as f:
     f.write(new_content)
 
-print("README updated successfully!")
-
+print(f"README updated successfully! Quote by {author}.")
