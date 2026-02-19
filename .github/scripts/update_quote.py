@@ -3,7 +3,6 @@ import json
 import re
 import time
 import urllib.request
-import urllib.error
 import os
 from datetime import datetime
 
@@ -138,6 +137,7 @@ for attempt in range(MAX_RETRIES):
         if not quote or not author:
             raise ValueError(f"Incomplete quote data: {quote_data}")
 
+        save_history(history, quote, author)
         break  # Success
 
     except Exception as e:
@@ -151,9 +151,6 @@ for attempt in range(MAX_RETRIES):
             quote = "The purpose of computing is insight, not numbers."
             author = "Richard Hamming"
             field = "Mathematics"
-
-# Update history with new quote
-save_history(history, quote, author)
 
 # Read README
 with open('README.md', 'r', encoding='utf-8') as f:
