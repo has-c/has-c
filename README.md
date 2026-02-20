@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Among all things that exist and are named, numbers alone possess a nature that is fixed and unchangeable, everywhere the same, not diminished by time, nor augmented by place, nor altered by any motion.
+> I composed a short work on Calculation by al-jabr and al-muqabala, comprising useful and concise methods.
 > 
-> — *Boethius* (Mathematics)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
