@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I composed a short work on Calculation by al-jabr and al-muqabala, comprising useful and concise methods.
+> Numbers have a way of taking a man by the hand and leading him down the path of reason.
 > 
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
