@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Numbers have a way of taking a man by the hand and leading him down the path of reason.
+> A point is that which has no part.
 > 
-> — *Gerolamo Cardano* (Mathematician)
+> — *Euclid* (Mathematician)
 <!-- /DAILY QUOTE -->
