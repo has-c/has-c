@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A point is that which has no part.
+> Geometry is the knowledge of the eternally existent.
 > 
-> — *Euclid* (Mathematician)
+> — *Plato* (Philosopher (influential in geometry))
 <!-- /DAILY QUOTE -->
