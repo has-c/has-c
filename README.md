@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry is the knowledge of the eternally existent.
+> For of the three sources of knowledge -- authority, reason, and experience -- the last is the most important.
 > 
-> — *Plato* (Philosopher (influential in geometry))
+> — *Roger Bacon* (Natural Philosopher)
 <!-- /DAILY QUOTE -->
