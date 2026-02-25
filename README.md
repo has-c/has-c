@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For of the three sources of knowledge -- authority, reason, and experience -- the last is the most important.
+> It is a truly royal invention, this of secret writing, which one can use to send an army through enemy territory without their knowing it.
 > 
-> — *Roger Bacon* (Natural Philosopher)
+> — *Leon Battista Alberti* (Cryptology)
 <!-- /DAILY QUOTE -->
