@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is a truly royal invention, this of secret writing, which one can use to send an army through enemy territory without their knowing it.
+> The greatest error of all is to believe that there is no error.
 > 
-> — *Leon Battista Alberti* (Cryptology)
+> — *Girolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
