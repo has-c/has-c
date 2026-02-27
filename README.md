@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The greatest error of all is to believe that there is no error.
+> The Moving Finger writes; and, having writ, Moves on: nor all your Piety nor Wit, Shall lure it back to cancel half a Line, Nor all your Tears wash out a Word of it.
 > 
-> — *Girolamo Cardano* (Mathematician)
+> — *Omar Khayyam* (Mathematician)
 <!-- /DAILY QUOTE -->
