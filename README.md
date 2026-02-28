@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Moving Finger writes; and, having writ, Moves on: nor all your Piety nor Wit, Shall lure it back to cancel half a Line, Nor all your Tears wash out a Word of it.
+> I know not whether the heavens are moved or not; but the appearances which we see can be saved without assuming that they are moved, in the same way as if they were moved.
 > 
-> — *Omar Khayyam* (Mathematician)
+> — *Nicole Oresme* (Mathematician)
 <!-- /DAILY QUOTE -->
