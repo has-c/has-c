@@ -26,7 +26,7 @@ Connect with me on LinkedIn:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I know not whether the heavens are moved or not; but the appearances which we see can be saved without assuming that they are moved, in the same way as if they were moved.
+> Number, being an immaterial substance, is the eternal and all-pervading form of the universe.
 > 
-> — *Nicole Oresme* (Mathematician)
+> — *Nicomachus of Gerasa* (Mathematics)
 <!-- /DAILY QUOTE -->
