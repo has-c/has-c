@@ -1,4 +1,4 @@
-# Hasnain (Has)
+# Hey, I'm Hasnain (Has) 👋
 
 **Data Scientist & Engineer** — building with machine learning and data pipelines
 
