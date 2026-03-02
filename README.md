@@ -12,7 +12,7 @@
 
 ### GitHub Activity
 
-A snake eating through my contribution history — updated daily:
+Watch Monty eat through my GitHub activity — updated daily:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
