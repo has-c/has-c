@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For if a man had the surest foundations of the sciences, and had the most perfect instruments, but had not experience, he could not know anything, nor could he make any progress.
+> Number, being an immaterial substance, is the eternal and all-pervading form of the universe.
 >
-> — *Roger Bacon* (Natural Philosopher)
+> — *Nicomachus of Gerasa* (Mathematics)
 <!-- /DAILY QUOTE -->
