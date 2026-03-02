@@ -1,16 +1,10 @@
 # Hey, I'm Hasnain (Has) 👋
 
-**Data Scientist & Engineer** building with machine learning
+**Data Scientist & Engineer** — building with machine learning and data pipelines
 
 ---
 
-### What I Love To Do
-
-🔬 Build intelligent ML systems & data pipelines  
-
----
-
-### Writing
+### Find Me
 
 I write about data, ML, and markets on Substack:
 
@@ -22,11 +16,22 @@ Connect with me on LinkedIn:
 
 ---
 
+### GitHub Activity
+
+Watch Monty eat through my GitHub activity — updated daily:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="Contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
 > Number, being an immaterial substance, is the eternal and all-pervading form of the universe.
-> 
+>
 > — *Nicomachus of Gerasa* (Mathematics)
 <!-- /DAILY QUOTE -->
