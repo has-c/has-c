@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Number, being an immaterial substance, is the eternal and all-pervading form of the universe.
+> Analysis is the path from the thing sought, as though it were admitted, through the things which follow from it, in order, to something admitted; while synthesis is the path from something admitted, through the things which follow from it, in order, to the thing sought.
 >
-> — *Nicomachus of Gerasa* (Mathematics)
+> — *Pappus of Alexandria* (Mathematician)
 <!-- /DAILY QUOTE -->
