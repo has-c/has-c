@@ -1,6 +1,9 @@
 name: Generate Contribution Snake
 
 on:
+  push:
+    branches:
+      - claude/improve-intro-repo-riFZA
   schedule:
     - cron: '0 12 * * *'  # Daily at noon UTC
   workflow_dispatch:
