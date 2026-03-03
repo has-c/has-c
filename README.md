@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Analysis is the path from the thing sought, as though it were admitted, through the things which follow from it, in order, to something admitted; while synthesis is the path from something admitted, through the things which follow from it, in order, to the thing sought.
+> The most fundamental principle of all gambling is that there is an equal chance for equal conditions.
 >
-> — *Pappus of Alexandria* (Mathematician)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
