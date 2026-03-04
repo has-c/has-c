@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most fundamental principle of all gambling is that there is an equal chance for equal conditions.
+> The least initial deviation from the truth is multiplied later a thousandfold.
 >
-> — *Gerolamo Cardano* (Mathematician)
+> — *Aristotle* (Logician)
 <!-- /DAILY QUOTE -->
