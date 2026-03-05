@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The least initial deviation from the truth is multiplied later a thousandfold.
+> Geometry is the knowledge of the eternally existent.
 >
-> — *Aristotle* (Logician)
+> — *Proclus* (Mathematician)
 <!-- /DAILY QUOTE -->
