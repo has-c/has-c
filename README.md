@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry is the knowledge of the eternally existent.
+> It is not necessary to understand Arabic, Latin, or any other language, to understand the principles of this Art, but only reason itself.
 >
-> — *Proclus* (Mathematician)
+> — *Ramon Llull* (Logician)
 <!-- /DAILY QUOTE -->
