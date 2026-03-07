@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is not necessary to understand Arabic, Latin, or any other language, to understand the principles of this Art, but only reason itself.
+> There is a great World of Wonder, concealed beneath the superficies of this common knowledge.
 >
-> — *Ramon Llull* (Logician)
+> — *John Dee* (Mathematician)
 <!-- /DAILY QUOTE -->
