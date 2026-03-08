@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is a great World of Wonder, concealed beneath the superficies of this common knowledge.
+> The data of experience must be combined with the data of reason.
 >
-> — *John Dee* (Mathematician)
+> — *Ptolemy* (Astronomer)
 <!-- /DAILY QUOTE -->
