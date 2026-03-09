@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The data of experience must be combined with the data of reason.
+> Without mathematics, no other science can be known.
 >
-> — *Ptolemy* (Astronomer)
+> — *Roger Bacon* (Philosopher)
 <!-- /DAILY QUOTE -->
