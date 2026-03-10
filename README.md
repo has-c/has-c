@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Without mathematics, no other science can be known.
+> Give me a place to stand, and I will move the Earth.
 >
-> — *Roger Bacon* (Philosopher)
+> — *Archimedes* (Mathematics)
 <!-- /DAILY QUOTE -->
