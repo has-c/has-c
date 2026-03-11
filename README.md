@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Give me a place to stand, and I will move the Earth.
+> All that has been constituted by nature in the universe seems to have been determined and arranged according to number, by the forethought and the perfect mind of him who created all things.
 >
-> — *Archimedes* (Mathematics)
+> — *Nicomachus of Gerasa* (Number Theory)
 <!-- /DAILY QUOTE -->
