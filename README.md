@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All that has been constituted by nature in the universe seems to have been determined and arranged according to number, by the forethought and the perfect mind of him who created all things.
+> I have composed this book, selecting from the various sciences of calculation, those methods which are most agreeable to reason, and most proper for the understanding.
 >
-> — *Nicomachus of Gerasa* (Number Theory)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematician)
 <!-- /DAILY QUOTE -->
