@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I have composed this book, selecting from the various sciences of calculation, those methods which are most agreeable to reason, and most proper for the understanding.
+> It is quasi-certain that two unknown continuous quantities are incommensurable.
 >
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematician)
+> — *Nicole Oresme* (Mathematics)
 <!-- /DAILY QUOTE -->
