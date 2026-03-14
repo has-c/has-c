@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is quasi-certain that two unknown continuous quantities are incommensurable.
+> All that is known is comprehended not according to its own nature, but according to the faculty of those who know it.
 >
-> — *Nicole Oresme* (Mathematics)
+> — *Boethius* (Mathematician)
 <!-- /DAILY QUOTE -->
