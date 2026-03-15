@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All that is known is comprehended not according to its own nature, but according to the faculty of those who know it.
+> A point is that which has no part.
 >
-> — *Boethius* (Mathematician)
+> — *Euclid* (Geometry)
 <!-- /DAILY QUOTE -->
