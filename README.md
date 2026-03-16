@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A point is that which has no part.
+> Know that the greatest hindrance to the attainment of scientific knowledge is to be content with mere superficial observation.
 >
-> — *Euclid* (Geometry)
+> — *Al-Biruni* (Mathematician and Scientist)
 <!-- /DAILY QUOTE -->
