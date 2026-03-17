@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Know that the greatest hindrance to the attainment of scientific knowledge is to be content with mere superficial observation.
+> If the literal meaning of any word, taken in a certain context, can only signify something impossible, that word is used figuratively. You must, therefore, seek to find the figure which it contains.
 >
-> — *Al-Biruni* (Mathematician and Scientist)
+> — *Maimonides* (Philosophy, Logic, Astronomy)
 <!-- /DAILY QUOTE -->
