@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The duty of the man who investigates the writings of scientists, if learning the truth is his goal, is to make himself an enemy of all that he reads, and, applying his mind to the core and periphery of its content, attack it from every side. He should also suspect himself as he performs his critical examination of it, so that he may avoid falling into either prejudice or leniency.
+> Though the ways of calculation are diverse, their basic principles are one. Grasp these fundamental principles, for they are the root of all methods.
 >
-> — *Ibn al-Haytham* (Mathematician and physicist)
+> — *Liu Hui* (Mathematician)
 <!-- /DAILY QUOTE -->
