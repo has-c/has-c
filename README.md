@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Though the ways of calculation are diverse, their basic principles are one. Grasp these fundamental principles, for they are the root of all methods.
+> Just as a man with a boat at a fixed place sees the stationary objects moving forward, in the same way, a man in Lanka sees the stationary stars moving westward.
 >
-> — *Liu Hui* (Mathematician)
+> — *Aryabhata* (Mathematician and Astronomer)
 <!-- /DAILY QUOTE -->
