@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#769656"/>
+  <g fill="#333333" stroke="#1a1a1a" stroke-width="1.5">
+    <!-- Base -->
+    <path d="M11,44 L39,44 L37,40 L13,40 Z"/>
+    <!-- Lower body -->
+    <path d="M14,40 L17,32 L33,32 L36,40 Z"/>
+    <!-- Upper body -->
+    <path d="M17,32 L16,24 L34,24 L33,32 Z"/>
+    <!-- Crown points -->
+    <path d="M14,24 L11,10 L18,17 L22,8 L25,16 L28,8 L32,17 L39,10 L36,24 Z"/>
+    <!-- Crown tip balls -->
+    <circle cx="11" cy="9" r="2"/>
+    <circle cx="22" cy="7" r="2"/>
+    <circle cx="28" cy="7" r="2"/>
+    <circle cx="39" cy="9" r="2"/>
+    <!-- Top ball -->
+    <circle cx="25" cy="6" r="2.5"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#769656"/>
+  <g fill="#333333" stroke="#1a1a1a" stroke-width="1.5">
+    <!-- Base -->
+    <path d="M14,44 L36,44 L34,40 L16,40 Z"/>
+    <!-- Lower body -->
+    <path d="M17,40 L19,32 L31,32 L33,40 Z"/>
+    <!-- Neck -->
+    <path d="M20,32 L22,26 L28,26 L30,32 Z"/>
+    <!-- Head -->
+    <circle cx="25" cy="19" r="7"/>
+  </g>
+</svg>

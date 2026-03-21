@@ -89,37 +89,50 @@ def generate_moves_list(board):
         return "**GAME IS OVER!** " + create_link("Click here", issue_link) + " to start a new game :D\n"
 
     if board.is_check():
-        markdown += "**CHECK!** Choose your move wisely!\n"
+        markdown += "**CHECK!** Choose your move wisely!\n\n"
 
+    markdown += "<details>\n"
+    markdown += "<summary><strong>Click to see all available moves</strong></summary>\n\n"
     markdown += "| FROM | TO (Just click a link!) |\n"
     markdown += "| :----: | :---------------------- |\n"
 
     for source,dest in sorted(moves_dict.items()):
         markdown += "| **" + source + "** | " + create_issue_link(source, dest) + " |\n"
 
+    markdown += "\n</details>\n"
+
     return markdown
+
+def _is_light_square(file_idx, rank_idx):
+    """Returns True if the square at (file_idx, rank_idx) is a light square."""
+    return (file_idx + rank_idx) % 2 == 0
+
+
+def _piece_image(piece_char, file_idx, rank_idx):
+    """Returns the image path for a piece on a given square."""
+    sq = "light" if _is_light_square(file_idx, rank_idx) else "dark"
+
+    pieces = {
+        "r": f"img/black/{sq}/rook.svg",
+        "n": f"img/black/{sq}/knight.svg",
+        "b": f"img/black/{sq}/bishop.svg",
+        "q": f"img/black/{sq}/queen.svg",
+        "k": f"img/black/{sq}/king.svg",
+        "p": f"img/black/{sq}/pawn.svg",
+        "R": f"img/white/{sq}/rook.svg",
+        "N": f"img/white/{sq}/knight.svg",
+        "B": f"img/white/{sq}/bishop.svg",
+        "Q": f"img/white/{sq}/queen.svg",
+        "K": f"img/white/{sq}/king.svg",
+        "P": f"img/white/{sq}/pawn.svg",
+        ".": f"img/blank-{sq}.svg",
+    }
+    return pieces.get(piece_char, "???")
+
 
 def board_to_markdown(board):
     board_list = [[item for item in line.split(' ')] for line in str(board).split('\n')]
     markdown = ""
-
-    images = {
-        "r": "img/black/rook.svg",
-        "n": "img/black/knight.svg",
-        "b": "img/black/bishop.svg",
-        "q": "img/black/queen.svg",
-        "k": "img/black/king.svg",
-        "p": "img/black/pawn.svg",
-
-        "R": "img/white/rook.svg",
-        "N": "img/white/knight.svg",
-        "B": "img/white/bishop.svg",
-        "Q": "img/white/queen.svg",
-        "K": "img/white/king.svg",
-        "P": "img/white/pawn.svg",
-
-        ".": "img/blank.svg"
-    }
 
     if board.turn == chess.BLACK:
         markdown += "| | H | G | F | E | D | C | B | A | |\n"
@@ -132,14 +145,17 @@ def board_to_markdown(board):
         rows = reversed(rows)
 
     for row in rows:
-        markdown += "| **" + str(9 - row) + "** | "
-        columns = board_list[row - 1]
+        rank = 9 - row
+        markdown += "| **" + str(rank) + "** | "
+        columns = list(enumerate(board_list[row - 1]))
         if board.turn == chess.BLACK:
-            columns = reversed(columns)
+            columns = list(reversed(columns))
 
-        for elem in columns:
-            markdown += "<img src=\"{}\" width=50px> | ".format(images.get(elem, "???"))
-        markdown += "**" + str(9 - row) + "** |\n"
+        for orig_col, elem in columns:
+            # orig_col is file index (0=a, 7=h), rank-1 is rank index (0-based)
+            img = _piece_image(elem, orig_col, row - 1)
+            markdown += "<img src=\"{}\" width=50px> | ".format(img)
+        markdown += "**" + str(rank) + "** |\n"
 
     if board.turn == chess.BLACK:
         markdown += "| | **H** | **G** | **F** | **E** | **D** | **C** | **B** | **A** | |\n"

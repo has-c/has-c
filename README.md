@@ -32,24 +32,27 @@ Watch Monty eat through my GitHub activity — updated daily:
 
 **Play chess with me!** Anyone can make a move — just click a link below to submit your move as a GitHub Issue.
 
-It's your turn to move a <!-- BEGIN TURN -->white<!-- END TURN --> piece!
+![Turn](https://img.shields.io/badge/turn-<!-- BEGIN TURN -->white<!-- END TURN -->-blue?style=for-the-badge&logo=chess.com&logoColor=white)
 
 <!-- BEGIN CHESS BOARD -->
 | | A | B | C | D | E | F | G | H | |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
-| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
-| **6** | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | **6** |
-| **5** | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | **5** |
-| **4** | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | **4** |
-| **3** | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | <img src="img/blank.svg" width=50px> | **3** |
-| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
-| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
+| **8** | <img src="img/black/light/rook.svg" width=50px> | <img src="img/black/dark/knight.svg" width=50px> | <img src="img/black/light/bishop.svg" width=50px> | <img src="img/black/dark/queen.svg" width=50px> | <img src="img/black/light/king.svg" width=50px> | <img src="img/black/dark/bishop.svg" width=50px> | <img src="img/black/light/knight.svg" width=50px> | <img src="img/black/dark/rook.svg" width=50px> | **8** |
+| **7** | <img src="img/black/dark/pawn.svg" width=50px> | <img src="img/black/light/pawn.svg" width=50px> | <img src="img/black/dark/pawn.svg" width=50px> | <img src="img/black/light/pawn.svg" width=50px> | <img src="img/black/dark/pawn.svg" width=50px> | <img src="img/black/light/pawn.svg" width=50px> | <img src="img/black/dark/pawn.svg" width=50px> | <img src="img/black/light/pawn.svg" width=50px> | **7** |
+| **6** | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | **6** |
+| **5** | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | **5** |
+| **4** | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | **4** |
+| **3** | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | <img src="img/blank-dark.svg" width=50px> | <img src="img/blank-light.svg" width=50px> | **3** |
+| **2** | <img src="img/white/light/pawn.svg" width=50px> | <img src="img/white/dark/pawn.svg" width=50px> | <img src="img/white/light/pawn.svg" width=50px> | <img src="img/white/dark/pawn.svg" width=50px> | <img src="img/white/light/pawn.svg" width=50px> | <img src="img/white/dark/pawn.svg" width=50px> | <img src="img/white/light/pawn.svg" width=50px> | <img src="img/white/dark/pawn.svg" width=50px> | **2** |
+| **1** | <img src="img/white/dark/rook.svg" width=50px> | <img src="img/white/light/knight.svg" width=50px> | <img src="img/white/dark/bishop.svg" width=50px> | <img src="img/white/light/queen.svg" width=50px> | <img src="img/white/dark/king.svg" width=50px> | <img src="img/white/light/bishop.svg" width=50px> | <img src="img/white/dark/knight.svg" width=50px> | <img src="img/white/light/rook.svg" width=50px> | **1** |
 | | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** | |
 <!-- END CHESS BOARD -->
 
 **Make your move!** Click a square below:
 <!-- BEGIN MOVES LIST -->
+<details>
+<summary><strong>Click to see all available moves</strong></summary>
+
 | FROM | TO (Just click a link!) |
 | :----: | :---------------------- |
 | **A2** | [A3](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A4) |
@@ -62,6 +65,8 @@ It's your turn to move a <!-- BEGIN TURN -->white<!-- END TURN --> piece!
 | **G1** | [F3](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+F3), [H3](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+H3) |
 | **G2** | [G3](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G3), [G4](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G4) |
 | **H2** | [H3](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/has-c/has-c/issues/new?body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
+
+</details>
 <!-- END MOVES LIST -->
 
 <details>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#EEEED2"/>
+  <g fill="#333333" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round">
+    <!-- Base -->
+    <path d="M12,44 L38,44 L36,40 L14,40 Z"/>
+    <!-- Pedestal -->
+    <path d="M14,40 L16,37 L34,37 L36,40 Z"/>
+    <!-- Collar -->
+    <path d="M16,37 L18,34 L32,34 L34,37 Z"/>
+    <!-- Body -->
+    <path d="M18,34 Q14,28 15,22 Q16,18 19,16 L17,15 Q14,13 15,11 Q16,9 19,10 L21,11 Q22,14 25,14 Q28,14 29,11 L31,10 Q34,9 35,11 Q36,13 33,15 L31,16 Q34,18 35,22 Q36,28 32,34 Z"/>
+    <!-- Cross on top -->
+    <line x1="25" y1="4" x2="25" y2="13" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="21" y1="7" x2="29" y2="7" stroke="#1a1a1a" stroke-width="2.5"/>
+    <rect x="23" y="3" width="4" height="10" rx="1"/>
+    <rect x="20.5" y="5.5" width="9" height="3" rx="1"/>
+  </g>
+</svg>

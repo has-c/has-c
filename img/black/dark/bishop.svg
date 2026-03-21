@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#769656"/>
+  <g fill="#333333" stroke="#1a1a1a" stroke-width="1.5">
+    <!-- Base -->
+    <path d="M13,44 L37,44 L35,40 L15,40 Z"/>
+    <!-- Lower body -->
+    <path d="M16,40 L19,32 L31,32 L34,40 Z"/>
+    <!-- Upper body - tapered -->
+    <path d="M19,32 L20,26 L18,20 L22,14 L25,8 L28,14 L32,20 L30,26 L31,32 Z"/>
+    <!-- Pointed top -->
+    <circle cx="25" cy="7" r="2.5"/>
+    <!-- Slit detail -->
+    <line x1="25" y1="12" x2="25" y2="24" stroke="#769656" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

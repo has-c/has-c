@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#EEEED2"/>
+  <g fill="#FFFFFF" stroke="#333333" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Base -->
+    <path d="M12,44 L38,44 L36,40 L14,40 Z"/>
+    <!-- Lower collar -->
+    <path d="M15,40 L16,37 L34,37 L35,40 Z"/>
+    <!-- Body -->
+    <path d="M17,37 Q14,31 16,25 L15,22 Q14,20 16,19 L19,18 Q17,16 18,14 Q19,12 22,12 L23,12 L23,10 L21,10 L21,8 L23,8 L23,6 L27,6 L27,8 L29,8 L29,10 L27,10 L27,12 L28,12 Q31,12 32,14 Q33,16 31,18 L34,19 Q36,20 35,22 L34,25 Q36,31 33,37 Z"/>
+    <!-- Cross on top -->
+    <rect x="24" y="3" width="2" height="7"/>
+    <rect x="21.5" y="5" width="7" height="2"/>
+    <!-- Rim -->
+    <path d="M18,28 Q25,25 32,28" fill="none"/>
+  </g>
+</svg>

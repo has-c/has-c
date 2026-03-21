@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#769656"/>
+  <g fill="#FFFFFF" stroke="#333333" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Base -->
+    <path d="M12,43 L38,43 L36,39 L14,39 Z"/>
+    <!-- Body and horse head -->
+    <path d="M15,39 L17,30 L14,25 L13,19 L16,14 L18,10 L22,7 L24,10 L23,13 L27,11 L30,10 L32,12 L33,16 L34,22 L35,28 L35,39 Z"/>
+    <!-- Eye -->
+    <circle cx="21" cy="15" r="1.5" fill="#333333" stroke="none"/>
+    <!-- Nostril -->
+    <circle cx="16" cy="17" r="1" fill="#333333" stroke="none"/>
+  </g>
+</svg>

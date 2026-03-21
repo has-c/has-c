@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect width="50" height="50" fill="#769656"/>
+  <g fill="#FFFFFF" stroke="#333333" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Base -->
+    <path d="M13,43 L37,43 L35,39 L15,39 Z"/>
+    <!-- Lower body -->
+    <path d="M16,39 L18,32 L32,32 L34,39 Z"/>
+    <!-- Upper body / mitre -->
+    <path d="M19,32 L17,24 L19,16 L22,11 L25,7 L28,11 L31,16 L33,24 L31,32 Z"/>
+    <!-- Tip ball -->
+    <circle cx="25" cy="6" r="2.5"/>
+    <!-- Diagonal slit on mitre -->
+    <line x1="21" y1="26" x2="29" y2="18" stroke="#333333" stroke-width="1.2" fill="none"/>
+  </g>
+</svg>
