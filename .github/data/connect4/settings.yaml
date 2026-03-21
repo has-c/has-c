@@ -1,0 +1,43 @@
+comments:
+  consecutive_moves: "Sorry {author}, you can't drop twice in a row! Ask someone else to play the next turn :D"
+  game_over: |-
+      Game over! {outcome}! This game had {num_moves} moves made by {num_players} players.
+
+      Thanks to {players} for participating!
+  invalid_move: "{author} Column {col} is full! Pick a different column."
+  successful_move: |-
+      {author} done! Successfully dropped a disc in column {col}.
+      Thanks for playing!
+  successful_new_game: "{author} done! New game successfully started!"
+  invalid_new_game: "{author} Sorry, but you cannot start a new game while one is in progress. Only the repo owner can do that."
+  unknown_command: "{author} Sorry, I can't understand the command. Please try again and do not modify the issue title!"
+
+issues:
+  link: "https://github.com/{repo}/issues/new?{params}"
+  drop:
+    body: "Just click 'Submit new issue'. You don't need to do anything else :D"
+    title: "Connect4: Drop {col}"
+  new_game:
+    body: "Just click 'Submit new issue'. You don't need to do anything else :D"
+    title: "Connect4: Start new game"
+
+markers:
+  board:
+    begin: "<!-- BEGIN C4 BOARD -->\n"
+    end: "<!-- END C4 BOARD -->\n"
+  moves:
+    begin: "<!-- BEGIN C4 MOVES -->\n"
+    end: "<!-- END C4 MOVES -->\n"
+  turn:
+    begin: "<!-- BEGIN C4 TURN -->"
+    end: "<!-- END C4 TURN -->"
+  last_moves:
+    begin: "<!-- BEGIN C4 LAST MOVES -->\n"
+    end: "<!-- END C4 LAST MOVES -->\n"
+  top_moves:
+    begin: "<!-- BEGIN C4 TOP MOVES -->\n"
+    end: "<!-- END C4 TOP MOVES -->\n"
+
+misc:
+  max_last_moves: 5
+  max_top_moves: 10

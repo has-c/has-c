@@ -1,4 +1,4 @@
-name: Chess
+name: Connect 4
 
 on:
   issues:
@@ -10,7 +10,7 @@ jobs:
       issues: write
       contents: write
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'Chess:')
+    if: startsWith(github.event.issue.title, 'Connect4:')
 
     steps:
       - uses: actions/checkout@v4
@@ -20,14 +20,14 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Play chess
+      - name: Play Connect 4
         env:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY_OWNER: ${{ github.repository_owner }}
         run: |
-          pip install -r .github/scripts/chess/requirements.txt
-          python .github/scripts/chess/main.py
+          pip install -r .github/scripts/connect4/requirements.txt
+          python .github/scripts/connect4/main.py
 
       - name: Commit and push changes
         env:
