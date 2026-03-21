@@ -114,16 +114,19 @@ def main(issue, issue_author, repo_owner):
         author=issue_author, row=row, col=col, color=color))
     issue.edit(state='closed', labels=[color.capitalize()])
 
+    # Write canvas SVG
+    svg = markdown.canvas_to_svg(canvas_data)
+    with open('img/canvas/canvas.svg', 'w') as f:
+        f.write(svg)
+
     # Update README
     with open('README.md', 'r') as f:
         readme = f.read()
-        readme = replace_text_between(readme, settings['markers']['canvas'], '{canvas}')
         readme = replace_text_between(readme, settings['markers']['palette'], '{palette}')
         readme = replace_text_between(readme, settings['markers']['recent'], '{recent}')
 
     with open('README.md', 'w') as f:
         f.write(readme.format(
-            canvas=markdown.canvas_to_markdown(canvas_data),
             palette=markdown.generate_palette(),
             recent=markdown.generate_recent(recent)))
 

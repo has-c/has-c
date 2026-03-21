@@ -10,52 +10,77 @@ with open('.github/data/canvas/settings.yaml', 'r') as f:
 GRID_SIZE = settings['misc']['grid_size']
 COLORS = settings['colors']
 
-COLOR_IMAGES = {i: f"img/canvas/{c}.svg" for i, c in enumerate(COLORS)}
+COLOR_HEX = {
+    'empty':  '#2d333b',
+    'black':  '#1a1a2e',
+    'white':  '#e6edf3',
+    'red':    '#E63946',
+    'blue':   '#2155CD',
+    'green':  '#06D6A0',
+    'yellow': '#FFB703',
+    'purple': '#7B2D8E',
+    'orange': '#FB5607',
+}
+
+COLOR_EMOJI = {
+    'black':  '⬛', 'white':  '⬜', 'red':    '🟥',
+    'blue':   '🟦', 'green':  '🟩', 'yellow': '🟨',
+    'purple': '🟪', 'orange': '🟧',
+}
+
+PAINT_COLORS = [c for c in COLORS if c != 'empty']
+CELL = 40
+GAP = 2
 
 
 def create_link(text, url):
     return f"[{text}]({url})"
 
 
-def canvas_to_markdown(canvas_data):
+def canvas_to_svg(canvas_data):
     canvas = canvas_data['canvas']
-    md = ""
+    size = GRID_SIZE * (CELL + GAP) + GAP
+    header_h = 24
+    label_w = 24
+    total_w = label_w + size
+    total_h = header_h + size
 
-    # Header row (column numbers)
-    md += "|   | " + " | ".join(str(c) for c in range(GRID_SIZE)) + " |\n"
-    md += "| :-: | " + " | ".join([":-:"] * GRID_SIZE) + " |\n"
+    svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{total_w}" height="{total_h}">\n'
+    svg += f'  <rect width="{total_w}" height="{total_h}" rx="8" fill="#161b22"/>\n'
 
+    # Column labels
+    for col in range(GRID_SIZE):
+        x = label_w + GAP + col * (CELL + GAP) + CELL // 2
+        svg += f'  <text x="{x}" y="16" text-anchor="middle" fill="#848d97" font-family="monospace" font-size="11">{col}</text>\n'
+
+    # Row labels + cells
     for row in range(GRID_SIZE):
-        md += f"| **{row}** | "
+        y = header_h + GAP + row * (CELL + GAP)
+        svg += f'  <text x="12" y="{y + CELL // 2 + 4}" text-anchor="middle" fill="#848d97" font-family="monospace" font-size="11">{row}</text>\n'
         for col in range(GRID_SIZE):
-            color_idx = canvas[row][col]
-            img = COLOR_IMAGES[color_idx]
-            md += f'<img src="{img}" width=25px> | '
-        md += "\n"
+            x = label_w + GAP + col * (CELL + GAP)
+            color_name = COLORS[canvas[row][col]]
+            hex_color = COLOR_HEX[color_name]
+            svg += f'  <rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="4" fill="{hex_color}"/>\n'
 
-    return md
+    svg += '</svg>\n'
+    return svg
 
 
 def generate_palette():
     md = "\n"
-    md += "| "
-
-    for color in COLORS:
+    swatches = []
+    for color in PAINT_COLORS:
         params = urlencode(settings['issues']['paint'], safe="{}")
         url = settings['issues']['link'].format(
             repo=os.environ["GITHUB_REPOSITORY"],
             params=params)
-        # Pre-fill with placeholder coords the user will edit
-        url = url.format(row="__ROW__", col="__COL__", color=color)
-        md += f'[<img src="img/canvas/{color}.svg" width=40px>]({url}) | '
+        url = url.format(row="0", col="0", color=color)
+        swatches.append(f"[{COLOR_EMOJI[color]} {color}]({url})")
 
+    md += " | ".join(swatches) + "\n"
     md += "\n"
-    md += "| " + " | ".join([":-:"] * len(COLORS)) + " |\n"
-    md += "\n"
-    md += "_Click a color above, then edit the issue title to set your row & column (0-15)_\n"
-    md += "\n"
-    md += "**Format:** `Canvas: ROW COL COLOR` — e.g. `Canvas: 5 3 red`\n"
-
+    md += "_Click a color, then edit the row & column in the issue title (0-7)_\n"
     return md
 
 
@@ -66,9 +91,11 @@ def generate_recent(recent_data):
 
     for entry in recent_data[:settings['misc']['max_recent']]:
         author = entry['author']
-        md += "| ({}, {}) | {} | {} |\n".format(
+        color = entry['color']
+        emoji = COLOR_EMOJI.get(color, '⬛')
+        md += "| ({}, {}) | {} {} | {} |\n".format(
             entry['row'], entry['col'],
-            entry['color'],
+            emoji, color,
             create_link(author, "https://github.com/" + author[1:]))
 
     return md + "\n"
