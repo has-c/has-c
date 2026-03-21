@@ -1,0 +1,38 @@
+comments:
+  success: |-
+    {author} painted pixel ({row}, {col}) {color}! 🎨
+    Thanks for leaving your mark!
+  invalid_coords: "{author} Invalid coordinates! Row and column must be 0-15."
+  invalid_color: "{author} Invalid color! Choose from: black, red, blue, green, yellow, purple, orange, white."
+  unknown_command: "{author} Couldn't parse that. Title should be: `Canvas: ROW COL COLOR` (e.g. `Canvas: 5 3 red`)"
+
+issues:
+  link: "https://github.com/{repo}/issues/new?{params}"
+  paint:
+    body: "Just click 'Submit new issue'. You don't need to do anything else :D"
+    title: "Canvas: {row} {col} {color}"
+
+colors:
+  - white
+  - black
+  - red
+  - blue
+  - green
+  - yellow
+  - purple
+  - orange
+
+markers:
+  canvas:
+    begin: "<!-- BEGIN CANVAS -->\n"
+    end: "<!-- END CANVAS -->\n"
+  palette:
+    begin: "<!-- BEGIN PALETTE -->\n"
+    end: "<!-- END PALETTE -->\n"
+  recent:
+    begin: "<!-- BEGIN RECENT -->\n"
+    end: "<!-- END RECENT -->\n"
+
+misc:
+  grid_size: 16
+  max_recent: 10
