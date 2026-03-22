@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> As the sun eclipses the stars by his brilliancy, so the man of knowledge will eclipse the fame of others in assemblies of the people if he proposes algebraic problems, and still more if he solves them.
+> I found that the method of the Indians far surpassed all other methods.
 >
-> — *Brahmagupta* (Mathematician)
+> — *Leonardo of Pisa (Fibonacci)* (Mathematician)
 <!-- /DAILY QUOTE -->
