@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> I found that the method of the Indians far surpassed all other methods.
+> Often turn the stylus, and once again digest the facts.
 >
-> — *Leonardo of Pisa (Fibonacci)* (Mathematician)
+> — *Tycho Brahe* (Mathematician)
 <!-- /DAILY QUOTE -->
