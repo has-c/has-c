@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Often turn the stylus, and once again digest the facts.
+> Among all human sciences, mathematics holds a singular dignity because of the certainty of its conclusions.
 >
-> — *Tycho Brahe* (Mathematician)
+> — *Thomas Bradwardine* (Mathematician and Logician)
 <!-- /DAILY QUOTE -->
