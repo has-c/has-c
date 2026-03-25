@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Among all human sciences, mathematics holds a singular dignity because of the certainty of its conclusions.
+> Whoever thinks that geometry is a purely practical science is wrong. Geometry is an intellectual science which has for its object to determine and to prove the relations of magnitudes.
 >
-> — *Thomas Bradwardine* (Mathematician and Logician)
+> — *Omar Khayyam* (Mathematician)
 <!-- /DAILY QUOTE -->
