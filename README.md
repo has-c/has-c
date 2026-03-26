@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Whoever thinks that geometry is a purely practical science is wrong. Geometry is an intellectual science which has for its object to determine and to prove the relations of magnitudes.
+> The series of individual facts, even when they appear to diverge into infinity, will nevertheless be found to possess a limit, which is the point where they merge into a single truth.
 >
-> — *Omar Khayyam* (Mathematician)
+> — *Aristotle* (Philosopher)
 <!-- /DAILY QUOTE -->
