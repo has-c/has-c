@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The series of individual facts, even when they appear to diverge into infinity, will nevertheless be found to possess a limit, which is the point where they merge into a single truth.
+> It is through the intellect that we discern the true nature of things.
 >
-> — *Aristotle* (Philosopher)
+> — *Al-Kindi* (Philosopher and Mathematician)
 <!-- /DAILY QUOTE -->
