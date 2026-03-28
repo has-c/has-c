@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is through the intellect that we discern the true nature of things.
+> The greatest error is to believe that the future is uncertain.
 >
-> — *Al-Kindi* (Philosopher and Mathematician)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
