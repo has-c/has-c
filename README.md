@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The greatest error is to believe that the future is uncertain.
+> To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.
 >
-> — *Gerolamo Cardano* (Mathematician)
+> — *Nicolaus Copernicus* (Astronomer)
 <!-- /DAILY QUOTE -->
