@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.
+> For without experiment nothing can be sufficiently known. Therefore, I wish that no one should be content with arguments alone, but with the test of experience.
 >
-> — *Nicolaus Copernicus* (Astronomer)
+> — *Roger Bacon* (Natural Philosophy)
 <!-- /DAILY QUOTE -->
