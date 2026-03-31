@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For without experiment nothing can be sufficiently known. Therefore, I wish that no one should be content with arguments alone, but with the test of experience.
+> All things which can be known have number; for it is not possible that without number anything can be either conceived or known.
 >
-> — *Roger Bacon* (Natural Philosophy)
+> — *Philolaus* (Number Theory)
 <!-- /DAILY QUOTE -->
