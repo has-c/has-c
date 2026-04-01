@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> All things which can be known have number; for it is not possible that without number anything can be either conceived or known.
+> For analysis is the path from what is sought, as if it were admitted, through its concomitants to something admitted; and synthesis is the path from the admitted through its concomitants to the construction of what is sought.
 >
-> — *Philolaus* (Number Theory)
+> — *Pappus of Alexandria* (Mathematician)
 <!-- /DAILY QUOTE -->
