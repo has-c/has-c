@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For analysis is the path from what is sought, as if it were admitted, through its concomitants to something admitted; and synthesis is the path from the admitted through its concomitants to the construction of what is sought.
+> For it is not the business of one who investigates the principles of astrology to declare that things will happen absolutely and without fail, but to state probabilities, and to show what is likely to occur.
 >
-> — *Pappus of Alexandria* (Mathematician)
+> — *Claudius Ptolemy* (Mathematics and Astronomy)
 <!-- /DAILY QUOTE -->
