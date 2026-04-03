@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For it is not the business of one who investigates the principles of astrology to declare that things will happen absolutely and without fail, but to state probabilities, and to show what is likely to occur.
+> A plurality must never be posited without necessity.
 >
-> — *Claudius Ptolemy* (Mathematics and Astronomy)
+> — *William of Ockham* (Logic)
 <!-- /DAILY QUOTE -->
