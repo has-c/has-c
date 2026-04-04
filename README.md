@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> A plurality must never be posited without necessity.
+> For a line has its being in flux and movement; it exists through the flow of the point, and the generation of a surface is due to the flowing of a line.
 >
-> — *William of Ockham* (Logic)
+> — *Proclus* (Mathematician and Philosopher)
 <!-- /DAILY QUOTE -->
