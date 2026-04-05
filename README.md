@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For a line has its being in flux and movement; it exists through the flow of the point, and the generation of a surface is due to the flowing of a line.
+> Knowledge is concerned with that which is, opinion with that which is between being and not-being.
 >
-> — *Proclus* (Mathematician and Philosopher)
+> — *Plato* (Philosopher)
 <!-- /DAILY QUOTE -->
