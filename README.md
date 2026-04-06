@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Knowledge is concerned with that which is, opinion with that which is between being and not-being.
+> The true and the false are not separated by a chasm, but by an almost imperceptible border.
 >
-> — *Plato* (Philosopher)
+> — *John of Salisbury* (Logic)
 <!-- /DAILY QUOTE -->
