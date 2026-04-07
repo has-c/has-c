@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The true and the false are not separated by a chasm, but by an almost imperceptible border.
+> One who devotes himself to this science must free himself from all external circumstances that affect the state of the observer, and from any preconceived notions that may lead to bias.
 >
-> — *John of Salisbury* (Logic)
+> — *Al-Biruni* (Mathematics and Scientific Methodology)
 <!-- /DAILY QUOTE -->
