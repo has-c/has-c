@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> One who devotes himself to this science must free himself from all external circumstances that affect the state of the observer, and from any preconceived notions that may lead to bias.
+> There is no royal road to geometry.
 >
-> — *Al-Biruni* (Mathematics and Scientific Methodology)
+> — *Euclid* (Mathematician)
 <!-- /DAILY QUOTE -->
