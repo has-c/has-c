@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> There is no royal road to geometry.
+> The purpose of computing is insight, not numbers.
 >
-> — *Euclid* (Mathematician)
+> — *Richard Hamming* (Mathematics)
 <!-- /DAILY QUOTE -->
