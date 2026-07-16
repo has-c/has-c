@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The purpose of computing is insight, not numbers.
+> Everything that is created has a certain measure, number, and weight.
 >
-> — *Richard Hamming* (Mathematics)
+> — *Nicole Oresme* (Mathematician)
 <!-- /DAILY QUOTE -->
