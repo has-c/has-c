@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Everything that is created has a certain measure, number, and weight.
+> No business can survive without arithmetic.
 >
-> — *Nicole Oresme* (Mathematician)
+> — *Luca Pacioli* (Mathematics)
 <!-- /DAILY QUOTE -->
