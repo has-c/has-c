@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> No business can survive without arithmetic.
+> Give me a place to stand, and I will move the Earth.
 >
-> — *Luca Pacioli* (Mathematics)
+> — *Archimedes* (Mathematician)
 <!-- /DAILY QUOTE -->
