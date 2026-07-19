@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Give me a place to stand, and I will move the Earth.
+> Number is the ruler of forms and ideas, and the cause of gods and demons.
 >
-> — *Archimedes* (Mathematician)
+> — *Pythagoras* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
