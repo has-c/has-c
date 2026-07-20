@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Number is the ruler of forms and ideas, and the cause of gods and demons.
+> The Analytical Engine might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations, and which should be also susceptible of adaptations to the action of the operating notation and mechanism of the engine.
 >
-> — *Pythagoras* (Pure Mathematics)
+> — *Ada Lovelace* (Mathematician)
 <!-- /DAILY QUOTE -->
