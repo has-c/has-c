@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The Analytical Engine might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations, and which should be also susceptible of adaptations to the action of the operating notation and mechanism of the engine.
+> For what is chance but an unexpected event brought about by a concurrence of causes, which had other designs in view?
 >
-> — *Ada Lovelace* (Mathematician)
+> — *Boethius* (Mathematician and Philosopher)
 <!-- /DAILY QUOTE -->
