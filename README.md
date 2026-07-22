@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For what is chance but an unexpected event brought about by a concurrence of causes, which had other designs in view?
+> The duty of the man who investigates the writings of scientists, if learning the truth is his goal, is to make himself an enemy of all that he reads, and, applying his mind to the core and margins of its content, attack it from every side. He should also suspect himself as he performs his critical examination of it, so that he may avoid falling into either prejudice or leniency.
 >
-> — *Boethius* (Mathematician and Philosopher)
+> — *Ibn al-Haytham* (Physicist)
 <!-- /DAILY QUOTE -->
