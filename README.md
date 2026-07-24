@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For if mathematics trains the understanding and purges the intellect, and brings the mind to a habit of thinking, it also, by reason of its clearness, allows us to grasp the truth without difficulty.
+> If every instrument could accomplish its own work, obeying or anticipating the will of others, like the statues of Daedalus, or the tripods of Hephaestus, which, says the poet, 'of their own accord entered the assembly of the Gods'; if, in like manner, the shuttle would weave and the plectrum touch the lyre without a hand to guide them, then chief workmen would not want servants, nor masters slaves.
 >
-> — *Theon of Alexandria* (Mathematician and Philosopher)
+> — *Aristotle* (Philosopher)
 <!-- /DAILY QUOTE -->
