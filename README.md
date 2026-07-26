@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> He who knows how to write, knows how to conceal.
+> The most important rule in life is to know how to count what can be counted, and to ignore what cannot.
 >
-> — *Leon Battista Alberti* (Cryptography)
+> — *Gerolamo Cardano* (Mathematician)
 <!-- /DAILY QUOTE -->
