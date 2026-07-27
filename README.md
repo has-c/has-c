@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The most important rule in life is to know how to count what can be counted, and to ignore what cannot.
+> Science is built up with facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.
 >
-> — *Gerolamo Cardano* (Mathematician)
+> — *Henri Poincaré* (Mathematics)
 <!-- /DAILY QUOTE -->
