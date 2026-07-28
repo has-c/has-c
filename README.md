@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Science is built up with facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.
+> We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
 >
-> — *Henri Poincaré* (Mathematics)
+> — *Pierre-Simon Laplace* (Mathematics, Physics)
 <!-- /DAILY QUOTE -->
