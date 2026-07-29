@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
+> The science of numbers, which is pure and abstract, is the foundation of all the other sciences.
 >
-> — *Pierre-Simon Laplace* (Mathematics, Physics)
+> — *Fibonacci* (Mathematician)
 <!-- /DAILY QUOTE -->
