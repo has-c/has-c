@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The science of numbers, which is pure and abstract, is the foundation of all the other sciences.
+> rendering the obscure clear, and the difficult easy, and of making known that which had been concealed.
 >
-> — *Fibonacci* (Mathematician)
+> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
 <!-- /DAILY QUOTE -->
