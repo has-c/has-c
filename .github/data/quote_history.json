@@ -1,9 +1,5 @@
 [
   {
-    "quote_start": "Geometry is the knowledge of the eternally existent.",
-    "author": "Proclus"
-  },
-  {
     "quote_start": "It is not necessary to understand Arabic, Latin, or any othe",
     "author": "Ramon Llull"
   },
@@ -198,5 +194,9 @@
   {
     "quote_start": "rendering the obscure clear, and the difficult easy, and of ",
     "author": "Muhammad ibn Musa al-Khwarizmi"
+  },
+  {
+    "quote_start": "For we must not so much look for models that are extremely s",
+    "author": "Claudius Ptolemy"
   }
 ]

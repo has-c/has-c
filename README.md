@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> rendering the obscure clear, and the difficult easy, and of making known that which had been concealed.
+> For we must not so much look for models that are extremely simple in all respects as for those that can fit the observed phenomena and yield a correct calculus.
 >
-> — *Muhammad ibn Musa al-Khwarizmi* (Mathematics)
+> — *Claudius Ptolemy* (Astronomy)
 <!-- /DAILY QUOTE -->
