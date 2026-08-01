@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For we must not so much look for models that are extremely simple in all respects as for those that can fit the observed phenomena and yield a correct calculus.
+> Without mathematics, there is no certain knowledge of physics, nor of metaphysics, nor of the moral sciences.
 >
-> — *Claudius Ptolemy* (Astronomy)
+> — *Roger Bacon* (Philosopher of Mathematics)
 <!-- /DAILY QUOTE -->
