@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Without mathematics, there is no certain knowledge of physics, nor of metaphysics, nor of the moral sciences.
+> Geometry is the knowledge of the eternally existent.
 >
-> — *Roger Bacon* (Philosopher of Mathematics)
+> — *Proclus* (Mathematician)
 <!-- /DAILY QUOTE -->
