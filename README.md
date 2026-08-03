@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Geometry is the knowledge of the eternally existent.
+> The greatest secret to decoding texts is to know the regularities of letters and their sequences in the language used in the encrypted text.
 >
-> — *Proclus* (Mathematician)
+> — *Al-Kindi* (Mathematician)
 <!-- /DAILY QUOTE -->
