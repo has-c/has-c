@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The greatest secret to decoding texts is to know the regularities of letters and their sequences in the language used in the encrypted text.
+> On two occasions I have been asked, 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 >
-> — *Al-Kindi* (Mathematician)
+> — *Charles Babbage* (Mathematician)
 <!-- /DAILY QUOTE -->
