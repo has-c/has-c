@@ -1,9 +1,5 @@
 [
   {
-    "quote_start": "All that has been constituted by nature in the universe seem",
-    "author": "Nicomachus of Gerasa"
-  },
-  {
     "quote_start": "I have composed this book, selecting from the various scienc",
     "author": "Muhammad ibn Musa al-Khwarizmi"
   },
@@ -198,5 +194,9 @@
   {
     "quote_start": "The true method is to weigh all traditions in the balance of",
     "author": "Al-Biruni"
+  },
+  {
+    "quote_start": "Just as a man in a boat going forward sees the stationary ob",
+    "author": "Aryabhata"
   }
 ]

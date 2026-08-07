@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The true method is to weigh all traditions in the balance of reason and to consider all reported facts in the light of experience, even if these facts are based on sacred texts.
+> Just as a man in a boat going forward sees the stationary objects (on the shore) as moving backward, just so are the stationary stars seen by the people on the earth as moving exactly backward (westward).
 >
-> — *Al-Biruni* (Mathematician)
+> — *Aryabhata* (Astronomer)
 <!-- /DAILY QUOTE -->
