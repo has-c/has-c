@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Just as a man in a boat going forward sees the stationary objects (on the shore) as moving backward, just so are the stationary stars seen by the people on the earth as moving exactly backward (westward).
+> It is impossible to demonstrate by any experiment that the heavens move with daily motion and not the earth.
 >
-> — *Aryabhata* (Astronomer)
+> — *Nicole Oresme* (Mathematician)
 <!-- /DAILY QUOTE -->
