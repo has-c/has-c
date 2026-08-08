@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> It is impossible to demonstrate by any experiment that the heavens move with daily motion and not the earth.
+> There is no royal road to geometry.
 >
-> — *Nicole Oresme* (Mathematician)
+> — *Euclid* (Pure Mathematics)
 <!-- /DAILY QUOTE -->
