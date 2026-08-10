@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Analysis, then, takes that which is sought as if it were admitted and passes from it through its antecedents in order to some acknowledged truth; but synthesis takes that which is admitted and passes through its consequents until it arrives at the completion of the thing sought.
+> The rule for verifying historical information is to weigh it against its own standards and to compare it with the actual and well-known nature of things, with a view to distinguishing truth from falsehood.
 >
-> — *Pappus of Alexandria* (Geometry)
+> — *Ibn Khaldun* (Philosophy of History)
 <!-- /DAILY QUOTE -->
