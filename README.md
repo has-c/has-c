@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> The rule for verifying historical information is to weigh it against its own standards and to compare it with the actual and well-known nature of things, with a view to distinguishing truth from falsehood.
+> For all that is known is comprehended not according to its own power but rather according to the capacity of the knower.
 >
-> — *Ibn Khaldun* (Philosophy of History)
+> — *Boethius* (philosopher, mathematician)
 <!-- /DAILY QUOTE -->
