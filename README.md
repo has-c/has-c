@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> For all that is known is comprehended not according to its own power but rather according to the capacity of the knower.
+> Certain things first became clear to me by a mechanical method, although they had to be demonstrated by geometry afterwards because their discovery by the mechanical method did not furnish an actual proof. But it is of course easier, when we have previously acquired by the method, some knowledge of the questions, to supply the proof than it is to find it without any previous knowledge.
 >
-> — *Boethius* (philosopher, mathematician)
+> — *Archimedes* (Mathematician)
 <!-- /DAILY QUOTE -->
