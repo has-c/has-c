@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> Certain things first became clear to me by a mechanical method, although they had to be demonstrated by geometry afterwards because their discovery by the mechanical method did not furnish an actual proof. But it is of course easier, when we have previously acquired by the method, some knowledge of the questions, to supply the proof than it is to find it without any previous knowledge.
+> This Art has a general and universal way of arguing and discovering the truth in all sciences and arts, so that, by means of it, one can easily reach any conclusion desired.
 >
-> — *Archimedes* (Mathematician)
+> — *Ramon Llull* (Logician)
 <!-- /DAILY QUOTE -->
