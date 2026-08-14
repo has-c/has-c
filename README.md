@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Quote updated daily*</sub>
 
 <!-- DAILY QUOTE -->
-> This Art has a general and universal way of arguing and discovering the truth in all sciences and arts, so that, by means of it, one can easily reach any conclusion desired.
+> It is not enough that the hidden thing be concealed, but it is necessary that it be believed that there is nothing hidden.
 >
-> — *Ramon Llull* (Logician)
+> — *Johannes Trithemius* (Cryptography and Steganography)
 <!-- /DAILY QUOTE -->
