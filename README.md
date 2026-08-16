@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Software gets slower faster than hardware gets faster.
+> The purpose of computing is insight, not numbers.
 >
-> — *Niklaus Wirth* (Computer Science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Richard Hamming* (Computer Science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
 <!-- /DAILY QUOTE -->
