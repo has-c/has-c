@@ -19,14 +19,15 @@ workflow for the quote updater.
   closed when verification is not possible.
 
 The public checkout is treated as untrusted data: the private service does not
-import, source, build, or execute files from it. It may modify only:
+import, source, build, or execute files from it. It may modify only `README.md`,
+between the existing daily-quote markers. Each new quote links to its verified
+public source.
 
-- `README.md`, between the existing daily-quote markers
-- `.github/data/quote_history.json`
-
-Each new README quote links to its verified public source. Each new history
-record stores that URL and a hash of the normalized source text used for
-verification.
+The flow code, tests, installer, documentation, and trusted de-duplication seed
+live together in the private Cheenulabs repository. That seed preserves the
+former public quote list; ongoing de-duplication is reconstructed from bounded
+historical versions of this README in Git. This repository therefore needs no
+writable quote cache or private automation implementation.
 
 ## Publishing access
 
