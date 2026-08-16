@@ -1,54 +1,46 @@
-# Daily Quote Auto-Update Setup Guide
+# Daily Quote Automation
 
-This repository automatically updates the GitHub Profile README with a daily inspirational quote from mathematicians, statisticians, or computer scientists using Google's Gemini API.
+The profile quote is updated once a day by privately hosted, reviewed
+automation. This public repository intentionally contains no model API key,
+model-calling script, self-hosted GitHub Actions runner, or remotely executable
+workflow for the quote updater.
 
-## Setup Instructions
+## What runs privately
 
-### 1. Get a Gemini API Key
+- **Prefect** schedules the update, records each run, and retries transient
+  failures.
+- A reviewed, rotating allowlist supplies candidate public HTTPS source pages;
+  the job does not depend on a general web-search service.
+- **Qwen3.8**, served locally through **vLLM**, selects a direct quotation from
+  bounded source text and returns strict schema-validated JSON. It has no
+  repository credential and no tools.
+- Deterministic Python checks that the exact quote and author appear on the
+  selected page, rejects recent duplicates and unsafe Markdown, and fails
+  closed when verification is not possible.
 
-1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey)
-2. Sign in with your Google account
-3. Click "Create API Key"
-4. Copy the generated API key
+The public checkout is treated as untrusted data: the private service does not
+import, source, build, or execute files from it. It may modify only:
 
-### 2. Add API Key as GitHub Secret
+- `README.md`, between the existing daily-quote markers
+- `.github/data/quote_history.json`
 
-1. Go to your repository on GitHub
-2. Navigate to **Settings** → **Secrets and variables** → **Actions**
-3. Click **New repository secret**
-4. Name: `GEMINI_API_KEY`
-5. Value: Paste your Gemini API key
-6. Click **Add secret**
+Each new README quote links to its verified public source. Each new history
+record stores that URL and a hash of the normalized source text used for
+verification.
 
-### 3. Enable GitHub Actions
+## Publishing access
 
-1. Go to **Settings** → **Actions** → **General**
-2. Under "Workflow permissions", select **Read and write permissions**
-3. Check **Allow GitHub Actions to create and approve pull requests**
-4. Save changes
+Publishing uses a dedicated SSH deploy key with write access to only this
+repository. The key is held by a low-privilege service account and is not stored
+in GitHub Actions or committed here. The private key is not shared with an
+operator account or another service.
 
-### 4. Test the Workflow
+The retired updater used the Gemini API from a scheduled GitHub Action. After
+this change is merged, delete the unused `GEMINI_API_KEY` Actions secret. The
+contribution-snake workflow is independent and remains unchanged.
 
-1. Go to **Actions** tab in your repository
-2. Select **Update Daily Quote** workflow
-3. Click **Run workflow** → **Run workflow** (manual trigger)
-4. Wait for it to complete and verify the README was updated
+## Failure behavior
 
-## How It Works
-
-- The workflow runs automatically every day at **00:00 UTC**
-- It calls the Gemini 1.5 Flash API to generate a fresh quote
-- The quote is inserted into README.md between `<!-- DAILY QUOTE -->` markers
-- Changes are automatically committed and pushed
-
-## Manual Trigger
-
-You can manually trigger the workflow anytime:
-- Go to **Actions** → **Update Daily Quote** → **Run workflow**
-
-## Troubleshooting
-
-- **Workflow fails**: Check that `GEMINI_API_KEY` secret is set correctly
-- **No quote appears**: Verify the API key has access to Gemini API
-- **Quote format issues**: The workflow includes fallback handling for parsing errors
-
+If search, source fetching, model output, verification, or publishing fails,
+Prefect records the failed run and retries it. No quote is published unless it
+passes source verification, and there is no hard-coded fallback quote.
