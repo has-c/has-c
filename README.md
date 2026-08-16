@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
+> The beauty of mathematics only shows itself to more patient followers.
 >
-> — *Leslie Lamport* (Computer Science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
 <!-- /DAILY QUOTE -->
