@@ -28,7 +28,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 
 ---
 
-<sub>*Source-verified and updated daily by Qwen3.8 27B running on local hardware.*</sub>
+<sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
 > Either mathematics is too big for the human mind, or the human mind is more than a machine.
