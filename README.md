@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Either mathematics is too big for the human mind, or the human mind is more than a machine.
+> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Leslie Lamport* (Computer Science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
 <!-- /DAILY QUOTE -->

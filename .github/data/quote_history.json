@@ -1,9 +1,5 @@
 [
   {
-    "quote_start": "I found that the method of the Indians far surpassed all oth",
-    "author": "Leonardo of Pisa (Fibonacci)"
-  },
-  {
     "quote_start": "Often turn the stylus, and once again digest the facts.",
     "author": "Tycho Brahe"
   },
@@ -200,5 +196,11 @@
     "author": "Kurt Gödel",
     "source_url": "https://en.wikiquote.org/wiki/Kurt_G%C3%B6del",
     "source_sha256": "4d51cee8c5df52d3488941dd5134949be50ee75ee8d675a047bdf08da2b8e284"
+  },
+  {
+    "quote_start": "A distributed system is one in which the failure of a comput",
+    "author": "Leslie Lamport",
+    "source_url": "https://en.wikiquote.org/wiki/Leslie_Lamport",
+    "source_sha256": "6d543bda155466afa723e65b858d986afa3da2ccc3c7fcce1555e964f4b5adab"
   }
 ]
