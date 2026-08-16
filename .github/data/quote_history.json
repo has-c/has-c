@@ -1,9 +1,5 @@
 [
   {
-    "quote_start": "As the sun eclipses the stars by his brilliancy, so the man ",
-    "author": "Brahmagupta"
-  },
-  {
     "quote_start": "I found that the method of the Indians far surpassed all oth",
     "author": "Leonardo of Pisa (Fibonacci)"
   },
@@ -198,5 +194,11 @@
   {
     "quote_start": "The duty of the man who investigates the writings of scienti",
     "author": "Alhazen (Ibn al-Haytham)"
+  },
+  {
+    "quote_start": "Either mathematics is too big for the human mind, or the hum",
+    "author": "Kurt Gödel",
+    "source_url": "https://en.wikiquote.org/wiki/Kurt_G%C3%B6del",
+    "source_sha256": "4d51cee8c5df52d3488941dd5134949be50ee75ee8d675a047bdf08da2b8e284"
   }
 ]
