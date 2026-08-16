@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> The beauty of mathematics only shows itself to more patient followers.
+> Software gets slower faster than hardware gets faster.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Niklaus Wirth* (Computer Science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 <!-- /DAILY QUOTE -->

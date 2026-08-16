@@ -1,9 +1,5 @@
 [
   {
-    "quote_start": "Among all human sciences, mathematics holds a singular digni",
-    "author": "Thomas Bradwardine"
-  },
-  {
     "quote_start": "Whoever thinks that geometry is a purely practical science i",
     "author": "Omar Khayyam"
   },
@@ -204,5 +200,11 @@
     "author": "Maryam Mirzakhani",
     "source_url": "https://en.wikiquote.org/wiki/Maryam_Mirzakhani",
     "source_sha256": "78e85b4425694905f3d5c35df97aca31324f631761e628018582a1acf826d221"
+  },
+  {
+    "quote_start": "Software gets slower faster than hardware gets faster.",
+    "author": "Niklaus Wirth",
+    "source_url": "https://en.wikiquote.org/wiki/Niklaus_Wirth",
+    "source_sha256": "72e1dcb8f5d2b42a9a52c0611394b9798ea6fc5a47aaef5dceefb0246c29737b"
   }
 ]
