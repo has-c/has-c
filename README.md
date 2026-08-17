@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
+> If numbers aren't beautiful, I don't know what is.
 >
-> — *Ronald Fisher* (statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
 <!-- /DAILY QUOTE -->
