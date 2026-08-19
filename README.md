@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> The best material model of a cat is another, or preferably the same cat.
+> The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy.
 >
-> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
+> — *Tim Berners-Lee* (Computer Science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
 <!-- /DAILY QUOTE -->
