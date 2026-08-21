@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Without data, you're just another person with an opinion.
+> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
 >
-> — *W. Edwards Deming* (statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Ada Lovelace* (mathematics) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 <!-- /DAILY QUOTE -->
