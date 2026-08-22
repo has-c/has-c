@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
+> A man provided with paper, pencil, and eraser, and subject to strict discipline, is in effect a universal machine.
 >
-> — *Ada Lovelace* (mathematics) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
+> — *Alan Turing* (computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 <!-- /DAILY QUOTE -->
