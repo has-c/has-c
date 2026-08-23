@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> A man provided with paper, pencil, and eraser, and subject to strict discipline, is in effect a universal machine.
+> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
 >
-> — *Alan Turing* (computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Barbara Liskov* (Computer Science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
 <!-- /DAILY QUOTE -->
