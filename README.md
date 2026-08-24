@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
+> Mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true.
 >
-> — *Barbara Liskov* (Computer Science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
+> — *Bertrand Russell* (mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
 <!-- /DAILY QUOTE -->
