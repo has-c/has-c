@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true.
+> The great advances in mathematics have not been made by logic but by creative imagination.
 >
-> — *Bertrand Russell* (mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *George Frederick James Temple* (mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
 <!-- /DAILY QUOTE -->
