@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> I mean the word proof not in the sense of the lawyers, who set two half proofs equal to a whole one, but in the sense of a mathematician, where ½ proof = 0, and it is demanded for proof that every doubt becomes impossible.
+> The art of doing mathematics consists in finding that special case which contains all the germs of generality.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *David Hilbert* (mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 <!-- /DAILY QUOTE -->
