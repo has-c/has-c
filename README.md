@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> The art of doing mathematics consists in finding that special case which contains all the germs of generality.
+> Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> — *David Hilbert* (mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Donald Knuth* (Computer Science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 <!-- /DAILY QUOTE -->
