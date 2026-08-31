@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> Testing shows the presence, not the absence of bugs
 >
-> — *Donald Knuth* (Computer Science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Edsger W. Dijkstra* (Computer Science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 <!-- /DAILY QUOTE -->
