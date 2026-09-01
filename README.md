@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Testing shows the presence, not the absence of bugs
+> My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.
 >
-> — *Edsger W. Dijkstra* (Computer Science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
+> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
 <!-- /DAILY QUOTE -->
