@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> The complexity of software is an essential property, not an accidental one. Hence, descriptions of a software entity that abstract away its complexity often abstracts away its essence.
+> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
 >
-> — *Fred Brooks* (Computer Science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Claude Shannon* (Computer Science) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
 <!-- /DAILY QUOTE -->
