@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
+> All models are wrong; some models are useful.
 >
-> — *Claude Shannon* (Computer Science) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *George Box* (statistics) · [source](https://en.wikiquote.org/wiki/George_E._P._Box)
 <!-- /DAILY QUOTE -->
