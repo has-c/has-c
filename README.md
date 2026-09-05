@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> All models are wrong; some models are useful.
+> The general laws of Nature are not, for the most part, immediate objects of perception. …They are in all cases, and in the strictest sense of the term, probable conclusions.
 >
-> — *George Box* (statistics) · [source](https://en.wikiquote.org/wiki/George_E._P._Box)
+> — *George Boole* (mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
 <!-- /DAILY QUOTE -->
