@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> The general laws of Nature are not, for the most part, immediate objects of perception. …They are in all cases, and in the strictest sense of the term, probable conclusions.
+> It is by logic that we prove, but by intuition that we discover.
 >
-> — *George Boole* (mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
+> — *Henri Poincaré* (mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 <!-- /DAILY QUOTE -->
