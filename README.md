@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> It is by logic that we prove, but by intuition that we discover.
+> He who refuses to do arithmetic is doomed to talk nonsense.
 >
-> — *Henri Poincaré* (mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *John McCarthy* (Computer Science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
 <!-- /DAILY QUOTE -->
