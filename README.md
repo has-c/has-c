@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> In mathematics you don't understand things. You just get used to them.
+> Data do not understand causes and effects; humans do.
 >
-> — *John von Neumann* (mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Judea Pearl* (Computer Science) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 <!-- /DAILY QUOTE -->
