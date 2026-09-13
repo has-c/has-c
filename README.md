@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> Data do not understand causes and effects; humans do.
+> You can't trust code that you did not totally create yourself. (Especially code from companies that employ people like me.)
 >
-> — *Judea Pearl* (Computer Science) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
+> — *Ken Thompson* (Computer Science) · [source](https://en.wikiquote.org/wiki/Ken_Thompson)
 <!-- /DAILY QUOTE -->
