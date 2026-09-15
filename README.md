@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> We must state relationships, not procedures.
+> I agree as to the doubtful value of competitive examination. The qualities which you really want, viz., self-control, self-reliance, habits of accurate thought, integrity and what you generally call trustworthiness, are not decided by competitive examination, which test little else than the memory.
 >
-> — *Grace Hopper* (Computer Science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
+> — *Florence Nightingale* (Statistics) · [source](https://en.wikiquote.org/wiki/Florence_Nightingale)
 <!-- /DAILY QUOTE -->
