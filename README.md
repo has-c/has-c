@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> I agree as to the doubtful value of competitive examination. The qualities which you really want, viz., self-control, self-reliance, habits of accurate thought, integrity and what you generally call trustworthiness, are not decided by competitive examination, which test little else than the memory.
+> To every ω-consistent recursive class κ of formulae there correspond recursive class signs r, such that neither v Gen r nor Neg (v Gen r) belongs to Flg (κ) (where v is the free variable of r).
 >
-> — *Florence Nightingale* (Statistics) · [source](https://en.wikiquote.org/wiki/Florence_Nightingale)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 <!-- /DAILY QUOTE -->
