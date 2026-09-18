@@ -31,7 +31,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
 
 <!-- DAILY QUOTE -->
-> The most fruitful areas for the growth of the sciences were those which had been neglected as a no-man's land between the various established fields.
+> It is not enough to be in the right place at the right time. You should also have an open mind at the right time.
 >
-> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
+> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
 <!-- /DAILY QUOTE -->
