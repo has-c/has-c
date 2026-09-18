@@ -28,10 +28,10 @@ Watch Monty eat through my GitHub activity — updated daily:
 
 ---
 
-<sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
-
 <!-- DAILY QUOTE -->
 > It is not enough to be in the right place at the right time. You should also have an open mind at the right time.
 >
 > — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
 <!-- /DAILY QUOTE -->
+
+<sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
