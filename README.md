@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> God exists since mathematics is consistent, and the Devil exists since we cannot prove it.
+> To a modern mathematician, design seems to be a second-rate intellectual activity.
 >
-> — *André Weil* (Mathematics) · [source](https://en.wikiquote.org/wiki/Andr%C3%A9_Weil)
+> — *George Forsythe* (Computer Science) · [source](https://en.wikiquote.org/wiki/George_Forsythe)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
