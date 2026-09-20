@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> To a modern mathematician, design seems to be a second-rate intellectual activity.
+> In the judgement of the most competent living mathematicians, Fräulein Noether was the most significant creative mathematical genius thus far produced since the higher education of women began. In the realm of algebra, in which the most gifted mathematicians have been busy for centuries, she discovered methods which have proved of enormous importance in the development of the present-day generation of younger mathematicians.
 >
-> — *George Forsythe* (Computer Science) · [source](https://en.wikiquote.org/wiki/George_Forsythe)
+> — *Albert Einstein* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
