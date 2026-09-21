@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.
+> A mathematical problem should be difficult in order to entice us, yet not completely inaccessible, lest it mock at our efforts. It should be to us a guide post on the mazy paths to hidden truths, and ultimately a reminder of our pleasure in the successful solution.
 >
-> — *John von Neumann* (Mathematics and Computer Science) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
