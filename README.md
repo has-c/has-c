@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> I keep the subject constantly before me, and wait 'till the first dawnings open slowly, by little and little, into a full and clear light.
+> To make light of philosophy is to be a true philosopher.
 >
-> — *Isaac Newton* (Mathematics) · [source](https://en.wikiquote.org/wiki/Isaac_Newton)
+> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
