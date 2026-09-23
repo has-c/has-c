@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> To make light of philosophy is to be a true philosopher.
+> It is not enough to be in the right place at the right time. You should also have an open mind at the right time.
 >
-> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
+> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
