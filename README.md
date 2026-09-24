@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> It is not enough to be in the right place at the right time. You should also have an open mind at the right time.
+> Gentlemen, that is surely true, it is absolutely paradoxical; we cannot understand it, and we don't know what it means. But we have proved it, and therefore we know it must be the truth.
 >
-> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
+> — *Benjamin Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benjamin_Peirce)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
