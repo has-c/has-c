@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> We live in a society absolutely dependent on science and technology and yet have cleverly arranged things so that almost no one understands science and technology. That's a clear prescription for disaster.
 >
-> — *Alan Turing* (Computer Science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Carl Sagan* (Astronomy) · [source](https://en.wikiquote.org/wiki/Carl_Sagan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
