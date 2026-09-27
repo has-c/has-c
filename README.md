@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> We live in a society absolutely dependent on science and technology and yet have cleverly arranged things so that almost no one understands science and technology. That's a clear prescription for disaster.
+> Linear programming is viewed as a revolutionary development giving man the ability to state general objectives and to find, by means of the simplex method, optimal policy decisions for a broad class of practical decision problems of great complexity. In the real world, planning tends to be ad hoc because of the many special-interest groups with their multiple objectives.
 >
-> — *Carl Sagan* (Astronomy) · [source](https://en.wikiquote.org/wiki/Carl_Sagan)
+> — *George Dantzig* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Dantzig)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
