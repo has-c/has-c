@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> We must state relationships, not procedures.
+> It is a very interesting number; it is the smallest number expressible as the sum of two cubes in two different ways.
 >
-> — *Grace Hopper* (Computer Science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
+> — *Srinivasa Ramanujan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
