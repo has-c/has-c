@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> I read once that the true mark of a pro — at anything — is that he understands, loves, and is good at even the drudgery of his profession.
+> My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.
 >
-> — *Paul Halmos* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Halmos)
+> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
