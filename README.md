@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.
+> First rank scientists recruit first rank scientists, but second rank scientists tend to recruit third rank scientists, third rank scientists recruit fifth rank, and so on. If the director of the Department is genuinely interested in preserving the high quality of his Institute, he must exercise all of his power to put things in their right place, otherwise the deterioration process is destined to diverge indefinitely.
 >
-> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
+> — *André Weil* (Mathematics) · [source](https://en.wikiquote.org/wiki/Andr%C3%A9_Weil)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
