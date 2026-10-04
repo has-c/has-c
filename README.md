@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> UNIX is very simple, it just needs a genius to understand its simplicity.
 >
-> — *Donald Knuth* (Computer Science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Dennis Ritchie* (Computer Science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
