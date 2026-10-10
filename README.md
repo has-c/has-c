@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> I mean the word proof not in the sense of the lawyers, who set two half proofs equal to a whole one, but in the sense of a mathematician, where ½ proof = 0, and it is demanded for proof that every doubt becomes impossible.
+> Whatever the progress of human knowledge, there will always be room for ignorance, hence for chance and probability.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *Emile Borel* (Mathematics) · [source](https://en.wikiquote.org/wiki/%C3%89mile_Borel)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
