@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> We are but whirlpools in a river of ever-flowing water. We are not the stuff that abides, but patterns that perpetuate themselves.
+> I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed … anything that could be counted, I did.
 >
-> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
+> — *Katherine Johnson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Katherine_Johnson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
