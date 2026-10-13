@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed … anything that could be counted, I did.
+> Don't cry, Alfred! I need all my courage to die at twenty.
 >
-> — *Katherine Johnson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Katherine_Johnson)
+> — *Évariste Galois* (Mathematics) · [source](https://en.wikiquote.org/wiki/%C3%89variste_Galois)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
