@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> Don't cry, Alfred! I need all my courage to die at twenty.
+> The love of God consists in an ardent desire to procure the general welfare, and reason teaches me that there is nothing which contributes more to the general welfare of mankind than the perfection of reason.
 >
-> — *Évariste Galois* (Mathematics) · [source](https://en.wikiquote.org/wiki/%C3%89variste_Galois)
+> — *Gottfried Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Leibniz)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
