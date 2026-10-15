@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> The love of God consists in an ardent desire to procure the general welfare, and reason teaches me that there is nothing which contributes more to the general welfare of mankind than the perfection of reason.
+> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
 >
-> — *Gottfried Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Leibniz)
+> — *Claude Elwood Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Elwood_Shannon)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
