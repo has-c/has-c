@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> All models are wrong; some models are useful.
+> Thinking doesn't guarantee that we won't make mistakes. But not thinking guarantees that we will.
 >
-> — *George E. P. Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_E._P._Box)
+> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
