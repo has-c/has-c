@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country.
+> Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.
 >
-> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
