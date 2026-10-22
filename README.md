@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> Creatures inveterately wrong in their inductions have a pathetic but praiseworthy tendency to die before reproducing their kind.
+> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> — *Willard Van Orman Quine* (logician and philosopher) · [source](https://en.wikiquote.org/wiki/Willard_Van_Orman_Quine)
+> — *John von Neumann* (mathematician and computer scientist) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
