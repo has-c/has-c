@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> It is by logic that we prove, but by intuition that we discover. To know how to criticize is good, to know how to create is better.
 >
-> — *John von Neumann* (mathematician and computer scientist) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Henri Poincaré* (mathematician) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
