@@ -29,9 +29,9 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-> It is by logic that we prove, but by intuition that we discover. To know how to criticize is good, to know how to create is better.
+> Throughout my whole life as a mathematician, the possibility of making explicit, elegant computations has always come out by itself, as a byproduct of a thorough conceptual understanding of what was going on. Thus I never bothered about whether what would come out would be suitable for this or that, but just tried to understand – and it always turned out that understanding was all that mattered.
 >
-> — *Henri Poincaré* (mathematician) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *Alexander Grothendieck* (mathematician) · [source](https://en.wikiquote.org/wiki/Alexander_Grothendieck)
 <!-- /DAILY QUOTE -->
 
 <sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
