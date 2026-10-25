@@ -29,7 +29,7 @@ Watch Monty eat through my GitHub activity — updated daily:
 ---
 
 <!-- DAILY QUOTE -->
-**Qwen3.8 27B · Deepcheena**
+**Qwen3.8 27B · GPU server**
 
 > Life's most important questions are, for the most part, nothing but problems of chance.
 >
@@ -42,4 +42,4 @@ Watch Monty eat through my GitHub activity — updated daily:
 > — *Donald Knuth* (computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 <!-- /DAILY QUOTE -->
 
-<sub>*Updated daily by Qwen3.8 27B on local hardware.*</sub>
+<sub>*Both quotes are generated daily on local hardware.*</sub>
