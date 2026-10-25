@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I am accustomed, as a professional mathematician, to living in a sort of vacuum, surrounded by people who declare with an odd sort of pride that they are mathematically illiterate.
+> Should the computer program the kid or should the kid program the computer?
 >
-> — *David Mumford* (mathematics) · [source](https://en.wikiquote.org/wiki/David_Mumford)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Mathemagical mathematics combines the beauty of mathematical structure with the entertainment value of a trick.
+> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
 >
-> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
+> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
