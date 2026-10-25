@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Life's most important questions are, for the most part, nothing but problems of chance.
+> I am accustomed, as a professional mathematician, to living in a sort of vacuum, surrounded by people who declare with an odd sort of pride that they are mathematically illiterate.
 >
-> — *Pierre-Simon Laplace* (mathematician) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *David Mumford* (mathematics) · [source](https://en.wikiquote.org/wiki/David_Mumford)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Beware of bugs in the above code; I have only proved it correct, not tried it.
+> Mathemagical mathematics combines the beauty of mathematical structure with the entertainment value of a trick.
 >
-> — *Donald Knuth* (computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
