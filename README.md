@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Now, suffering is a perfectly natural part of getting a neural network to work well, but it can be mitigated by being thorough, defensive, paranoid, and obsessed with visualizations of basically every possible thing.
+> Unfortunately, the world has not been designed for the convenience of mathematicians.
 >
-> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Now, suffering is a perfectly natural part of getting a neural network to work well, but it can be mitigated by being thorough, defensive, paranoid, and obsessed with visualizations of basically every possible thing.
+> Eventually, I decided that thinking was not getting me very far and it was time to try building.
 >
-> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
+> — *Rob Pike* (Computer science) · [source](https://en.wikiquote.org/wiki/Rob_Pike)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
