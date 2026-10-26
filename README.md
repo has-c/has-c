@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
+> "The analogy I've been using is the fact that perhaps an equivalent event in the history of humanity to what might be provided by Generalization of AI assistant is the invention of the printing press. It made everybody smarter."
 >
-> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
+> — *Yann LeCun* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Yann_LeCun)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
+> Among human beings, the subjection of women is much more complete at a certain level of civilization than it is among savages. And the subjection is always reinforced by morality.
 >
-> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
+> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
