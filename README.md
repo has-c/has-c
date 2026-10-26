@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> When... a simple principle has been discovered... then this principle or law itself generally leads to the discovery of a still wider range of hitherto unregarded phenomena... Every great advance of science opens our eyes to facts which we had failed before to observe, and makes new demands...
+> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
 
 **Qwen3.5 9B MTP · Mac**
 
-> In its evolution from a more primitive nervous system, the brain, as an organ with ten or more billion neurons and many more connections between them must have changed and grown as a result of many accidents.
+> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
 >
-> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
+> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
