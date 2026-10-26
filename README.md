@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If one proves the equality of two numbers a and b by showing first that a ≦ b and then that a ≧ b, it is unfair; one should instead show that they are really equal by disclosing the inner ground for their equality.
+> Relying on intelligence alone to pull things off at the last minute may work for a while, but generally speaking at the graduate level or higher it doesn't. One needs to do a serious amount of reading and writing, and not just thinking, in order to get anywhere serious in mathematics.
 >
-> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
+> — *Terence Tao* (Mathematics) · [source](https://en.wikiquote.org/wiki/Terence_Tao)
 
 **Qwen3.5 9B MTP · Mac**
 
-> As intelligence saturates the matter and energy available to it, it turns dumb matter into smart matter.
+> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
 >
-> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
+> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
