@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> To gaze up from the ruins of the oppressive present towards the stars is to recognise the indestructible world of laws, to strengthen faith in reason, to realise the " harmonia mundi " that transfuses all phenomena, and that never has been, nor will be, disturbed.
+> La construction d'une machine propre à exprimer tous les sons de nos paroles, avec toutes les articulations, seroit sans-doute une découverte bien importante. … La chose ne me paroît pas impossible.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Intelligence is becoming cheap as tap water.
+> A solid, up-to-date foundation is one key to being a productive machine learning engineer.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
