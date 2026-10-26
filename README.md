@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The most fruitful areas for the growth of the sciences were those which had been neglected as a no-man's land between the various established fields.
+> " The real value of tests is not that they detect bugs in the code, but that they detect inadequacies in the methods, concentration, and skills of those who design and produce the code."
 >
-> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The word " God," so "capitalised" (as we Americans say), is the definable proper name, signifying Ens necessarium; in my belief Really creator of all three Universes of Experience.
+> " The most important property of a program is whether it accomplishes the intentions of its user. "
 >
-> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
