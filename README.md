@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
+> It's not only the question, but the way you try to solve it.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Essentially, all models are wrong, but some are useful.
+> There are, of course, innumerable abuses, countless possible misinterpretations, and depressingly many biased studies, but, done right, the process works; it yields knowledge.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
