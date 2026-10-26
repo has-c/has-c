@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It's not only the question, but the way you try to solve it.
+> To gaze up from the ruins of the oppressive present towards the stars is to recognise the indestructible world of laws, to strengthen faith in reason, to realise the " harmonia mundi " that transfuses all phenomena, and that never has been, nor will be, disturbed.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There are, of course, innumerable abuses, countless possible misinterpretations, and depressingly many biased studies, but, done right, the process works; it yields knowledge.
+> Intelligence is becoming cheap as tap water.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
