@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> You don't understand anything until you learn it more than one way.
+> If one proves the equality of two numbers a and b by showing first that a ≦ b and then that a ≧ b, it is unfair; one should instead show that they are really equal by disclosing the inner ground for their equality.
 >
-> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
+> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701 (an early computer), writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs.
+> As intelligence saturates the matter and energy available to it, it turns dumb matter into smart matter.
 >
-> — *John Backus* (Computer science) · [source](https://en.wikiquote.org/wiki/John_Backus)
+> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
