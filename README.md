@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Relying on intelligence alone to pull things off at the last minute may work for a while, but generally speaking at the graduate level or higher it doesn't. One needs to do a serious amount of reading and writing, and not just thinking, in order to get anywhere serious in mathematics.
+> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
 >
-> — *Terence Tao* (Mathematics) · [source](https://en.wikiquote.org/wiki/Terence_Tao)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
+> Essentially, all models are wrong, but some are useful.
 >
-> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
