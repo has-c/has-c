@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science is knowledge which we understand so well that we can teach it to a computer; and if we don't fully understand something, it is an art to deal with it.
+> Progress imposes not only new possibilities for the future but new restrictions. It seems almost as if progress itself and our fight against the increase of entropy intrinsically must end in the downhill path from which we are trying to escape.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ... we do not consider it as good engineering practice to consume a resource lavishly just because it happens to be cheap.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
