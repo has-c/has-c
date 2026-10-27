@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> We'll show you that you can build a mind from many little parts, each mindless by itself.
+> People who are really serious about software should make their own hardware.
 >
-> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
+> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "AI is going to bring a new renaissance for humanity, a new form of enlightenment, if you want, because AI is going to amplify everybody's intelligence."
+> Many will be busied in taking away from a thing, which will grow in proportion as it is diminished.
 >
-> — *Yann LeCun* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Yann_LeCun)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
