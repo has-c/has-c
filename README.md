@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Understand me well. My appeal is to observation — observation that each of you must make for himself.
+> UNIX is very simple, it just needs a genius to understand its simplicity.
 >
-> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
+> — *Dennis Ritchie* (Computer science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Any girl can be glamorous. All you have to do is stand still and look stupid.
+> If one has really technically penetrated a subject, things that previously seemed in complete contrast, might be purely mathematical transformations of each other.
 >
-> — *Hedy Lamarr* (Invention) · [source](https://en.wikiquote.org/wiki/Hedy_Lamarr)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
