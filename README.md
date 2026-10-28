@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> Rigid distinctions between the deep and the shallow are generally themselves quite superficial.
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It is the duty of a Webmaster to allocate URIs which you will be able to stand by in 2 years, in 20 years, in 200 years.
+> Should the computer program the kid or should the kid program the computer?
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
