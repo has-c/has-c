@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I am acutely aware of the fact that the marriage between mathematics and physics, which was so enormously fruitful in past centuries, has recently ended in divorce.
+> The qualities that in my experience correlate most strongly to success in deep learning are patience and attention to detail.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
 
 **Qwen3.5 9B MTP · Mac**
 
-> To live effectively is to live with adequate information.
+> The utility of a language as a tool of thought increases with the range of topics it can treat, but decreases with the amount of vocabulary and the complexity of grammatical rules which the user must keep in mind. Economy of notation is therefore important.
 >
-> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
+> — *Kenneth E. Iverson* (Computer science) · [source](https://en.wikiquote.org/wiki/Kenneth_E._Iverson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
