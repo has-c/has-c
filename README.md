@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.
+> C is a razor-sharp tool, with which one can create an elegant and efficient program or a bloody mess.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
+> Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?
 >
-> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
