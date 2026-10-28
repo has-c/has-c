@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed.
+> There are two ways in which a science develops; in response to problems which is itself creates, and in response to problems that are forced on it from the outside.
 >
-> — *Douglas Engelbart* (Computer science) · [source](https://en.wikiquote.org/wiki/Douglas_Engelbart)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We need to think about how to boost our collective IQ, and how important it would be to society because all of the technologies are just going to make our world accelerate faster and faster and get more and more complex and we're not equipped to cope with that complexity.
+> Opinion is the companion of probability within the medieval epistemology.
 >
-> — *Douglas Engelbart* (Computer science) · [source](https://en.wikiquote.org/wiki/Douglas_Engelbart)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
