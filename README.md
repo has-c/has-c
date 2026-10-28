@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Soldering things together, putting the chips together, designing them, drawing them on drafting tables — it was so much a passion in my life. And to this day, I'll go stay at the bottom of the org chart being an engineer, because that's where I want to be.
+> Controlling complexity is the essence of computer programming.
 >
-> — *Steve Wozniak* (Computer science) · [source](https://en.wikiquote.org/wiki/Steve_Wozniak)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A mathematical formula should never be "owned" by anybody! Mathematics belong to God.
+> Mechanical rules are never a substitute for clarity of thought.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
