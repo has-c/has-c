@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It is customary... to offer a grain of comfort, in the form of a statement that some peculiarly human characteristic could never be imitated by a machine.... I cannot offer any such comfort, for I believe that no such bounds can be set.
+> I am acutely aware of the fact that the marriage between mathematics and physics, which was so enormously fruitful in past centuries, has recently ended in divorce.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> For scholars and laymen alike it is not philosophy but active experience in mathematics itself that can alone answer the question: What is mathematics?
+> To live effectively is to live with adequate information.
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
