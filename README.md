@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> When a problem seems intractable, it is often a good idea to try to study "toy" versions of it in the hope that as the toys become increasingly larger and more sophisticated, they would metamorphose, in the limit, to the real thing.
+> We cannot rely on mass inspection to improve quality, though there are times when 100 percent inspection is necessary. As Harold S. Dodge said many years ago, 'You cannot inspect quality into a product.' The quality is there or it isn't by the time it's inspected.
 >
-> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
+> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It is important to understand how new developments relate to what others have done in the past.
+> Sir, an equation has no meaning for me unless it expresses a thought of GOD.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Srinivasa Ramanujan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
