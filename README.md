@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Rigid distinctions between the deep and the shallow are generally themselves quite superficial.
+> When a problem seems intractable, it is often a good idea to try to study "toy" versions of it in the hope that as the toys become increasingly larger and more sophisticated, they would metamorphose, in the limit, to the real thing.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Should the computer program the kid or should the kid program the computer?
+> It is important to understand how new developments relate to what others have done in the past.
 >
-> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
