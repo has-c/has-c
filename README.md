@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The power of ideas to transform the world is itself accelerating.
+> I don’t think that everyone should become a mathematician, but I do believe that many students don’t give mathematics a real chance.
 >
-> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
+> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Ultimately, the entire universe will become saturated with our intelligence...This is the destiny of the universe.
+> If I knew I was going to die today, I think I should still want to hear the cricket scores.
 >
-> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
+> — *G. H. Hardy* (Mathematics) · [source](https://en.wikiquote.org/wiki/G._H._Hardy)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
