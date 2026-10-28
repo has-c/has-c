@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.
 >
-> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
+> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Just as iron rusts unless it is used, and water putrifies or, in cold, turns to ice, so our intellect spoils unless it is kept in use.
+> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
 >
-> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
+> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
