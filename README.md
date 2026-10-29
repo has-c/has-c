@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The consciousness of a general idea has a certain "unity of the ego" in it, which is identical when it passes from one mind to another. It is, therefore, quite analogous to a person, and indeed, a person is only a particular kind of general idea.
+> It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl. Both are laws of nature.
 >
-> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> C is quirky, flawed, and an enormous success.
+> Some French socialist said that private property was theft … I say that private property is a nuisance.
 >
-> — *Dennis Ritchie* (Computer science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
+> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
