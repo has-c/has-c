@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> The most fruitful areas for the growth of the sciences were those which had been neglected as a no-man's land between the various established fields.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This, then, was the religion that I was raised with: veneration for human creativity and the power of ideas.
+> It becomes the urgent duty of mathematicians, therefore, to meditate about the essence of mathematics, its motivations and goals and the ideas that must bind divergent interests together.
 >
-> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
+> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
