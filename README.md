@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Quality comes not from inspection, but from improvement of the production process.
+> Engineering is too important to wait for science.
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> And believe it or not, reinforcement learning was the first thing, how to come up with a system that could learn to act and achieve goals.
+> C'est une maladie naturelle à l'homme de croire qu'il possède la vérité directement…
 >
-> — *Paul Werbos* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Paul_Werbos)
+> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
