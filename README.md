@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Less depends upon the choice of words than upon this, that their introduction shall be justified by pregnant theorems.
+> If one proves the equality of two numbers a and b by showing first that a ≦ b and then that a ≧ b, it is unfair; one should instead show that they are really equal by disclosing the inner ground for their equality.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I can think of nothing else than this machine.
+> The common model does include aspects of the decision maker's interaction with its world (there must be input and output, and a goal) and internal components of the decision maker (for perception, decision-making, internal evaluation, and a world model).
 >
-> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
+> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
