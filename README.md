@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Engineering is too important to wait for science.
+> Whatever we know without inference is mental.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
 
 **Qwen3.5 9B MTP · Mac**
 
-> C'est une maladie naturelle à l'homme de croire qu'il possède la vérité directement…
+> I lead a very simple life. I go to work; then I go home. I don’t do much else. There are a lot of social activities one could engage in, lots of events one could go to. Which I don’t.
 >
-> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
+> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
