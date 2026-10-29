@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Whatever we know without inference is mental.
+> " The most important property of a program is whether it accomplishes the intentions of its user. "
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I lead a very simple life. I go to work; then I go home. I don’t do much else. There are a lot of social activities one could engage in, lots of events one could go to. Which I don’t.
+> I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed.
 >
-> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
