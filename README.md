@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
+> As the prerogative of Natural Science is to cultivate a taste for observation, so that of Mathematics is, almost from the starting point, to stimulate the faculty of invention.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
 
 **Qwen3.5 9B MTP · Mac**
 
-> No epoch is homogeneous; whatever you may have assigned as the dominant note of a considerable period, it will always be possible to produce men, and great men, belonging to the same time, who exhibit themselves as antagonistic to the tone of their age.
+> The experience of the scientists who have worked on the atomic bomb has indicated that in any investigation of this kind the scientist ends by putting unlimited powers in the hands of the people whom he is least inclined to trust with their use.
 >
-> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
