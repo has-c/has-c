@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> Everyone is a programmer now. You just have to say something to the computer.
 >
-> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We all agree on the necessity of compromise. We just can't agree on when it's necessary to compromise.
+> The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed.
 >
-> — *Larry Wall* (Computer science) · [source](https://en.wikiquote.org/wiki/Larry_Wall)
+> — *Douglas Engelbart* (Computer science) · [source](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
