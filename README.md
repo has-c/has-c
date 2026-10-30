@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> This book... too, is a society — of many small ideas. Each by itself is only common sense, yet when we join enough of them we explain the strangest mysteries of mind.
+> A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering.
 >
-> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Wherever there is the slightest possibility for the human mind to know, there is a legitimate problem of science. Outside the field of actual knowledge can only lie a region of the vaguest opinion and imagination, to which... men too often... pay higher respect than to knowledge.
+> But this is definitely another of those "This is our most desperate hour. Help me, Al-biwan Ke-Viro, you're my only hope" issues. Al? Please don't make me wear that golden bikini.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
