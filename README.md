@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering.
+> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> But this is definitely another of those "This is our most desperate hour. Help me, Al-biwan Ke-Viro, you're my only hope" issues. Al? Please don't make me wear that golden bikini.
+> We all agree on the necessity of compromise. We just can't agree on when it's necessary to compromise.
 >
-> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
+> — *Larry Wall* (Computer science) · [source](https://en.wikiquote.org/wiki/Larry_Wall)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
