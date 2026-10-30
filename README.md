@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> We need to think about how to boost our collective IQ, and how important it would be to society because all of the technologies are just going to make our world accelerate faster and faster and get more and more complex and we're not equipped to cope with that complexity.
+> Humor, since it depends on so many emotional, social, and intellectual facets of human beings, is particularly immune to computer simulation.
 >
-> — *Douglas Engelbart* (Computer science) · [source](https://en.wikiquote.org/wiki/Douglas_Engelbart)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 
 **Qwen3.5 9B MTP · Mac**
 
-> No, I had the box set. You had to pull hard, but you could pull one of the box. Now I’m less likely to use any book for reference—I’m just likely to do a search.
+> I did not hear what you said, but I absolutely disagree with you.
 >
-> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
+> — *Augustus De Morgan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Augustus_De_Morgan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
