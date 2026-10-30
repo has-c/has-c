@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The purpose of computing is insight, not numbers.
+> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The Postulates of Mathematics Were Not on the Stone Tablets that Moses Brought Down from Mt. Sinai.
+> No epoch is homogeneous; whatever you may have assigned as the dominant note of a considerable period, it will always be possible to produce men, and great men, belonging to the same time, who exhibit themselves as antagonistic to the tone of their age.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
