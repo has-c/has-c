@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The object of the present volume is to point out the effects and the advantages which arise from the use of tools and machines;—to endeavour to classify their modes of action;—and to trace both the causes and the consequences of applying machinery to supersede the skill and power of the human arm.
+> Simpson's paradox (Simpson 1951; Blyth 1972), first encountered by Pearson in 1899 (Aldrich 1995), refers to the phenomenon whereby an event C increases the probability of E in a given population p and, at the same time, decreases the probability of E in every subpopulation of p.
 >
-> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The field of science is unlimited; its material is endless, every group of natural phenomena, every phase of social life, every stage of past or present development is material for science. The unity of all science consists alone in its method, not in its material.
+> An ethicist is someone who sees something wrong with whatever you have in mind.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
