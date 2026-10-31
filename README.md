@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The author discusses valueless measures in pointless spaces.
+> Learning algorithms related to artificial neural networks and in particular for Deep Learning may seem to involve many bells and whistles, called hyper-parameters.
 >
-> — *Paul Halmos* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Halmos)
+> — *Yoshua Bengio* (Artificial intelligence) · [source](https://arxiv.org/abs/1206.5533)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Debunking bad science should be constant obligation of the science community, even if it takes time away from serious research or seems to be a losing battle. One takes comfort from the fact there is no Gresham's laws in science. In the long run, good science drives out bad.
+> To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
 >
-> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
