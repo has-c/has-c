@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> ... les traités de mécanique ne distinguent pas bien nettement ce qui est expérience, ce qui est raisonnement mathématique, ce qui est convention, ce qui est hypothèse.
+> One can measure the importance of a scientific work by the number of earlier publications rendered superfluous by it.
 >
-> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This shared base of knowledge is essential to the rapid progress we've seen in machine learning in recent years.
+> Machines take me by surprise with great frequency.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
