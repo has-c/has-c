@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Human beings, viewed as behaving systems, are quite simple. The apparent complexity of our behavior over time is largely a reflection of the complexity of the environment in which we find ourselves.
+> Number, place, and combination... the three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred.
 >
-> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
+> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> Many children who grow up in our cities are surrounded by the artifacts of science but have good reason to see them as belonging to "the others"; in many cases they are perceived as belonging to the social enemy.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
