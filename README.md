@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The million, million, million … to one chance happens once in a million, million, million … times no matter how surprised we may be that it results in us.
+> I am coming more and more to the conviction that the necessity of our geometry cannot be demonstrated, at least neither by, nor for, the human intellect... Geometry should be ranked, not with arithmetic, which is purely aprioristic, but with mechanics.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The first man put at the helm will be a good one. No body knows what sort may come afterwards. The Executive will be always increasing here, as elsewhere, till it ends in a Monarchy.
+> Heredity. Given any organ in a parent and the same or any other organ in its offspring, the mathematical measure of heredity is the correlation of these organs for pairs of parent and offspring... The word organ here must be taken to include any characteristic which can be quantitatively measured.
 >
-> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
