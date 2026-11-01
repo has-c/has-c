@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Unless we can explain the mind in terms of things that have no thoughts or feelings of their own, we'll only have gone around in a circle.
+> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
 >
-> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Will robots inherit the earth? Yes, but they will be our children.
+> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
 >
-> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
