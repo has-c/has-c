@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I am coming more and more to the conviction that the necessity of our geometry cannot be demonstrated, at least neither by, nor for, the human intellect... Geometry should be ranked, not with arithmetic, which is purely aprioristic, but with mechanics.
+> The researcher hoping to break new ground in the theory of experimental design should involve himself in the design of actual experiments. The investigator who hopes to revolutionize decision theory should observe and take part in the making of important decisions.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Heredity. Given any organ in a parent and the same or any other organ in its offspring, the mathematical measure of heredity is the correlation of these organs for pairs of parent and offspring... The word organ here must be taken to include any characteristic which can be quantitatively measured.
+> Statistical criteria should (1) be sensitive to change in the specific factors tested, (2) be insensitive to changes, of a magnitude likely to occur in practice, in extraneous factors.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
