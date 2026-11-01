@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
+> The notion of conditional probability is a basic tool of probability theory, and it is unfortunate that its great simplicity is somewhat obscured by a singularly clumsy terminology.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
+> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
