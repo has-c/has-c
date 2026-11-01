@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> In the case of reinforcement learning (RL)—whose main ideas go back a very long way—it has been immensely gratifying to participate in establishing new links between RL and methods from the theory of stochastic optimal control.
+> The million, million, million … to one chance happens once in a million, million, million … times no matter how surprised we may be that it results in us.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Especially exciting are the connections between temporal difference (TD) algorithms and the brain's dopamine system.
+> The first man put at the helm will be a good one. No body knows what sort may come afterwards. The Executive will be always increasing here, as elsewhere, till it ends in a Monarchy.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
