@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It took them only an instant to cut off that head, but France may not produce another like it in a century.
+> It's not only the question, but the way you try to solve it.
 >
-> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
+> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This chapter is meant as a practical guide with recommendations for some of the most commonly used hyper-parameters, in particular in the context of learning algorithms based on back-propagated gradient and gradient-based optimization.
+> Any girl can be glamorous. All you have to do is stand still and look stupid.
 >
-> — *Yoshua Bengio* (Artificial intelligence) · [source](https://arxiv.org/abs/1206.5533)
+> — *Hedy Lamarr* (Invention) · [source](https://en.wikiquote.org/wiki/Hedy_Lamarr)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
