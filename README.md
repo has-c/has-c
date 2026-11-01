@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Tout le monde y croit cependant, me disait un jour M. Lippmann, car les expérimentateurs s'imaginent que c'est un théorème de mathématiques, et les mathématiciens que c'est un fait expérimental.
+> Science is a differential equation. Religion is a boundary condition.
 >
-> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The best way to learn a topic is by teaching it. Similarly the best way to understand a new proof is by writing an expository article about it.
+> A solid, up-to-date foundation is one key to being a productive machine learning engineer.
 >
-> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
+> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
