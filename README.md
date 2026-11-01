@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The notion of conditional probability is a basic tool of probability theory, and it is unfortunate that its great simplicity is somewhat obscured by a singularly clumsy terminology.
+> Rationalism is an adventure in the clarification of thought.
 >
-> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> On the wisdom with which we bring science to bear in the war against disease, in the creation of new industries, and in the strengthening of our Armed Forces depends in large measure our future as a nation.
 >
-> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
+> — *Vannevar Bush* (Computer science) · [source](https://en.wikiquote.org/wiki/Vannevar_Bush)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
