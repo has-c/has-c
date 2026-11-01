@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It's not only the question, but the way you try to solve it.
+> In the case of reinforcement learning (RL)—whose main ideas go back a very long way—it has been immensely gratifying to participate in establishing new links between RL and methods from the theory of stochastic optimal control.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Any girl can be glamorous. All you have to do is stand still and look stupid.
+> Especially exciting are the connections between temporal difference (TD) algorithms and the brain's dopamine system.
 >
-> — *Hedy Lamarr* (Invention) · [source](https://en.wikiquote.org/wiki/Hedy_Lamarr)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
