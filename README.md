@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Anyone who slaps a ‘this page is best viewed with Browser X’ label on a Web page appears to be yearning for the bad old days, before the Web, when you had very little chance of reading a document written on another computer, another word processor, or another network.
+> Unless we can explain the mind in terms of things that have no thoughts or feelings of their own, we'll only have gone around in a circle.
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.
+> Will robots inherit the earth? Yes, but they will be our children.
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
