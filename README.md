@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Rationalism is an adventure in the clarification of thought.
+> Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.
 >
-> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
+> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
 
 **Qwen3.5 9B MTP · Mac**
 
-> On the wisdom with which we bring science to bear in the war against disease, in the creation of new industries, and in the strengthening of our Armed Forces depends in large measure our future as a nation.
+> Relying on intelligence alone to pull things off at the last minute may work for a while, but generally speaking at the graduate level or higher it doesn't. One needs to do a serious amount of reading and writing, and not just thinking, in order to get anywhere serious in mathematics.
 >
-> — *Vannevar Bush* (Computer science) · [source](https://en.wikiquote.org/wiki/Vannevar_Bush)
+> — *Terence Tao* (Mathematics) · [source](https://en.wikiquote.org/wiki/Terence_Tao)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
