@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science is a differential equation. Religion is a boundary condition.
+> One shall be born from small beginnings which will rapidly become vast. This will respect no created thing, rather will it, by its power, transform almost every thing from its own nature into another.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A solid, up-to-date foundation is one key to being a productive machine learning engineer.
+> The more I think about language, the more it amazes me that people ever understand each other at all.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
