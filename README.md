@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The public has a distorted view of science, because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries.
+> The whole thing that makes a mathematician’s life worthwhile is that he gets the grudging admiration of three or four colleagues.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It is not enough to be in the right place at the right time. You should also have an open mind at the right time.
+> It is important to understand how new developments relate to what others have done in the past.
 >
-> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
