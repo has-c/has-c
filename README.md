@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Such progress in compressibility is measured and maximized by the curiosity drive: create action sequences that extend the observation history and yield previously unknown / unpredictable but quickly learnable algorithmic regularity.
+> As long as algebra and geometry proceeded along separate paths, their advance was slow and their applications limited. But when these sciences joined company, they drew from each other fresh vitality and thenceforward marched on at a rapid pace toward perfection.
 >
-> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
+> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
 
 **Qwen3.5 9B MTP · Mac**
 
-> An unusually large breakthrough in compressibility deserves the name "discovery".
+> Formal proofs, where there is deliberately no meaning, can convince only formalists, and of the results they themselves seem to deny any meaning. Is that to be the mathematics we are to use to understand the world we live in?
 >
-> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
+> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
