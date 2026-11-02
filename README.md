@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
+> The "creativity" of artists, dancers, musicians, pure mathematicians can be viewed as a by-product of this principle.
 >
-> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 
 **Qwen3.5 9B MTP · Mac**
 
-> To understand God's thoughts we must study statistics, for these are the measure of His purpose.
+> At any time, given some agent's current coding capabilities, part of the data is compressible by a short and hopefully fast program / description / explanation / world model.
 >
-> — *Florence Nightingale* (Statistics) · [source](https://en.wikiquote.org/wiki/Florence_Nightingale)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
