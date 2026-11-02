@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Overemphasis of efficiency leads to an unfortunate circularity in design: for reasons of efficiency early programming languages reflected the characteristics of the early computers, and each generation of computers reflects the needs of the programming languages of the preceding generation.
+> If one proves the equality of two numbers a and b by showing first that a ≦ b and then that a ≧ b, it is unfair; one should instead show that they are really equal by disclosing the inner ground for their equality.
 >
-> — *Kenneth E. Iverson* (Computer science) · [source](https://en.wikiquote.org/wiki/Kenneth_E._Iverson)
+> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
+> pause either further training, or pause deployment, or avoiding certain types of training that we think might be riskier. So just setting up some reasonable rules for what everyone should do to having everyone somewhat limit these things
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *John Schulman* (Reinforcement learning) · [source](https://en.wikiquote.org/wiki/John_Schulman)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
