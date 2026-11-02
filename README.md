@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> As long as algebra and geometry proceeded along separate paths, their advance was slow and their applications limited. But when these sciences joined company, they drew from each other fresh vitality and thenceforward marched on at a rapid pace toward perfection.
+> Overall, it describes elements of the practice used to successfully and efficiently train and debug large-scale and often deep multi-layer neural networks.
 >
-> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
+> — *Yoshua Bengio* (Artificial intelligence) · [source](https://arxiv.org/abs/1206.5533)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Formal proofs, where there is deliberately no meaning, can convince only formalists, and of the results they themselves seem to deny any meaning. Is that to be the mathematics we are to use to understand the world we live in?
+> Learning algorithms related to artificial neural networks and in particular for Deep Learning may seem to involve many bells and whistles, called hyper-parameters.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Yoshua Bengio* (Artificial intelligence) · [source](https://arxiv.org/abs/1206.5533)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
