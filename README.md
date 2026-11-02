@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won’t usually need your flowcharts; they’ll be obvious.
+> Keep computations to the lowest level of the multiplication table.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.
+> Theologus: Amare autem? Philosophus: Felicitate alterius delectari.
 >
-> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
+> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
