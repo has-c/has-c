@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Less depends upon the choice of words than upon this, that their introduction shall be justified by pregnant theorems.
+> Opportunity is missed by most people because it is dressed in overalls and looks like work.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
 
 **Qwen3.5 9B MTP · Mac**
 
-> O mighty and once living instrument of formative nature. Incapable of availing thyself of thy vast strength thou hast to abandon a life of stillness and to obey the law which God and time gave to procreative nature.
+> "Lisez Euler, lisez Euler, c'est notre maître à tous."
 >
-> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
+> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
