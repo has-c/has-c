@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> quando orientur controversiae, non magis disputatione opus erit inter duos philosophos, quam inter duos computistas. Sufficiet enim calamos in manus sumere sedereque ad abacos, et sibi mutuo (accito si placet amico) dicere: calculemus
+> The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.
 >
-> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?
+> A convincing demonstration of correctness being impossible as long as the mechanism is regarded as a black box, our only hope lies in not regarding the mechanism as a black box.
 >
-> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
