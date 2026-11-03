@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If one proves the equality of two numbers a and b by showing first that a ≦ b and then that a ≧ b, it is unfair; one should instead show that they are really equal by disclosing the inner ground for their equality.
+> quando orientur controversiae, non magis disputatione opus erit inter duos philosophos, quam inter duos computistas. Sufficiet enim calamos in manus sumere sedereque ad abacos, et sibi mutuo (accito si placet amico) dicere: calculemus
 >
-> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
+> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
 
 **Qwen3.5 9B MTP · Mac**
 
-> pause either further training, or pause deployment, or avoiding certain types of training that we think might be riskier. So just setting up some reasonable rules for what everyone should do to having everyone somewhat limit these things
+> If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?
 >
-> — *John Schulman* (Reinforcement learning) · [source](https://en.wikiquote.org/wiki/John_Schulman)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
