@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If there were no limits to human rationality administrative theory would be barren. It would consist of the single precept: Always select that alternative, among those available, which will lead to the most complete achievement of your goals.
+> Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
 **Qwen3.5 9B MTP · Mac**
 
-> … the best causes tend to attract to their support the worst arguments, which seems to be equally true in the intellectual and in the moral sense.
+> Are you quite sure that all those bells and whistles, all those wonderful facilities of your so-called "powerful" programming languages belong to the solution set rather than to the problem set?
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
