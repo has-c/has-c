@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Defects are not free. Somebody makes them, and gets paid for making them.
+> It is well-known that knowledge of regularity and repeatability may improve the agent's ability to plan actions leading to external rewards.
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This confusion of the certainty of mathematics within a formal system and the uncertainty of its applications to the world is a common mistake often made by ignorant sociologists.
+> In absence of such rewards, however, known beauty is boring.
 >
-> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
