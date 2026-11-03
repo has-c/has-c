@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> An ancient adage warns, "Never go to sea with two chronometers; take one or three."
+> Mr. Holmes receives a telephone call from his neighbor Dr. Watson who states that he hears the sound of a burglar alarm from the direction of Mr. Holmes' house. While preparing to rush home, Mr. Holmes recalls that Dr. Watson is known to be a tasteless practical joker...
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
+> Data do not understand causes and effects; humans do.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
