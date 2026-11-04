@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Study after study shows that the very best designers produce structures that are faster, smaller, simpler, clearer, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> It becomes the urgent duty of mathematicians, therefore, to meditate about the essence of mathematics, its motivations and goals and the ideas that must bind divergent interests together.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The bearing of a child takes nine months, no matter how many women are assigned.
+> We're not masturbating around with some research project. We never were. Even when Linux was young, the whole and only point was to make a *usable* system. It's why it's not some crazy drug-induced microkernel or other random crazy thing.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
