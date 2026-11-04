@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.
+> Roughly speaking, rationality is concerned with the selection of preferred behavior alternatives in terms of some system of values, whereby the consequences of behavior can be evaluated.
 >
-> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
+> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> When we had no computers, we had no programming problem either. When we had a few computers, we had a mild programming problem. Confronted with machines a million times as powerful, we are faced with a gigantic programming problem.
+> The techniques of the practitioner are usually called 'synthetic'. He designs by organizing known principles and devices into larger systems.
 >
-> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
+> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
