@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A unified theory of cognition is a single set of mechanisms that cover all of cognition—problem solving, decision making, routine action, memory, learning, skill, perception, and motor behavior.
+> For progress there is no cure.... The only safety possible is relative, and it lies in an intelligent exercise of day-to-day judgement.
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It is not enough to be in the right place at the right time. You should also have an open mind at the right time.
+> Here you would know and enjoy what posterity will say of Washington. For a thousand leagues have nearly the same effect with a thousand years.
 >
-> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
+> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
