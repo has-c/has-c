@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> As long as algebra and geometry proceeded along separate paths, their advance was slow and their applications limited. But when these sciences joined company, they drew from each other fresh vitality and thenceforward marched on at a rapid pace toward perfection.
+> Whereas economic man maximizes - selects the best alternative from among all those available to him, his cousin, administrative man, satisfices - looks for a course of action that is satisfactory or "good enough."
 >
-> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
+> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I never did anything worth doing by accident, nor did any of my inventions come indirectly through accident, except the phonograph. No, when I have, fully decided that a result is worth getting, I go about it, and make trial after trial, until it comes.
+> You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
