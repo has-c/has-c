@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The purpose of computing is insight, not numbers.
+> To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 
 **Qwen3.5 9B MTP · Mac**
 
-> With Mie's view of matter there is contrasted another, according to which matter is a limiting singularity of the field, but charges and masses are force- fluxes in the field. This entails a new and more cautious attitude towards the whole problem of matter.
+> (Coining the phrase ‘test of significance’): Critical tests of this kind may be called tests of significance, and when such tests are available we may discover whether a second sample is or is not significantly different from the first.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
