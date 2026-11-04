@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> One can even conjecture that Lisp owes its survival specifically to the fact that its programs are lists, which everyone, including me, has regarded as a disadvantage.
+> The purpose of computing is insight, not numbers.
 >
-> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
+> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
+> With Mie's view of matter there is contrasted another, according to which matter is a limiting singularity of the field, but charges and masses are force- fluxes in the field. This entails a new and more cautious attitude towards the whole problem of matter.
 >
-> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
+> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
