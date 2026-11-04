@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It becomes the urgent duty of mathematicians, therefore, to meditate about the essence of mathematics, its motivations and goals and the ideas that must bind divergent interests together.
+> You know that I write slowly. This is chiefly because I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We're not masturbating around with some research project. We never were. Even when Linux was young, the whole and only point was to make a *usable* system. It's why it's not some crazy drug-induced microkernel or other random crazy thing.
+> Fa vini potenti e assai, … e ‘l vino vale el più uno soldo il boccale e la libbra della vitella un soldo e ‘l sale 10 dinari, e ‘l simile il burro, ed è la loro libbra 30 once, e l’ova un soldo la soldata. (Modern Italian)
 >
-> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
