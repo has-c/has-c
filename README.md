@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Whereas economic man maximizes - selects the best alternative from among all those available to him, his cousin, administrative man, satisfices - looks for a course of action that is satisfactory or "good enough."
+> It is time to recognize and build on the convergence of multiple diverse disciplines on a substantive common model of the intelligent agent.
 >
-> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
+> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
 
 **Qwen3.5 9B MTP · Mac**
 
-> You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for.
+> Never start with a chiplet design; go for the biggest chip you can imagine and build it.
 >
-> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
