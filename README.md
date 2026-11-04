@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> You know that I write slowly. This is chiefly because I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> Do what you think is interesting, do something that you think is fun and worthwhile, because otherwise you won't do it well anyway.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Fa vini potenti e assai, … e ‘l vino vale el più uno soldo il boccale e la libbra della vitella un soldo e ‘l sale 10 dinari, e ‘l simile il burro, ed è la loro libbra 30 once, e l’ova un soldo la soldata. (Modern Italian)
+> As soon as an Analytical Engine exists, it will necessarily guide the future course of the science. Whenever any result is sought by its aid, the question will then arise — by what course of calculation can these results be arrived at by the machine in the shortest time?
 >
-> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
+> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
