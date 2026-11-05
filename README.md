@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Before a science can develop principles, it must possess concepts. Before a law of gravitation could be formulated, it was necessary to have the notions of “acceleration” and “weight.”
+> The idea of this paper is to sharpen and deepen this premise by proposing a perspective on the decision maker that is substantive and widely held across psychology, artificial intelligence, economics, control theory, and neuroscience, which I call the "common model of the intelligent agent".
 >
-> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
+> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Moonshots? How about robots that will design robots that will operate robots that will design new robots.
+> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
