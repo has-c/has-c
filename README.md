@@ -1,6 +1,6 @@
 # Hey, I'm Hasnain (Has) 👋
 
-**Data Scientist & Engineer** — building with machine learning and data pipelines
+**Data Scientist & AI Engineer** — building systems using machine learning and data pipelines
 
 ---
 
