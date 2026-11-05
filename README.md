@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The best way to learn a topic is by teaching it. Similarly the best way to understand a new proof is by writing an expository article about it.
+> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
 >
-> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
+> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
 
 **Qwen3.5 9B MTP · Mac**
 
-> When a problem seems intractable, it is often a good idea to try to study "toy" versions of it in the hope that as the toys become increasingly larger and more sophisticated, they would metamorphose, in the limit, to the real thing.
+> Do not lose your faith. A mighty fortress is our mathematics. Mathematics will rise to the challenge, as it always has.
 >
-> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
+> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
