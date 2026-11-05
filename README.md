@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> All existing things upon this earth, which have knowledge of their own existence, possess, some in one degree and some in another, the power of thought, accompanied by perception, which is the awakening of thought by the effects of external objects upon the senses.
 >
-> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
+> — *Augustus De Morgan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Augustus_De_Morgan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> C is a razor-sharp tool, with which one can create an elegant and efficient program or a bloody mess.
+> Painting is poetry which is seen and not heard, and poetry is a painting which is heard but not seen. These two arts, you may call them both either poetry or painting, have here interchanged the senses by which they penetrate to the intellect.
 >
-> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
