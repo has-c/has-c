@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
+> The ultimate metaphysical principle is the advance from disjunction to conjunction, creating a novel entity other than the entities given in disjunction.
 >
-> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Do not lose your faith. A mighty fortress is our mathematics. Mathematics will rise to the challenge, as it always has.
+> The demand for exceptional ability, when combined with energy and good character, is so great that a lad who is gifted with them is hardly more likely to remain over looked than a bird’s nest in the playground of a school.
 >
-> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
+> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
