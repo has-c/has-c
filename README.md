@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> After all, it is a common weakness of young authors to put too much into their papers.
+> Data do not understand causes and effects; humans do.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This is just a start when it comes to training neural nets.
+> Newton was the greatest genius that ever existed, and the most fortunate, for we cannot find more than once a system of the world to establish.
 >
-> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
+> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
