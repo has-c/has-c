@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A mathematical formula should never be "owned" by anybody! Mathematics belong to God.
+> After all, it is a common weakness of young authors to put too much into their papers.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Il y a jusque dans les exercices des enfants ce qui pourrait arrêter le plus grand Mathématicien.
+> This is just a start when it comes to training neural nets.
 >
-> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
+> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
