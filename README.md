@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The ultimate metaphysical principle is the advance from disjunction to conjunction, creating a novel entity other than the entities given in disjunction.
+> That axiom of Metaphysicians which is termed the principle of contradiction and which affirms that it is impossible for anything to possess a quality, and in the same time not to possess it, is a consequence of the fundamental law of thought, whose expression is x²=x.
 >
-> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
+> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The demand for exceptional ability, when combined with energy and good character, is so great that a lad who is gifted with them is hardly more likely to remain over looked than a bird’s nest in the playground of a school.
+> La construction d'une machine propre à exprimer tous les sons de nos paroles, avec toutes les articulations, seroit sans-doute une découverte bien importante. … La chose ne me paroît pas impossible.
 >
-> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
