@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The purpose of computing is insight, not numbers.
+> The best way to learn a topic is by teaching it. Similarly the best way to understand a new proof is by writing an expository article about it.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
+> When a problem seems intractable, it is often a good idea to try to study "toy" versions of it in the hope that as the toys become increasingly larger and more sophisticated, they would metamorphose, in the limit, to the real thing.
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
