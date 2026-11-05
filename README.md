@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> That axiom of Metaphysicians which is termed the principle of contradiction and which affirms that it is impossible for anything to possess a quality, and in the same time not to possess it, is a consequence of the fundamental law of thought, whose expression is x²=x.
+> Presumably the child-brain is something like a note-book as one buys it from the stationer's. Rather little mechanism, and lots of blank sheets.
 >
-> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 
 **Qwen3.5 9B MTP · Mac**
 
-> La construction d'une machine propre à exprimer tous les sons de nos paroles, avec toutes les articulations, seroit sans-doute une découverte bien importante. … La chose ne me paroît pas impossible.
+> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
