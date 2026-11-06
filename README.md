@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> One can measure the importance of a scientific work by the number of earlier publications rendered superfluous by it.
+> As soon as an Analytical Engine exists, it will necessarily guide the future course of the science. Whenever any result is sought by its aid, the question will then arise — by what course of calculation can these results be arrived at by the machine in the shortest time?
 >
-> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
 
 **Qwen3.5 9B MTP · Mac**
 
-> How does a project get to be a year late? … One day at a time.
+> It closes with open questions about the training difficulties observed with deeper architectures.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Yoshua Bengio* (Artificial intelligence) · [source](https://arxiv.org/abs/1206.5533)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
