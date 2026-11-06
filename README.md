@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Formal proofs, where there is deliberately no meaning, can convince only formalists, and of the results they themselves seem to deny any meaning. Is that to be the mathematics we are to use to understand the world we live in?
+> The premise of the Multi-disciplinary Conference on Reinforcement Learning and Decision Making is that multiple disciplines share an interest in goal-directed decision making over time.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Thinking doesn't guarantee that we won't make mistakes. But not thinking guarantees that we will.
+> Algorithms existed for at least five thousand years, but people did not know that they were algorithmizing. Then came Turing (and Post and Church and Markov and others) and formalized the notion.
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
