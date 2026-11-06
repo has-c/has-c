@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Quanquam nobis in intima naturae mysteria penetrare, indeque veras caussas Phaenomenorum agnoscere neutiquam est concessum: tamen evenire potest, ut hypothesis quaedam ficta pluribus phaenomenis explicandis aeque satisfaciat, ac si vera caussa nobis esset perspecta.
+> Heuristic Search Hypothesis. The solutions to problems are represented as symbol structures. A physical symbol system exercises its intelligence in problem solving by search—that is, by generating and progressively modifying symbol structures until it produces a solution structure.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 >
-> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
