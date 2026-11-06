@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> By an object, I mean anything that we can think, i.e. anything we can talk about.
+> One can measure the importance of a scientific work by the number of earlier publications rendered superfluous by it.
 >
-> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime.
+> How does a project get to be a year late? … One day at a time.
 >
-> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
