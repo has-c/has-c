@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Object-oriented design is the roman numerals of computing.
+> By an object, I mean anything that we can think, i.e. anything we can talk about.
 >
-> — *Rob Pike* (Computer science) · [source](https://en.wikiquote.org/wiki/Rob_Pike)
+> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
 
 **Qwen3.5 9B MTP · Mac**
 
-> C is quirky, flawed, and an enormous success.
+> Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime.
 >
-> — *Dennis Ritchie* (Computer science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
