@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If there's something you like very much then you should regard this not as you feeling good but as a kind of brain cancer, because it means that some small part of your mind has figured out how to turn off all the other things.
+> The more I think about language, the more it amazes me that people ever understand each other at all.
 >
-> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 
 **Qwen3.5 9B MTP · Mac**
 
-> To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.
+> As intelligence saturates the matter and energy available to it, it turns dumb matter into smart matter.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
