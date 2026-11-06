@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> When... a simple principle has been discovered... then this principle or law itself generally leads to the discovery of a still wider range of hitherto unregarded phenomena... Every great advance of science opens our eyes to facts which we had failed before to observe, and makes new demands...
+> We'll show you that you can build a mind from many little parts, each mindless by itself.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The Exclusion Principle is laid down purely for the benefit of the electrons themselves, who might be corrupted (and become dragons or demons) if allowed to associate too freely.
+> In 3 dimensions the curvature is more complicated... It's determined not by by a single number r, but by a number R that depends on 2 directions i and j, called the Ricci curvature...
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
