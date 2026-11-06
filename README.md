@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Systems, scientific and philosophic, come and go. Each method of limited understanding is at length exhausted. In its prime each system is a triumphant success: in its decay it is an obstructive nuisance.
+> Quanquam nobis in intima naturae mysteria penetrare, indeque veras caussas Phaenomenorum agnoscere neutiquam est concessum: tamen evenire potest, ut hypothesis quaedam ficta pluribus phaenomenis explicandis aeque satisfaciat, ac si vera caussa nobis esset perspecta.
 >
-> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 
 **Qwen3.5 9B MTP · Mac**
 
-> a key figure in the development of applications that run on distributed collections of computers
+> Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
+> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
