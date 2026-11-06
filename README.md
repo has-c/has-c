@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If I could prove by logic that you would die in five minutes, I should be sorry you were going to die, but my sorrow would be very much mitigated by pleasure in the proof.
+> When... a simple principle has been discovered... then this principle or law itself generally leads to the discovery of a still wider range of hitherto unregarded phenomena... Every great advance of science opens our eyes to facts which we had failed before to observe, and makes new demands...
 >
-> — *G. H. Hardy* (Mathematics) · [source](https://en.wikiquote.org/wiki/G._H._Hardy)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A life devoted to science is therefore a happy life, and its happiness is derived from the very best sources that are open to dwellers on this troubled and passionate planet.
+> The Exclusion Principle is laid down purely for the benefit of the electrons themselves, who might be corrupted (and become dragons or demons) if allowed to associate too freely.
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
