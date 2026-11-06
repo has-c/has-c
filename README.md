@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If the prior distribution, at which I am frankly guessing, has little or no effect on the result, then why bother; and if it has a large effect, then since I do not know what I am doing how would I dare act on the conclusions drawn?
+> Thought is only a flash between two long nights, but this flash is everything.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The the design space is non differentiable.
+> I don’t think that everyone should become a mathematician, but I do believe that many students don’t give mathematics a real chance.
 >
-> — *David Silver* (Reinforcement learning) · [source](https://www.talkrl.com/episodes/david-silver-rcl-2024/transcript)
+> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
