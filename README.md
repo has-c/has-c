@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> That, you know, if I'm really honest about it, not all problems are best suited to RL.
+> The outliers especially almost always uncover some bugs in data quality or preprocessing.
 >
-> — *David Silver* (Reinforcement learning) · [source](https://www.talkrl.com/episodes/david-silver-rcl-2024/transcript)
+> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Either mathematics is too big for the human mind, or the human mind is more than a machine.
+> One time I discovered that the data contained duplicate examples.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
