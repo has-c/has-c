@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I think it's rarely about what you actually learn in class it's mostly about things that you stay motivated to go and continue to do on your own."
+> The completeness theorem, mathematically, is indeed an almost trivial consequence of Skolem 1923a. However, the fact is that, at that time, nobody (including Skolem himself) drew this conclusion (neither from Skolem 1923a nor, as I did, from similar considerations of his own).
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It's not only the question, but the way you try to solve it.
+> I will now go back to my cave and continue pulling stuff, I just had to do something else for a while. Some people relax with a nice drink by the pool, I relax by playing around with inline asm.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
