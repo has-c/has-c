@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> This duality can be pursued further and is related to a duality between past and future and the notions of control and knowledge. Thus we may have knowledge of the past but cannot control it; we may control the future but have no knowledge of it.
+> I agree as to the doubtful value of competitive examination. The qualities which you really want, viz., self-control, self-reliance, habits of accurate thought, integrity and what you generally call trustworthiness, are not decided by competitive examination, which test little else than the memory.
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *Florence Nightingale* (Statistics) · [source](https://en.wikiquote.org/wiki/Florence_Nightingale)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Science is a differential equation. Religion is a boundary condition.
+> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
