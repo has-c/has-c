@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
+> From any vocabulary of ideas we can build other ideas by formal combinations of signs. But not any set of ideas will be instructive. One must have the right ideas.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
+> I worked on developing learning algorithms that are useful for engineering applications but that also make contact with learning as studied by psychologists and neuroscientists.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
