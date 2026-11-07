@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
+> Should the computer program the kid or should the kid program the computer?
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Above all, the ominous clouds of those phenomena that we are with varying success seeking to explain by means of the quantum of action, are throwing their shadows over the sphere of physical knowledge, threatening no one knows what new revolution.
+> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
