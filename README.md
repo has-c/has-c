@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
+> Just as iron rusts unless it is used, and water putrifies or, in cold, turns to ice, so our intellect spoils unless it is kept in use.
 >
-> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I don't care for the applause one gets by saying what others are thinking; I want actually to change people's thoughts. Power over people's minds is the main personal desire of my life; and this sort of power is not acquired by saying popular things.
+> This shared base of knowledge is essential to the rapid progress we've seen in machine learning in recent years.
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
