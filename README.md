@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> What nature does blindly, slowly, and ruthlessly, man may do providently, quickly, and kindly. As it lies within his power, so it becomes his duty to work in that direction.
+> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
 >
-> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If we did all the things we are capable of doing, we would literally astound ourselves.
+> Above all, the ominous clouds of those phenomena that we are with varying success seeking to explain by means of the quantum of action, are throwing their shadows over the sphere of physical knowledge, threatening no one knows what new revolution.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
