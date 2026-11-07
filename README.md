@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The completeness theorem, mathematically, is indeed an almost trivial consequence of Skolem 1923a. However, the fact is that, at that time, nobody (including Skolem himself) drew this conclusion (neither from Skolem 1923a nor, as I did, from similar considerations of his own).
+> ... les traités de mécanique ne distinguent pas bien nettement ce qui est expérience, ce qui est raisonnement mathématique, ce qui est convention, ce qui est hypothèse.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I will now go back to my cave and continue pulling stuff, I just had to do something else for a while. Some people relax with a nice drink by the pool, I relax by playing around with inline asm.
+> Immer mit den einfachsten Beispielen anfangen.
 >
-> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
