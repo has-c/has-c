@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> From any vocabulary of ideas we can build other ideas by formal combinations of signs. But not any set of ideas will be instructive. One must have the right ideas.
+> That, you know, if I'm really honest about it, not all problems are best suited to RL.
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *David Silver* (Reinforcement learning) · [source](https://www.talkrl.com/episodes/david-silver-rcl-2024/transcript)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I worked on developing learning algorithms that are useful for engineering applications but that also make contact with learning as studied by psychologists and neuroscientists.
+> Either mathematics is too big for the human mind, or the human mind is more than a machine.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
