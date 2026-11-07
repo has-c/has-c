@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I agree as to the doubtful value of competitive examination. The qualities which you really want, viz., self-control, self-reliance, habits of accurate thought, integrity and what you generally call trustworthiness, are not decided by competitive examination, which test little else than the memory.
+> There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
 >
-> — *Florence Nightingale* (Statistics) · [source](https://en.wikiquote.org/wiki/Florence_Nightingale)
+> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Data abstractions provide the same benefits as procedures, but for data. Recall that the main idea is to separate what an abstraction is from how it is implemented so that implementations of the same abstraction can be substituted freely.
+> I don't care for the applause one gets by saying what others are thinking; I want actually to change people's thoughts. Power over people's minds is the main personal desire of my life; and this sort of power is not acquired by saying popular things.
 >
-> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
+> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
