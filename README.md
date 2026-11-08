@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> UNIX is very simple, it just needs a genius to understand its simplicity.
+> This confusion of the certainty of mathematics within a formal system and the uncertainty of its applications to the world is a common mistake often made by ignorant sociologists.
 >
-> — *Dennis Ritchie* (Computer science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
+> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It may be that today's large neural networks are slightly conscious.
+> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
 >
-> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
+> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
