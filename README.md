@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The necessity of this psychic stepping back (or up) to the metalevel is probably what is meant when people say that a sense of perspective is needed for an appreciation of humor. It also explains why dogmatists, idealogues, and others with one-track minds are often notoriously humorless.
+> We need heuristic reasoning when we construct a strict proof as we need scaffolding when we erect a building.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Technology is anything that wasn't around when you were born.
+> The best of ideas is hurt by uncritical acceptance and thrives on critical examination.
 >
-> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
