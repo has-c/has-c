@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> To every ω -consistent recursive class κ of formulae there correspond recursive class signs r, such that neither v Gen r nor Neg (v Gen r) belongs to Flg (κ) (where v is the free variable of r).
+> Your net can still (shockingly) work pretty well because your network can internally learn to detect flipped images and then it left-right flips its predictions.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
 
 **Qwen3.5 9B MTP · Mac**
 
-> My research centers on learning in machines and animals.
+> Genius is one percent inspiration, ninety-nine percent perspiration.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
