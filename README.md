@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Much early alchemy seems to have been adventure. You heated and mixed and burnt and pounded and to see what would happen. An adventure might suggest an hypothesis that can subsequently be tested, but adventure is prior to theory.
+> To every ω -consistent recursive class κ of formulae there correspond recursive class signs r, such that neither v Gen r nor Neg (v Gen r) belongs to Flg (κ) (where v is the free variable of r).
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We favor hypotheses for their simplicity and explanatory power, much as the architect of the world might have done in choosing which possibility to create.
+> My research centers on learning in machines and animals.
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
