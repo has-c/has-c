@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The following question had been much in my mind. How is it possible for a population to remain alike in its features, as a whole, during many successive generations, if the average produce of each couple resemble their parents? Their children are not alike but vary...
+> Software gets slower faster than hardware gets faster.
 >
-> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Chi non punisce il male comanda che si faccia.
+> a key figure in the development of applications that run on distributed collections of computers
 >
-> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
+> — *Barbara Liskov* (Computer science) · [source](https://en.wikiquote.org/wiki/Barbara_Liskov)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
