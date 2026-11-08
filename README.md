@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> "How to test?" is a question that cannot be answered in general. "When to test?" however, does have a general answer: as early and as often as possible.
+> You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for.
 >
-> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It seems very likely to a large number of people that we will get massive unemployment caused by Ai.
+> At present, we're putting on paper a lot of stuff that never needed to be on paper. We do need to keep the records. But there isn't any reason for printing them. The next generation growing up with the computers will change that.
 >
-> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
+> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
