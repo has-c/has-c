@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It is... easy to be certain. One has only to be sufficiently vague.
+> "How to test?" is a question that cannot be answered in general. "When to test?" however, does have a general answer: as early and as often as possible.
 >
-> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Most of the world is of great roughness and infinite complexity. However, the infinite sea of complexity includes two islands of simplicity: one of Euclidean simplicity and a second of relative simplicity in which roughness is present but is the same at all scales.
+> It seems very likely to a large number of people that we will get massive unemployment caused by Ai.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
