@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> And we should... call it... this kind of radical abundance era, where there’s plenty of resources to go around. Of course the next big question is making sure that that’s fairly, shared fairly and everyone in society benefits from that.
+> Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.
 >
-> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
+> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
