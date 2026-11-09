@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The reason hidden units in neural nets are called hidden units is that Peter Brown told me about hidden Markov models. I decided "hidden" was a good name for those extra units, so that's where the name "hidden" comes from.
+> You can only predict things after they’ve happened.
 >
-> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it concentrates on one point. And then that becomes his point of view.
+> Actually I made up the term " object-oriented ", and I can tell you I did not have C++ in mind.
 >
-> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
