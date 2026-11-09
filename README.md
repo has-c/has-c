@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.
+> I am coming more and more to the conviction that the necessity of our geometry cannot be demonstrated, at least neither by, nor for, the human intellect... Geometry should be ranked, not with arithmetic, which is purely aprioristic, but with mechanics.
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.
+> There are two ways in which a science develops; in response to problems which is itself creates, and in response to problems that are forced on it from the outside.
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
