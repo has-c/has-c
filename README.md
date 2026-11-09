@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Software gets slower faster than hardware gets faster.
+> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The King James Bible is a literary masterpiece best left unaltered. It is a classic to put on a shelf alongside the great fantasies of Homer, Virgil, Dante, Milton, and yes, even the Koran.
+> Intelligence is becoming cheap as tap water.
 >
-> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
