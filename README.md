@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> You can only predict things after they’ve happened.
+> Douter de tout ou tout croire, ce sont deux solutions également commodes, qui l'une et l'autre nous dispensent de réfléchir.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Actually I made up the term " object-oriented ", and I can tell you I did not have C++ in mind.
+> This, then, was the religion that I was raised with: veneration for human creativity and the power of ideas.
 >
-> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
+> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
