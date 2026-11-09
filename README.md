@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
+> If there were no limits to human rationality administrative theory would be barren. It would consist of the single precept: Always select that alternative, among those available, which will lead to the most complete achievement of your goals.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
+> In absence of such rewards, however, known beauty is boring.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
