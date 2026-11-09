@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
+> Number, place, and combination... the three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred.
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Intelligence is becoming cheap as tap water.
+> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
