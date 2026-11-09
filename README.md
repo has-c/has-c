@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I'm interested in the computer as a new idea, a new and fundamental philosophical concept that changes mathematics, that solves old problems better and suggests new problems, that changes our way of thinking and helps us to understand things better, that gives us radically new insights...
+> For most of my life, one of the persons most baffled by my own work was myself.
 >
-> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Are there mathematical propositions for which there is a considerable amount of computational evidence, evidence that is so persuasive that a physicist would regard them as experimentally verified?
+> "The analogy I've been using is the fact that perhaps an equivalent event in the history of humanity to what might be provided by Generalization of AI assistant is the invention of the printing press. It made everybody smarter."
 >
-> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
+> — *Yann LeCun* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Yann_LeCun)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
