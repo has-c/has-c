@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> There are periods in the growth of science when it is well to turn our attention from its imposing superstructure and to carefully examine its foundations. The present book is primarily intended as a criticism of the fundamental concepts of modern science...
+> And we should... call it... this kind of radical abundance era, where there’s plenty of resources to go around. Of course the next big question is making sure that that’s fairly, shared fairly and everyone in society benefits from that.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 
 **Qwen3.5 9B MTP · Mac**
 
-> And believe it or not, reinforcement learning was the first thing, how to come up with a system that could learn to act and achieve goals.
+> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
 >
-> — *Paul Werbos* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Paul_Werbos)
+> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
