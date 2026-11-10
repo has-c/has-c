@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If one has really technically penetrated a subject, things that previously seemed in complete contrast, might be purely mathematical transformations of each other.
+> This faulty intuition as well as many modern applications of probability theory are under the strong influence of traditional misconceptions concerning the meaning of the law of large numbers and of a popular mystique concerning a so-called law of averages.
 >
-> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Should the computer program the kid or should the kid program the computer?
+> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
 >
-> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
+> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
