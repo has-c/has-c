@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
+> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
 >
-> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
+> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
 
 **Qwen3.5 9B MTP · Mac**
 
-> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
+> Thinking doesn't guarantee that we won't make mistakes. But not thinking guarantees that we will.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
