@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The true line is not between “hard” natural science and “soft” social sciences, but between precise science limited to highly abstract and simple phenomena in the laboratory and inexact science and technology dealing with complex problems in the real world.
+> Do what you think is interesting, do something that you think is fun and worthwhile, because otherwise you won't do it well anyway.
 >
-> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> They store all sensory observations as they come - the data is holy.
+> Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?
 >
-> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
