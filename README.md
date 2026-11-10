@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> If one has really technically penetrated a subject, things that previously seemed in complete contrast, might be purely mathematical transformations of each other.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won’t usually need your flowcharts; they’ll be obvious.
+> Should the computer program the kid or should the kid program the computer?
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
