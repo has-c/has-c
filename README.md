@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
+> As the prerogative of Natural Science is to cultivate a taste for observation, so that of Mathematics is, almost from the starting point, to stimulate the faculty of invention.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Moonshots? How about robots that will design robots that will operate robots that will design new robots.
+> The story that Dick Feynman could open safes whose combinations had been forgotten by their owners is true.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
