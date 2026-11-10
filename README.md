@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I think it's rarely about what you actually learn in class it's mostly about things that you stay motivated to go and continue to do on your own."
+> The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure. Our first response should be to reorganize the modules' data structures.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It's not only the question, but the way you try to solve it.
+> Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
