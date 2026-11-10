@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Being a language, mathematics may be used not only to inform but also, among other things, to seduce.
+> I can think of nothing else than this machine.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "AI is going to bring a new renaissance for humanity, a new form of enlightenment, if you want, because AI is going to amplify everybody's intelligence."
+> I can say this. I believe that the human mind, or even the mind of a cat, is more interesting in its complexity than an entire galaxy if it is devoid of life.
 >
-> — *Yann LeCun* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Yann_LeCun)
+> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
