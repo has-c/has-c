@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The laws of nature are constructed in such a way as to make the universe as interesting as possible.
+> Very soon I discovered that if one gets a feeling for no more than a dozen other radiation and nuclear constants, one can imagine the subatomic world almost tangibly, and manipulate the picture dimensionally and qualitatively, before calculating more precise relationships.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I have harnessed the cosmic rays and caused them to operate a motive device.
+> Should the computer program the kid or should the kid program the computer?
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
