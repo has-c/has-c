@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> One can even conjecture that Lisp owes its survival specifically to the fact that its programs are lists, which everyone, including me, has regarded as a disadvantage.
+> The complexity of software is an essential property, not an accidental one. Hence, descriptions of a software entity that abstract away its complexity often abstracts away its essence.
 >
-> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The stage is now set for iterating on a good model.
+> The demand for exceptional ability, when combined with energy and good character, is so great that a lad who is gifted with them is hardly more likely to remain over looked than a bird’s nest in the playground of a school.
 >
-> — *Andrej Karpathy* (Artificial intelligence) · [source](https://karpathy.github.io/2019/04/25/recipe/)
+> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
