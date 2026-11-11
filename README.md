@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The common model does not include anything specific to any organism, world, or application domain.
+> Many children who grow up in our cities are surrounded by the artifacts of science but have good reason to see them as belonging to "the others"; in many cases they are perceived as belonging to the social enemy.
 >
-> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
+> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "Lisez Euler, lisez Euler, c'est notre maître à tous."
+> Software gets slower faster than hardware gets faster.
 >
-> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
