@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> In my work, I have always tried to unite the true with the beautiful; but when I had to choose one or the other, I usually chose the beautiful.
+> I do not think that safety should be bought at the cost of complicating the expression of good solutions to real-life problems.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "Your organization should be the architecture of the machinery of building the product."
+> Natural selection is a mechanism for generating an exceedingly high degree of improbability.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
