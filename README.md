@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Very soon I discovered that if one gets a feeling for no more than a dozen other radiation and nuclear constants, one can imagine the subatomic world almost tangibly, and manipulate the picture dimensionally and qualitatively, before calculating more precise relationships.
+> In my work, I have always tried to unite the true with the beautiful; but when I had to choose one or the other, I usually chose the beautiful.
 >
-> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
+> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Should the computer program the kid or should the kid program the computer?
+> "Your organization should be the architecture of the machinery of building the product."
 >
-> — *Seymour Papert* (Computer science) · [source](https://en.wikiquote.org/wiki/Seymour_Papert)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
