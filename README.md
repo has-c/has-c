@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Our family are an alternate stratification of poetry and mathematics.
+> Syntax highlighting is juvenile. When I was a child, I was taught arithmetic using colored rods. I grew up and today I use monochromatic numerals.
 >
-> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
+> — *Rob Pike* (Computer science) · [source](https://en.wikiquote.org/wiki/Rob_Pike)
 
 **Qwen3.5 9B MTP · Mac**
 
-> My own supervisor, William Hodge, the creator of the fertile theory of harmonic forms, was not a genius like Ramanujan but resembled Lefschetz.
+> The art of doing mathematics consists in finding that special case which contains all the germs of generality.
 >
-> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
