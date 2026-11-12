@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
+> Science can only answer to the great majority of "metaphysical" problems "I am ignorant." Meanwhile, it is idle to be impatient or to indulge in system-making.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Learning is not compulsory; it's voluntary. Improvement is not compulsory; it's voluntary. But to survive, we must learn.
+> To Monsieur Eiffel the Engineer, the brave builder of so gigantic and original a specimen of modern Engineering from one who has the greatest respect and admiration for all Engineers including the Great Engineer the Bon Dieu.
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
