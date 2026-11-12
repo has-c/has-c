@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Thinking doesn't guarantee that we won't make mistakes. But not thinking guarantees that we will.
+> He who refuses to do arithmetic is doomed to talk nonsense.
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701 (an early computer), writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs.
+> The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure. Our first response should be to reorganize the modules' data structures.
 >
-> — *John Backus* (Computer science) · [source](https://en.wikiquote.org/wiki/John_Backus)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
