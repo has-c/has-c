@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science can only answer to the great majority of "metaphysical" problems "I am ignorant." Meanwhile, it is idle to be impatient or to indulge in system-making.
+> Programming is much much harder than doing mathematics.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 
 **Qwen3.5 9B MTP · Mac**
 
-> To Monsieur Eiffel the Engineer, the brave builder of so gigantic and original a specimen of modern Engineering from one who has the greatest respect and admiration for all Engineers including the Great Engineer the Bon Dieu.
+> The best way to learn a topic is by teaching it. Similarly the best way to understand a new proof is by writing an expository article about it.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
