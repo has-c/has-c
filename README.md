@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> Relying on intelligence alone to pull things off at the last minute may work for a while, but generally speaking at the graduate level or higher it doesn't. One needs to do a serious amount of reading and writing, and not just thinking, in order to get anywhere serious in mathematics.
 >
-> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
+> — *Terence Tao* (Mathematics) · [source](https://en.wikiquote.org/wiki/Terence_Tao)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There surely is something to these terms, but too often they’re the result of minds intent on discovering meaning where there is only probability.
+> The inventor...looks upon the world and is not contented with things as they are. He wants to improve whatever he sees, he wants to benefit the world; he is haunted by an idea. The spirit of invention possesses him, seeking materialization.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
