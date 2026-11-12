@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> He who refuses to do arithmetic is doomed to talk nonsense.
+> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure. Our first response should be to reorganize the modules' data structures.
+> There surely is something to these terms, but too often they’re the result of minds intent on discovering meaning where there is only probability.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
