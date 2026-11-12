@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> You could learn the language of almost anything. Once you learn the language, you can apply the language - and the application of language is generation.
+> There are more useful systems developed in languages deemed awful than in languages praised for being beautiful — many more.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Never start with a chiplet design; go for the biggest chip you can imagine and build it.
+> Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
