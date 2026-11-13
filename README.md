@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Humor, since it depends on so many emotional, social, and intellectual facets of human beings, is particularly immune to computer simulation.
+> Many modern philosophers claim that probability is relation between an hypothesis and the evidence for it.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The final result of our researches has widened the class of substances sensitive to light vibrations, until we can propound the fact of such sensitiveness being a general property of all matter.
+> We favor hypotheses for their simplicity and explanatory power, much as the architect of the world might have done in choosing which possibility to create.
 >
-> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
