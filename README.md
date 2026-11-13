@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It's difficult to be rigorous about whether a machine really 'knows', 'thinks', etc., because we're hard put to define these things. We understand human mental processes only slightly better than a fish understands swimming.
+> C is a razor-sharp tool, with which one can create an elegant and efficient program or a bloody mess.
 >
-> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Job Control Language is the worst programming language ever designed anywhere by anybody for any purpose.
+> Associative arrays are very very useful things and if you are only going to have one data structure that's the one to have. Because you could build everything else with it if you want.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
