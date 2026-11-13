@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
+> It's difficult to be rigorous about whether a machine really 'knows', 'thinks', etc., because we're hard put to define these things. We understand human mental processes only slightly better than a fish understands swimming.
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Recognition of the subjectivity of the qualities of sense is found in Galilei (and also in Descartes and Hobbes) in a form closely related to the principle underlying the constructive mathematical method of our modern physics which repudiates" qualities".
+> Job Control Language is the worst programming language ever designed anywhere by anybody for any purpose.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
