@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> We need heuristic reasoning when we construct a strict proof as we need scaffolding when we erect a building.
+> An unusually large breakthrough in compressibility deserves the name "discovery".
 >
-> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Love your Enemies, for they tell you your Faults.
+> If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?
 >
-> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
