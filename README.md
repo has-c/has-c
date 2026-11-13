@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> ... the most important questions and insights and goals are unpredictable.
+> Do what you think is interesting, do something that you think is fun and worthwhile, because otherwise you won't do it well anyway.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I'm an agnostic. Sometimes I muse deeply on the forces that are for me invisible. When I am almost close to the idea of God, I feel immediately estranged by the horrors of this world, which he seems to tolerate...
+> Controlling complexity is the essence of computer programming.
 >
-> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
