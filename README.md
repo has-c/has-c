@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Reliable and transparent programs are usually not in the interest of the designer.
+> I never did anything worth doing by accident, nor did any of my inventions come indirectly through accident, except the phonograph. No, when I have, fully decided that a result is worth getting, I go about it, and make trial after trial, until it comes.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
 
 **Qwen3.5 9B MTP · Mac**
 
-> ... we do not consider it as good engineering practice to consume a resource lavishly just because it happens to be cheap.
+> I am accustomed, as a professional mathematician, to living in a sort of vacuum, surrounded by people who declare with an odd sort of pride that they are mathematically illiterate.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *David Mumford* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Mumford)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
