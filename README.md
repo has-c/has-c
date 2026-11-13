@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I never did anything worth doing by accident, nor did any of my inventions come indirectly through accident, except the phonograph. No, when I have, fully decided that a result is worth getting, I go about it, and make trial after trial, until it comes.
+> That all science is description and not explanation, that the mystery of change in the inorganic world is just as great and just as omnipresent as in the organic world, are statements which will appear platitudes to the next generation.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I am accustomed, as a professional mathematician, to living in a sort of vacuum, surrounded by people who declare with an odd sort of pride that they are mathematically illiterate.
+> Madam, I have come from a country where people are hanged if they talk.
 >
-> — *David Mumford* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Mumford)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
