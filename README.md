@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> That all science is description and not explanation, that the mystery of change in the inorganic world is just as great and just as omnipresent as in the organic world, are statements which will appear platitudes to the next generation.
+> We cannot rely on mass inspection to improve quality, though there are times when 100 percent inspection is necessary. As Harold S. Dodge said many years ago, 'You cannot inspect quality into a product.' The quality is there or it isn't by the time it's inspected.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Madam, I have come from a country where people are hanged if they talk.
+> The worker is not the problem. The problem is at the top! Management!
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
