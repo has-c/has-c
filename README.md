@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Many modern philosophers claim that probability is relation between an hypothesis and the evidence for it.
+> Data do not understand causes and effects; humans do.
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We favor hypotheses for their simplicity and explanatory power, much as the architect of the world might have done in choosing which possibility to create.
+> In the agent's subjective eyes, such data is more regular and more "beautiful" than other data.
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
