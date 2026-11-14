@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> " The real value of tests is not that they detect bugs in the code, but that they detect inadequacies in the methods, concentration, and skills of those who design and produce the code."
+> Il y a aussi deux sortes de vérités, celles de Raisonnement et celle de Fait. Les vérités de Raisonnement sont nécessaires et leur opposé est impossible, et celles de Fait sont contingentes et leur opposé est possible.
 >
-> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Learning is not compulsory; it's voluntary. Improvement is not compulsory; it's voluntary. But to survive, we must learn.
+> I can think of nothing else than this machine.
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
