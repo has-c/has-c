@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.
+> Even the simplest calculation in the purest mathematics can have terrible consequences. Without the invention of the infinitesimal calculus most of our technology would have been impossible. Should we say therefore that calculus is bad?
 >
-> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
+> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
 
 **Qwen3.5 9B MTP · Mac**
 
-> For as old age is that period of life most remote from infancy, who does not see that old age in this universal man ought not to be sought in the times nearest his birth, but in those most remote from it?
+> As a mathematician, von Neumann was quick, brilliant, efficient, and enormously broad in scientific interests beyond mathematics itself. He knew his technical abilities; his virtuosity in following complicated reasoning and his insights were supreme; yet he lacked absolute self confidence.
 >
-> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
+> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
