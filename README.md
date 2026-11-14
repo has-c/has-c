@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> This duality can be pursued further and is related to a duality between past and future and the notions of control and knowledge. Thus we may have knowledge of the past but cannot control it; we may control the future but have no knowledge of it.
+> "On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul; elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte."
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I find out what the world needs. Then, I go ahead and invent it.
+> From then on, when anything went wrong with a computer, we said it had bugs in it.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
