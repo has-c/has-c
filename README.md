@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Il y a aussi deux sortes de vérités, celles de Raisonnement et celle de Fait. Les vérités de Raisonnement sont nécessaires et leur opposé est impossible, et celles de Fait sont contingentes et leur opposé est possible.
+> Step one, solve intelligence; step two, use it to solve everything else.
 >
-> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I can think of nothing else than this machine.
+> One of the effects of civilization is to diminish the rigour of the application of the law of natural selection. It preserves weakly lives that would have perished in barbarous lands.
 >
-> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
+> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
