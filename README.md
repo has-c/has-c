@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Even the simplest calculation in the purest mathematics can have terrible consequences. Without the invention of the infinitesimal calculus most of our technology would have been impossible. Should we say therefore that calculus is bad?
+> Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?
 >
-> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 
 **Qwen3.5 9B MTP · Mac**
 
-> As a mathematician, von Neumann was quick, brilliant, efficient, and enormously broad in scientific interests beyond mathematics itself. He knew his technical abilities; his virtuosity in following complicated reasoning and his insights were supreme; yet he lacked absolute self confidence.
+> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> — *Stanislaw Ulam* (Mathematics) · [source](https://en.wikiquote.org/wiki/Stanislaw_Ulam)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
