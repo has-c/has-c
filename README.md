@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> To every ω -consistent recursive class κ of formulae there correspond recursive class signs r, such that neither v Gen r nor Neg (v Gen r) belongs to Flg (κ) (where v is the free variable of r).
+> My spiritual education...took place at a Unitarian Church...The theme was "many paths to the truth." …even the inconsistencies were illuminating. It became apparent to me that the basic truths were profound enough to transcend apparent contradictions.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Before anything else, preparation is the key to success.
+> It seems very likely to a large number of people that we will get massive unemployment caused by Ai.
 >
-> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
+> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
