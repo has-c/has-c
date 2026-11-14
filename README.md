@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Software gets slower faster than hardware gets faster.
+> If you don't have technical reasons, you don't have reasons.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality.
+> People want to see patterns in the world. It is how we evolved. We descended from those primates who were best at spotting the telltale pattern of a predator in the forest, or of food in the savannah. So important is this skill that we apply it everywhere, warranted or not.
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
