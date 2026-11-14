@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it concentrates on one point. And then that becomes his point of view.
+> To say, therefore, that thought cannot happen in an instant, but requires a time, is but another way of saying that every thought must be interpreted in another, or that all thought is in signs.
 >
-> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This chapter is meant as a practical guide with recommendations for some of the most commonly used hyper-parameters, in particular in the context of learning algorithms based on back-propagated gradient and gradient-based optimization.
+> These Names of Virtues with their Precepts were
 >
-> — *Yoshua Bengio* (Artificial intelligence) · [source](https://arxiv.org/abs/1206.5533)
+> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
