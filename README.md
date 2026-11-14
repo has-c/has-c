@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I hadn’t used boosted decision trees in a while, and I thought they required more computation than they actually do — so I made a bad call.
+> This duality can be pursued further and is related to a duality between past and future and the notions of control and knowledge. Thus we may have knowledge of the past but cannot control it; we may control the future but have no knowledge of it.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> For scholars and laymen alike it is not philosophy but active experience in mathematics itself that can alone answer the question: What is mathematics?
+> I find out what the world needs. Then, I go ahead and invent it.
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
