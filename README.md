@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It took them only an instant to cut off that head, but France may not produce another like it in a century.
+> Whereas economic man maximizes - selects the best alternative from among all those available to him, his cousin, administrative man, satisfices - looks for a course of action that is satisfactory or "good enough."
 >
-> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
+> — *Herbert A. Simon* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Herbert_A._Simon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Nam filum labyrintho de compositione continui deque maximo et minimo ac indesignabili at que infinito non nisi geometria praebere potest, ad metaphysicam vero solidam nemo veniet, nisi qui illac transiverit.
+> I can think of nothing else than this machine.
 >
-> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
+> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
