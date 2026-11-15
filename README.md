@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Without data, you're just another person with an opinion.
+> I do not plead guilty to a shallow view of human nature, when I propose to apply, as it were, a foot-rule to its heights and depths.
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
 
 **Qwen3.5 9B MTP · Mac**
 
-> De quelque manière que Dieu aurait créé le monde, il aurait toujours été régulier et dans un certain ordre général. Mais Dieu a choisi celui qui est le plus parfait, c’est-à-dire celui qui est en même temps le plus simple en hypothèses et le plus riche en phénomènes...
+> I think some of the biggest problems that face us today as a society, whether that's climate or disease, will be helped by AI solutions. I'd be very worried about society today if I didn't know that something as transformative as AI was coming down the line.
 >
-> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
