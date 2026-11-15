@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The reason hidden units in neural nets are called hidden units is that Peter Brown told me about hidden Markov models. I decided "hidden" was a good name for those extra units, so that's where the name "hidden" comes from.
+> Software gets slower faster than hardware gets faster.
 >
-> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We don't know a millionth of one percent about anything.
+> The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Douglas Engelbart* (Computer science) · [source](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
