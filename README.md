@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> My spiritual education...took place at a Unitarian Church...The theme was "many paths to the truth." …even the inconsistencies were illuminating. It became apparent to me that the basic truths were profound enough to transcend apparent contradictions.
+> " The most important property of a program is whether it accomplishes the intentions of its user. "
 >
-> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It seems very likely to a large number of people that we will get massive unemployment caused by Ai.
+> I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed.
 >
-> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
