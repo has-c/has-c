@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
+> "Nature laughs at the difficulties of integration."
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Empirical evidence can never establish mathematical existence--nor can the mathematician's demand for existence be dismissed by the physicist as useless rigor. Only a mathematical existence proof can ensure that the mathematical description of a physical phenomenon is meaningful.
+> At the end of about a week, I called back and said, "I need something to compare this to. Could I please have a microsecond?"
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
