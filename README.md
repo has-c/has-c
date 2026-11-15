@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> " The most important property of a program is whether it accomplishes the intentions of its user. "
+> Without data, you're just another person with an opinion.
 >
-> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed.
+> De quelque manière que Dieu aurait créé le monde, il aurait toujours été régulier et dans un certain ordre général. Mais Dieu a choisi celui qui est le plus parfait, c’est-à-dire celui qui est en même temps le plus simple en hypothèses et le plus riche en phénomènes...
 >
-> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
