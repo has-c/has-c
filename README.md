@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> People want to see patterns in the world. It is how we evolved. We descended from those primates who were best at spotting the telltale pattern of a predator in the forest, or of food in the savannah. So important is this skill that we apply it everywhere, warranted or not.
+> The aim of science is to seek the simplest explanations of complex facts. We are apt to fall into the error of thinking that the facts are simple because simplicity is the goal of our quest. The guiding motto in the life of every natural philosopher should be, " Seek simplicity and distrust it. "
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Mr. Holmes receives a telephone call from his neighbor Dr. Watson who states that he hears the sound of a burglar alarm from the direction of Mr. Holmes' house. While preparing to rush home, Mr. Holmes recalls that Dr. Watson is known to be a tasteless practical joker...
+> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
+> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
