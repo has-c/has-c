@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> This letter, if judged by the novelty and profundity of ideas it contains, is perhaps the most substantial piece of writing in the whole literature of mankind.
+> It took them only an instant to cut off that head, but France may not produce another like it in a century.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There never has been, and till we see it we never shall believe that there can be, a system of geometry worthy of the name, which has any material departures (we do not speak of corrections or extensions or developments) from the plan laid down by Euclid.
+> Nam filum labyrintho de compositione continui deque maximo et minimo ac indesignabili at que infinito non nisi geometria praebere potest, ad metaphysicam vero solidam nemo veniet, nisi qui illac transiverit.
 >
-> — *Augustus De Morgan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Augustus_De_Morgan)
+> — *Gottfried Wilhelm Leibniz* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gottfried_Wilhelm_Leibniz)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
