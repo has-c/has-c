@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> C'est même des hypothèses simples qu'il faut le plus se défier, parce que ce sont celles qui ont le plus de chances de passer inaperçues.
+> The completeness theorem, mathematically, is indeed an almost trivial consequence of Skolem 1923a. However, the fact is that, at that time, nobody (including Skolem himself) drew this conclusion (neither from Skolem 1923a nor, as I did, from similar considerations of his own).
 >
-> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It is not worth my while to manufacture in three countries only; but I can find it very worthwhile to make it for the whole world.
+> The final result of our researches has widened the class of substances sensitive to light vibrations, until we can propound the fact of such sensitiveness being a general property of all matter.
 >
-> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
+> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
