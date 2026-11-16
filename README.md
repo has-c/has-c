@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I think it's rarely about what you actually learn in class it's mostly about things that you stay motivated to go and continue to do on your own."
+> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 
 **Qwen3.5 9B MTP · Mac**
 
-> This ' Hodge conjecture ' has by now achieved a considerable status, almost on a par with the Riemann hypothesis or the Poincaré conjecture.
+> The best way to predict the future is to invent it.
 >
-> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
+> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
