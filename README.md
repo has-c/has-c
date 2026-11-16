@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A change in perspective is worth 80 IQ points.
+> By "augmenting human intellect" we mean increasing the capability of a man to approach a complex problem situation, to gain comprehension to suit his particular needs, and to derive solutions to problems.
 >
-> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
+> — *Douglas Engelbart* (Computer science) · [source](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The future is not laid out on a track. It is something that we can decide, and to the extent that we do not violate any known laws of the universe, we can probably make it work the way that we want to.
+> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
 >
-> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
