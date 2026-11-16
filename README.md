@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A tendency to drastically underestimate the frequency of coincidences is a prime characteristic of innumerates, who generally accord great significance to correspondences of all sorts while attributing too little significance to quite conclusive but less flashy statistical evidence.
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If you have a hammer, use it everywhere you can, but I do not claim that everything is fractal.
+> With the computer and programming languages, mathematics has newly-acquired tools, and its notation should be reviewed in the light of them. The computer may, in effect, be used as a patient, precise, and knowledgeable "native speaker" of mathematical notation.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Kenneth E. Iverson* (Computer science) · [source](https://en.wikiquote.org/wiki/Kenneth_E._Iverson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
