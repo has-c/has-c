@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> Are there mathematical propositions for which there is a considerable amount of computational evidence, evidence that is so persuasive that a physicist would regard them as experimentally verified?
 >
-> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
+> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I do not think that safety should be bought at the cost of complicating the expression of good solutions to real-life problems.
+> Our family are an alternate stratification of poetry and mathematics.
 >
-> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
+> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
