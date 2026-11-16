@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> This duality can be pursued further and is related to a duality between past and future and the notions of control and knowledge. Thus we may have knowledge of the past but cannot control it; we may control the future but have no knowledge of it.
+> I think it's rarely about what you actually learn in class it's mostly about things that you stay motivated to go and continue to do on your own."
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If I'm the father of Open Source, it was conceived through artificial insemination using stolen sperm without my knowledge or consent.
+> This ' Hodge conjecture ' has by now achieved a considerable status, almost on a par with the Riemann hypothesis or the Poincaré conjecture.
 >
-> — *Richard Stallman* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Stallman)
+> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
