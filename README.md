@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> But every error is due to extraneous factors (such as emotion and education); reason itself does not err.
+> Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 
 **Qwen3.5 9B MTP · Mac**
 
-> They store all sensory observations as they come - the data is holy.
+> I do not think that safety should be bought at the cost of complicating the expression of good solutions to real-life problems.
 >
-> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
