@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Humans are allergic to change. They love to say, "We've always done it this way." I try to fight that. That's why I have a clock on my wall that runs counter-clockwise.
+> Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 
 **Qwen3.5 9B MTP · Mac**
 
-> You don't have to be responsible for the world that you're in.
+> I guess I feel like language models are world models, but they could be better world models.
 >
-> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
