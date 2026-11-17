@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Being a language, mathematics may be used not only to inform but also, among other things, to seduce.
+> The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If I could prove by logic that you would die in five minutes, I should be sorry you were going to die, but my sorrow would be very much mitigated by pleasure in the proof.
+> The whole weight of science is the prima facie evidence against a miracle having occurred.
 >
-> — *G. H. Hardy* (Mathematics) · [source](https://en.wikiquote.org/wiki/G._H._Hardy)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
