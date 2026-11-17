@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If we did all the things we are capable of doing, we would literally astound ourselves.
+> With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> In 3 dimensions the curvature is more complicated... It's determined not by by a single number r, but by a number R that depends on 2 directions i and j, called the Ricci curvature...
+> "The analogy I've been using is the fact that perhaps an equivalent event in the history of humanity to what might be provided by Generalization of AI assistant is the invention of the printing press. It made everybody smarter."
 >
-> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
+> — *Yann LeCun* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Yann_LeCun)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
