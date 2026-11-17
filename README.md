@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
+> If it is to be effective as a tool of thought, a notation must allow convenient expression not only of notions arising directly from a problem, but also of those arising in subsequent analysis, generalization, and specialization.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Kenneth E. Iverson* (Computer science) · [source](https://en.wikiquote.org/wiki/Kenneth_E._Iverson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The whole weight of science is the prima facie evidence against a miracle having occurred.
+> Overemphasis of efficiency leads to an unfortunate circularity in design: for reasons of efficiency early programming languages reflected the characteristics of the early computers, and each generation of computers reflects the needs of the programming languages of the preceding generation.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Kenneth E. Iverson* (Computer science) · [source](https://en.wikiquote.org/wiki/Kenneth_E._Iverson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
