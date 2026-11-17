@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> As the prerogative of Natural Science is to cultivate a taste for observation, so that of Mathematics is, almost from the starting point, to stimulate the faculty of invention.
+> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701 (an early computer), writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs.
+> A unified theory of cognition is a single set of mechanisms that cover all of cognition—problem solving, decision making, routine action, memory, learning, skill, perception, and motor behavior.
 >
-> — *John Backus* (Computer science) · [source](https://en.wikiquote.org/wiki/John_Backus)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
