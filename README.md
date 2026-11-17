@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
+> … the best causes tend to attract to their support the worst arguments, which seems to be equally true in the intellectual and in the moral sense.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A unified theory of cognition is a single set of mechanisms that cover all of cognition—problem solving, decision making, routine action, memory, learning, skill, perception, and motor behavior.
+> Tristo è quel discepolo che non avanza il suo maestro. (Modern Italian)
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
