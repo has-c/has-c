@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Sometimes this process helped us realize that a different topic was more important, so we cut material we had developed to focus on something else.
+> If we did all the things we are capable of doing, we would literally astound ourselves.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A solid, up-to-date foundation is one key to being a productive machine learning engineer.
+> In 3 dimensions the curvature is more complicated... It's determined not by by a single number r, but by a number R that depends on 2 directions i and j, called the Ricci curvature...
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
