@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> The future is not laid out on a track. It is something that we can decide, and to the extent that we do not violate any known laws of the universe, we can probably make it work the way that we want to.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
 
 **Qwen3.5 9B MTP · Mac**
 
-> People said I should accept the world. Bullshit! I don't accept the world.
+> Madam, I have come from a country where people are hanged if they talk.
 >
-> — *Richard Stallman* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Stallman)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
