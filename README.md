@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> … the best causes tend to attract to their support the worst arguments, which seems to be equally true in the intellectual and in the moral sense.
+> If numbers aren't beautiful, I don't know what is.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Tristo è quel discepolo che non avanza il suo maestro. (Modern Italian)
+> A faith which we follow upon orders imposed from outside is no faith, and a community which puts its dependence upon such a pseudo-faith is ultimately bound to ruin itself because of the paralysis which the lack of a healthy growing science imposes upon it.
 >
-> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
