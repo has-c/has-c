@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> But every error is due to extraneous factors (such as emotion and education); reason itself does not err.
+> People want to see patterns in the world. It is how we evolved. We descended from those primates who were best at spotting the telltale pattern of a predator in the forest, or of food in the savannah. So important is this skill that we apply it everywhere, warranted or not.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Some contributions have staying power and become the basis of further developments.
+> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
