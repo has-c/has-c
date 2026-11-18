@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> These connections are partly responsible for rekindling my interest in RL as a way to improve our understanding of animal learning and behavior, in addition to being a collection of methods for finding good solutions to engineering problems.
+> Quanquam nobis in intima naturae mysteria penetrare, indeque veras caussas Phaenomenorum agnoscere neutiquam est concessum: tamen evenire potest, ut hypothesis quaedam ficta pluribus phaenomenis explicandis aeque satisfaciat, ac si vera caussa nobis esset perspecta.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Especially exciting are the connections between temporal difference (TD) algorithms and the brain's dopamine system.
+> Heaven knows what seeming nonsense may not to-morrow be demonstrated truth.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
