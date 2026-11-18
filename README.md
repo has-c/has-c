@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Je ne sais si je n’ai déjà dit quelque part que la Mathématique est l’art de donner le même nom à des choses différentes.
+> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.
 >
-> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I’ve always been inspired and motivated by the idea. It wasn’t called AGI back then, but you know, like, having a neural network do everything. I didn’t always believe that they could. But it was the mountain to climb.
+> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
 >
-> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
+> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
