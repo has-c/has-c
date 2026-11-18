@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> People want to see patterns in the world. It is how we evolved. We descended from those primates who were best at spotting the telltale pattern of a predator in the forest, or of food in the savannah. So important is this skill that we apply it everywhere, warranted or not.
+> Intelligence is becoming cheap as tap water.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
+> Never start with a chiplet design; go for the biggest chip you can imagine and build it.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
