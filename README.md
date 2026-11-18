@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Number, place, and combination... the three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred.
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> One can even conjecture that Lisp owes its survival specifically to the fact that its programs are lists, which everyone, including me, has regarded as a disadvantage.
+> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
 >
-> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
