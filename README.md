@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The reason hidden units in neural nets are called hidden units is that Peter Brown told me about hidden Markov models. I decided "hidden" was a good name for those extra units, so that's where the name "hidden" comes from.
+> Euclid 's manner of exposition, progressing relentlessly from the data to the unknown and from the hypothesis to the conclusion, is perfect for checking the argument in detail but far from being perfect for making understandable the main line of the argument.
 >
-> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 
 **Qwen3.5 9B MTP · Mac**
 
-> pause either further training, or pause deployment, or avoiding certain types of training that we think might be riskier. So just setting up some reasonable rules for what everyone should do to having everyone somewhat limit these things
+> Mathematics is the cheapest science. Unlike physics or chemistry, it does not require any expensive equipment. All one needs for mathematics is a pencil and paper.
 >
-> — *John Schulman* (Reinforcement learning) · [source](https://en.wikiquote.org/wiki/John_Schulman)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
