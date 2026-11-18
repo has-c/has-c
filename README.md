@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> No practical biologist interested in sexual reproduction would be led to work out the detailed consequences experienced by organisms having three or more sexes; yet what else should he do if he wishes to understand why the sexes are, in fact, always two?
+> We are in the position of the man who has only two ambitions in life. One is to invent the universal solvent which will dissolve any solid substance, and the second is to invent the universal container which will hold any liquid. Whatever this inventor does, he will be frustrated.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Subito salse in me due cose: paura e desiderio: paura per la minacciante e scura spelonca, desiderio per vedere se là entro fusse alcuna miracolosa cosa. (Ancient Italian)
+> I guess I feel like language models are world models, but they could be better world models.
 >
-> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
+> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
