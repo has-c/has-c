@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The fact that the mean recurrence time is infinite implies that the chance fluctuations in an individual prolonged coin-tossing game are far removed from the familiar pattern governed by the normal distribution.
+> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
 >
-> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
+> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul; elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte."
+> In the past human life was lived in a bullock cart; in the future it will be lived in an aeroplane; and the change of speed amounts to a difference in quality.
 >
-> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
