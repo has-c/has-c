@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> All models are wrong; some models are useful.
+> I'm interested in the computer as a new idea, a new and fundamental philosophical concept that changes mathematics, that solves old problems better and suggests new problems, that changes our way of thinking and helps us to understand things better, that gives us radically new insights...
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Everyone is a programmer now. You just have to say something to the computer.
+> Step one, solve intelligence; step two, use it to solve everything else.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
