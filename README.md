@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> The fact that the mean recurrence time is infinite implies that the chance fluctuations in an individual prolonged coin-tossing game are far removed from the familiar pattern governed by the normal distribution.
 >
-> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
+> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If I knew I was going to die today, I think I should still want to hear the cricket scores.
+> "On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul; elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte."
 >
-> — *G. H. Hardy* (Mathematics) · [source](https://en.wikiquote.org/wiki/G._H._Hardy)
+> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
