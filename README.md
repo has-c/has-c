@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It seems to be expected of every pilgrim up the slopes of the mathematical Parnassus, that he will at some point or other of his journey sit down and invent a definite integral or two towards the increase of the common stock.
+> We need heuristic reasoning when we construct a strict proof as we need scaffolding when we erect a building.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 
 **Qwen3.5 9B MTP · Mac**
 
-> As the prerogative of Natural Science is to cultivate a taste for observation, so that of Mathematics is, almost from the starting point, to stimulate the faculty of invention.
+> The ignorance of science means the enforced ignorance of mankind.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
