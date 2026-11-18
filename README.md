@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> People almost invariably arrive at their beliefs not on the basis of proof but on the basis of what they find attractive.
+> I got Christianity at school and Stalinism at home. I think that was a very good preparation for being a scientist because I got used to the idea that at least half the people are completely wrong.
 >
-> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
+> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
 
 **Qwen3.5 9B MTP · Mac**
 
-> La construction d'une machine propre à exprimer tous les sons de nos paroles, avec toutes les articulations, seroit sans-doute une découverte bien importante. … La chose ne me paroît pas impossible.
+> The best of ideas is hurt by uncritical acceptance and thrives on critical examination.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
