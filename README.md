@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
+> No practical biologist interested in sexual reproduction would be led to work out the detailed consequences experienced by organisms having three or more sexes; yet what else should he do if he wishes to understand why the sexes are, in fact, always two?
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
+> Subito salse in me due cose: paura e desiderio: paura per la minacciante e scura spelonca, desiderio per vedere se là entro fusse alcuna miracolosa cosa. (Ancient Italian)
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *Leonardo da Vinci* (Invention) · [source](https://en.wikiquote.org/wiki/Leonardo_da_Vinci)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
