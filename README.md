@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If I could prove by logic that you would die in five minutes, I should be sorry you were going to die, but my sorrow would be very much mitigated by pleasure in the proof.
+> Step by step men of science are coming to recognise that mechanism is not at the bottom of phenomena, but is only the conceptual shorthand by aid of which they can briefly describe and resume phenomena.
 >
-> — *G. H. Hardy* (Mathematics) · [source](https://en.wikiquote.org/wiki/G._H._Hardy)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The best of ideas is hurt by uncritical acceptance and thrives on critical examination.
+> Science can only answer to the great majority of "metaphysical" problems "I am ignorant." Meanwhile, it is idle to be impatient or to indulge in system-making.
 >
-> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
