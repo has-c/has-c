@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> La sociologie est la science qui possède le plus de méthodes et le moins de résultats.
+> Our family are an alternate stratification of poetry and mathematics.
 >
-> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *Ada Lovelace* (Computer science) · [source](https://en.wikiquote.org/wiki/Ada_Lovelace)
 
 **Qwen3.5 9B MTP · Mac**
 
-> ... the safeguards he wants to design: a machine that looks upon people the way parents look on their children. “In my opinion, this is the gold standard,” he says. “It is a generally true statement that people really care about children.” (Does he have children? “No, but I want to,” he says.)
+> I think some of the biggest problems that face us today as a society, whether that's climate or disease, will be helped by AI solutions. I'd be very worried about society today if I didn't know that something as transformative as AI was coming down the line.
 >
-> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
