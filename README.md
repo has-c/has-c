@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Step by step men of science are coming to recognise that mechanism is not at the bottom of phenomena, but is only the conceptual shorthand by aid of which they can briefly describe and resume phenomena.
+> It is not worth my while to manufacture in three countries only; but I can find it very worthwhile to make it for the whole world.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Science can only answer to the great majority of "metaphysical" problems "I am ignorant." Meanwhile, it is idle to be impatient or to indulge in system-making.
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
