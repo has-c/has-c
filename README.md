@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Mechanical rules are never a substitute for clarity of thought.
+> Physical irreversibility manifests itself in the fact that, whenever the system is in a state far removed from equilibrium, it is much more likely to move toward equilibrium, than in the opposite direction.
 >
-> — *Brian Kernighan* (Computer science) · [source](https://en.wikiquote.org/wiki/Brian_Kernighan)
+> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
 
 **Qwen3.5 9B MTP · Mac**
 
-> C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.
+> "Ce que nous connaissons est peu de chose, ce que nous ignorons est immense."
 >
-> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
+> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
