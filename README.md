@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Most of the world is of great roughness and infinite complexity. However, the infinite sea of complexity includes two islands of simplicity: one of Euclidean simplicity and a second of relative simplicity in which roughness is present but is the same at all scales.
+> Step one, solve intelligence; step two, use it to solve everything else.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 
 **Qwen3.5 9B MTP · Mac**
 
-> If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.
+> Never start with a chiplet design; go for the biggest chip you can imagine and build it.
 >
-> — *Steve Wozniak* (Computer science) · [source](https://en.wikiquote.org/wiki/Steve_Wozniak)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
