@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I got Christianity at school and Stalinism at home. I think that was a very good preparation for being a scientist because I got used to the idea that at least half the people are completely wrong.
+> La sociologie est la science qui possède le plus de méthodes et le moins de résultats.
 >
-> — *Geoffrey Hinton* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Geoffrey_Hinton)
+> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Are there mathematical propositions for which there is a considerable amount of computational evidence, evidence that is so persuasive that a physicist would regard them as experimentally verified?
+> ... the safeguards he wants to design: a machine that looks upon people the way parents look on their children. “In my opinion, this is the gold standard,” he says. “It is a generally true statement that people really care about children.” (Does he have children? “No, but I want to,” he says.)
 >
-> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
+> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
