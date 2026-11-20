@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It seems to be expected of every pilgrim up the slopes of the mathematical Parnassus, that he will at some point or other of his journey sit down and invent a definite integral or two towards the increase of the common stock.
+> A solid, up-to-date foundation is one key to being a productive machine learning engineer.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
 
 **Qwen3.5 9B MTP · Mac**
 
-> As the prerogative of Natural Science is to cultivate a taste for observation, so that of Mathematics is, almost from the starting point, to stimulate the faculty of invention.
+> The use of “hacker” to mean “security breaker” is a confusion on the part of the mass media. We hackers refuse to recognize that meaning, and continue using the word to mean someone who loves to program, someone who enjoys playful cleverness, or the combination of the two.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *Richard Stallman* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Stallman)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
