@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I’ve always been inspired and motivated by the idea. It wasn’t called AGI back then, but you know, like, having a neural network do everything. I didn’t always believe that they could. But it was the mountain to climb.
+> You could learn the language of almost anything. Once you learn the language, you can apply the language - and the application of language is generation.
 >
-> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Engineering is too important to wait for science.
+> And we should... call it... this kind of radical abundance era, where there’s plenty of resources to go around. Of course the next big question is making sure that that’s fairly, shared fairly and everyone in society benefits from that.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
