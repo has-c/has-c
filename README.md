@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The common model does include aspects of the decision maker's interaction with its world (there must be input and output, and a goal) and internal components of the decision maker (for perception, decision-making, internal evaluation, and a world model).
+> The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is.
 >
-> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
+> — *Dennis Gabor* (Invention) · [source](https://en.wikiquote.org/wiki/Dennis_Gabor)
 
 **Qwen3.5 9B MTP · Mac**
 
-> La construction d'une machine propre à exprimer tous les sons de nos paroles, avec toutes les articulations, seroit sans-doute une découverte bien importante. … La chose ne me paroît pas impossible.
+> It is well-known that knowledge of regularity and repeatability may improve the agent's ability to plan actions leading to external rewards.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *Jürgen Schmidhuber* (Artificial intelligence) · [source](https://arxiv.org/abs/0709.0674)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
