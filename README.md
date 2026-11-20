@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> You could learn the language of almost anything. Once you learn the language, you can apply the language - and the application of language is generation.
+> The supposition is prevalent the world over that there would be no problems in production or service if only our production workers would do their jobs in the way that they were taught. Pleasant dreams. The workers are handicapped by the system, and the system belongs to the management.
 >
-> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
+> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
 
 **Qwen3.5 9B MTP · Mac**
 
-> And we should... call it... this kind of radical abundance era, where there’s plenty of resources to go around. Of course the next big question is making sure that that’s fairly, shared fairly and everyone in society benefits from that.
+> There cannot be mental atrophy in any person who continues to observe, to remember what he observes, and to seek answers for his unceasing hows and whys about things.
 >
-> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
+> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
