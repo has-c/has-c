@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> " The real value of tests is not that they detect bugs in the code, but that they detect inadequacies in the methods, concentration, and skills of those who design and produce the code."
+> We'll show you that you can build a mind from many little parts, each mindless by itself.
 >
-> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
 
 **Qwen3.5 9B MTP · Mac**
 
-> My own supervisor, William Hodge, the creator of the fertile theory of harmonic forms, was not a genius like Ramanujan but resembled Lefschetz.
+> A few first rate research papers are preferable to a large number that are poorly conceived or half-finished. The latter are no credit to their writers and a waste of time to their readers.
 >
-> — *Michael Atiyah* (Mathematics) · [source](https://en.wikiquote.org/wiki/Michael_Atiyah)
+> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
