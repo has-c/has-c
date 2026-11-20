@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The supposition is prevalent the world over that there would be no problems in production or service if only our production workers would do their jobs in the way that they were taught. Pleasant dreams. The workers are handicapped by the system, and the system belongs to the management.
+> At the end of about a week, I called back and said, "I need something to compare this to. Could I please have a microsecond?"
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There cannot be mental atrophy in any person who continues to observe, to remember what he observes, and to seek answers for his unceasing hows and whys about things.
+> The study of Euler 's works will remain the best school for the different fields of mathematics and nothing else can replace it.
 >
-> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
+> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
