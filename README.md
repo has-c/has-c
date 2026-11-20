@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> That axiom of Metaphysicians which is termed the principle of contradiction and which affirms that it is impossible for anything to possess a quality, and in the same time not to possess it, is a consequence of the fundamental law of thought, whose expression is x²=x.
+> The meaning of the world is the separation of wish and fact. Wish is a force as applied to thinking beings, to realize something. A fulfilled wish is a union of wish and fact. The meaning of the whole world is the separation and the union of fact and wish.
 >
-> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Science can be effective in the national welfare only as a member of a team, whether the conditions be peace or war. But without scientific progress no amount of achievement in other directions can insure our health, prosperity, and security as a nation in the modern world.
+> Sir, an equation has no meaning for me unless it expresses a thought of GOD.
 >
-> — *Vannevar Bush* (Computer science) · [source](https://en.wikiquote.org/wiki/Vannevar_Bush)
+> — *Srinivasa Ramanujan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
