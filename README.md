@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Any bit of nonsense can be computerized—astrology, biorhythms, the I Ching —but that doesn’t make the nonsense any more valid.
+> I’ve always been inspired and motivated by the idea. It wasn’t called AGI back then, but you know, like, having a neural network do everything. I didn’t always believe that they could. But it was the mountain to climb.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
 
 **Qwen3.5 9B MTP · Mac**
 
-> My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.
+> Engineering is too important to wait for science.
 >
-> — *Emmy Noether* (Mathematics) · [source](https://en.wikiquote.org/wiki/Emmy_Noether)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
