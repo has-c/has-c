@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I confess that Fermat's Theorem as an isolated proposition has very little interest for me, because I could easily lay down a multitude of such propositions, which one could neither prove nor dispose of.
+> The ancient world takes its stand upon the drama of the Universe, the modern world upon the inward drama of the Soul.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I have had my results for a long time: but I do not yet know how I am to arrive at them.
+> I'm always right. This time I'm just even more right than usual.
 >
-> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
+> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
