@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> ... the safeguards he wants to design: a machine that looks upon people the way parents look on their children. “In my opinion, this is the gold standard,” he says. “It is a generally true statement that people really care about children.” (Does he have children? “No, but I want to,” he says.)
+> Most of the world is of great roughness and infinite complexity. However, the infinite sea of complexity includes two islands of simplicity: one of Euclidean simplicity and a second of relative simplicity in which roughness is present but is the same at all scales.
 >
-> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Any girl can be glamorous. All you have to do is stand still and look stupid.
+> For most of my life, one of the persons most baffled by my own work was myself.
 >
-> — *Hedy Lamarr* (Invention) · [source](https://en.wikiquote.org/wiki/Hedy_Lamarr)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
