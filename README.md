@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> " The most important property of a program is whether it accomplishes the intentions of its user. "
+> How do we convince people that in programming simplicity and clarity —in short: what mathematicians call "elegance"— are not a dispensable luxury, but a crucial matter that decides between success and failure?
 >
-> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Reliable and transparent programs are usually not in the interest of the designer.
+> The definition of definition is at bottom just what the maxim of pragmatism expresses.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
