@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won’t usually need your flowcharts; they’ll be obvious.
+> Being a language, mathematics may be used not only to inform but also, among other things, to seduce.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The following question had been much in my mind. How is it possible for a population to remain alike in its features, as a whole, during many successive generations, if the average produce of each couple resemble their parents? Their children are not alike but vary...
+> I’ve always been inspired and motivated by the idea. It wasn’t called AGI back then, but you know, like, having a neural network do everything. I didn’t always believe that they could. But it was the mountain to climb.
 >
-> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
+> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
