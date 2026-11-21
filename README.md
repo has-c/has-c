@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for.
+> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
 >
-> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701 (an early computer), writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs.
+> We must be careful not to discourage our twelve-year-olds by making them waste the best years of their lives preparing for examinations.
 >
-> — *John Backus* (Computer science) · [source](https://en.wikiquote.org/wiki/John_Backus)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
