@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Number, place, and combination... the three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred.
+> It was necessary to pick an efficient one, because we planned to apply the algorithm to a very large set of users on a limited compute budget.
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Money does not represent such a value as men have placed upon it. All my money has been invested into experiments with which I have made new discoveries enabling mankind to have a little easier life.
+> The two races which have founded the mathematics, those of the Sanscrit and Greek languages, have been the two which have independently formed systems of logic.
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *Augustus De Morgan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Augustus_De_Morgan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
