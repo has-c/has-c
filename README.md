@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The ancient world takes its stand upon the drama of the Universe, the modern world upon the inward drama of the Soul.
+> The idea of this paper is to sharpen and deepen this premise by proposing a perspective on the decision maker that is substantive and widely held across psychology, artificial intelligence, economics, control theory, and neuroscience, which I call the "common model of the intelligent agent".
 >
-> — *Alfred North Whitehead* (Mathematics) · [source](https://en.wikiquote.org/wiki/Alfred_North_Whitehead)
+> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I'm always right. This time I'm just even more right than usual.
+> The academic mind, as we know, is sometimes capable of assuming an aggressive attitude. The official mind, on the contrary, is and has to be, expert in the art of self-defence.
 >
-> — *Linus Torvalds* (Computer science) · [source](https://en.wikiquote.org/wiki/Linus_Torvalds)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
