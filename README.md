@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If the prior distribution, at which I am frankly guessing, has little or no effect on the result, then why bother; and if it has a large effect, then since I do not know what I am doing how would I dare act on the conclusions drawn?
+> Eventually, I decided that thinking was not getting me very far and it was time to try building.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Rob Pike* (Computer science) · [source](https://en.wikiquote.org/wiki/Rob_Pike)
 
 **Qwen3.5 9B MTP · Mac**
 
-> To invent, you need a good imagination and a pile of junk.
+> We must admit with humility that, while number is purely a product of our minds, space has a reality outside our minds, so that we cannot completely prescribe its properties a priori.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Carl Friedrich Gauss* (Mathematics) · [source](https://en.wikiquote.org/wiki/Carl_Friedrich_Gauss)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
