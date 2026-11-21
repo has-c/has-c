@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The idea of this paper is to sharpen and deepen this premise by proposing a perspective on the decision maker that is substantive and widely held across psychology, artificial intelligence, economics, control theory, and neuroscience, which I call the "common model of the intelligent agent".
+> The inventor...looks upon the world and is not contented with things as they are. He wants to improve whatever he sees, he wants to benefit the world; he is haunted by an idea. The spirit of invention possesses him, seeking materialization.
 >
-> — *Richard S. Sutton* (Reinforcement learning) · [source](https://arxiv.org/abs/2202.13252)
+> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The academic mind, as we know, is sometimes capable of assuming an aggressive attitude. The official mind, on the contrary, is and has to be, expert in the art of self-defence.
+> We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
