@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It was necessary to pick an efficient one, because we planned to apply the algorithm to a very large set of users on a limited compute budget.
+> No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it gives the impression of also being beautiful.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The two races which have founded the mathematics, those of the Sanscrit and Greek languages, have been the two which have independently formed systems of logic.
+> As long as scientists are free to pursue the truth wherever it may lead, there will be a flow of new scientific knowledge to those who can apply it to practical problems.
 >
-> — *Augustus De Morgan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Augustus_De_Morgan)
+> — *Vannevar Bush* (Computer science) · [source](https://en.wikiquote.org/wiki/Vannevar_Bush)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
