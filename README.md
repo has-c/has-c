@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A world full of happiness is not beyond human power to create; the obstacles imposed by inanimate nature are not insuperable. The real obstacles lie in the heart of man, and the cure for these is a firm hope, informed and fortified by thought.
+> ... the safeguards he wants to design: a machine that looks upon people the way parents look on their children. “In my opinion, this is the gold standard,” he says. “It is a generally true statement that people really care about children.” (Does he have children? “No, but I want to,” he says.)
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There are other worlds and rational beings of a different and higher kind. The world in which we live is not the only one in which we shall live or have lived.
+> Any girl can be glamorous. All you have to do is stand still and look stupid.
 >
-> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
+> — *Hedy Lamarr* (Invention) · [source](https://en.wikiquote.org/wiki/Hedy_Lamarr)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
