@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> It's not only the question, but the way you try to solve it.
+> UNIX is very simple, it just needs a genius to understand its simplicity.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Dennis Ritchie* (Computer science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
 
 **Qwen3.5 9B MTP · Mac**
 
-> And believe it or not, reinforcement learning was the first thing, how to come up with a system that could learn to act and achieve goals.
+> I worked on developing learning algorithms that are useful for engineering applications but that also make contact with learning as studied by psychologists and neuroscientists.
 >
-> — *Paul Werbos* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Paul_Werbos)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
