@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If you have a hammer, use it everywhere you can, but I do not claim that everything is fractal.
+> Formal proofs, where there is deliberately no meaning, can convince only formalists, and of the results they themselves seem to deny any meaning. Is that to be the mathematics we are to use to understand the world we live in?
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Engineering is too important to wait for science.
+> Unless man have a natural bent in accordance with nature's, he has no chance of understanding nature at all.
 >
-> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
+> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
