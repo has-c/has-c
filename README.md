@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Relying on intelligence alone to pull things off at the last minute may work for a while, but generally speaking at the graduate level or higher it doesn't. One needs to do a serious amount of reading and writing, and not just thinking, in order to get anywhere serious in mathematics.
+> With the computer and programming languages, mathematics has newly-acquired tools, and its notation should be reviewed in the light of them. The computer may, in effect, be used as a patient, precise, and knowledgeable "native speaker" of mathematical notation.
 >
-> — *Terence Tao* (Mathematics) · [source](https://en.wikiquote.org/wiki/Terence_Tao)
+> — *Kenneth E. Iverson* (Computer science) · [source](https://en.wikiquote.org/wiki/Kenneth_E._Iverson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Although perhaps of no practical importance, the question is of theoretical interest, and it is hoped that a satisfactory solution of this problem will act as a wedge in attacking other problems of a similar nature and of greater significance.
+> pause either further training, or pause deployment, or avoiding certain types of training that we think might be riskier. So just setting up some reasonable rules for what everyone should do to having everyone somewhat limit these things
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *John Schulman* (Reinforcement learning) · [source](https://en.wikiquote.org/wiki/John_Schulman)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
