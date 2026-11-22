@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Formal proofs, where there is deliberately no meaning, can convince only formalists, and of the results they themselves seem to deny any meaning. Is that to be the mathematics we are to use to understand the world we live in?
+> A little retrospection shows that although many fine, useful software systems have been designed by committees and built as part of multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Unless man have a natural bent in accordance with nature's, he has no chance of understanding nature at all.
+> One of the effects of civilization is to diminish the rigour of the application of the law of natural selection. It preserves weakly lives that would have perished in barbarous lands.
 >
-> — *Charles Sanders Peirce* (Mathematics) · [source](https://en.wikiquote.org/wiki/Charles_Sanders_Peirce)
+> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
