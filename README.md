@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A little retrospection shows that although many fine, useful software systems have been designed by committees and built as part of multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers.
+> Syntax highlighting is juvenile. When I was a child, I was taught arithmetic using colored rods. I grew up and today I use monochromatic numerals.
 >
-> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
+> — *Rob Pike* (Computer science) · [source](https://en.wikiquote.org/wiki/Rob_Pike)
 
 **Qwen3.5 9B MTP · Mac**
 
-> One of the effects of civilization is to diminish the rigour of the application of the law of natural selection. It preserves weakly lives that would have perished in barbarous lands.
+> I lead a very simple life. I go to work; then I go home. I don’t do much else. There are a lot of social activities one could engage in, lots of events one could go to. Which I don’t.
 >
-> — *Francis Galton* (Statistics) · [source](https://en.wikiquote.org/wiki/Francis_Galton)
+> — *Ilya Sutskever* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ilya_Sutskever)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
