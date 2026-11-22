@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Essentially, all models are wrong, but some are useful.
+> Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *Marvin Minsky* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Marvin_Minsky)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The million, million, million … to one chance happens once in a million, million, million … times no matter how surprised we may be that it results in us.
+> We need heuristic reasoning when we construct a strict proof as we need scaffolding when we erect a building.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
