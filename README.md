@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed.
+> Scientifically speaking, a butterfly is at least as mysterious as a superstring. When something ceases to be mysterious it ceases to be of absorbing interest to scientists. Almost all things scientists think and dream about are mysterious.
 >
-> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I do not see that the sex of the candidate is an argument against her admission as a Privatdozent. After all, the Senate is not a bath-house.
+> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
 >
-> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
+> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
