@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Scientifically speaking, a butterfly is at least as mysterious as a superstring. When something ceases to be mysterious it ceases to be of absorbing interest to scientists. Almost all things scientists think and dream about are mysterious.
+> Write a paper promising salvation, make it a 'structured' something or a 'virtual' something, or 'abstract', 'distributed' or 'higher-order' or 'applicative' and you can almost be certain of having started a new cult.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *Edsger W. Dijkstra* (Computer science) · [source](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
 **Qwen3.5 9B MTP · Mac**
 
-> In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.
+> It is difficult to estimate the misery inflicted upon thousands of persons, and the absolute pecuniary penalty imposed upon multitudes of intellectual workers by the loss of their time, destroyed by organ-grinders and other similar nuisances.
 >
-> — *Niklaus Wirth* (Computer science) · [source](https://en.wikiquote.org/wiki/Niklaus_Wirth)
+> — *Charles Babbage* (Computer science) · [source](https://en.wikiquote.org/wiki/Charles_Babbage)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
