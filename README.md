@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> To those who ask what the infinitely small quantity in mathematics is, we answer that it is actually zero. Hence there are not so many mysteries hidden in this concept as they are usually believed to be.
+> He who refuses to do arithmetic is doomed to talk nonsense.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
 
 **Qwen3.5 9B MTP · Mac**
 
-> What's very important from my point of view is that there is one web … Anyone that tries to chop it into two will find that their piece looks very boring.
+> It becomes the urgent duty of mathematicians, therefore, to meditate about the essence of mathematics, its motivations and goals and the ideas that must bind divergent interests together.
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
