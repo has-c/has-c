@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Human Felicity is produc'd not so much by great Pieces of good Fortune that seldom happen, as by little Advantages that occur every Day.
+> An ancient adage warns, "Never go to sea with two chronometers; take one or three."
 >
-> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 
 **Qwen3.5 9B MTP · Mac**
 
-> From then on, when anything went wrong with a computer, we said it had bugs in it.
+> "AI is going to bring a new renaissance for humanity, a new form of enlightenment, if you want, because AI is going to amplify everybody's intelligence."
 >
-> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
+> — *Yann LeCun* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Yann_LeCun)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
