@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Young man, in mathematics you don't understand things. You just get used to them.
+> We must be careful not to discourage our twelve-year-olds by making them waste the best years of their lives preparing for examinations.
 >
-> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl. Both are laws of nature.
+> So I'm thinking about??, or!!, or //, or \\, or whatever. But I think I like?? the best so far. Or the least worst.
 >
-> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Larry Wall* (Computer science) · [source](https://en.wikiquote.org/wiki/Larry_Wall)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
