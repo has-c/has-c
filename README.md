@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> All models are wrong; some models are useful.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 
 **Qwen3.5 9B MTP · Mac**
 
-> It's not only the question, but the way you try to solve it.
+> He is an ambitious politician of a type likely to become prevalent in a system avowedly guided by a rigid ideology, who hopes to use the ideological dogmas to which he finds his colleagues committed as levers for his own advancement in the party and in the state.
 >
-> — *Maryam Mirzakhani* (Mathematics) · [source](https://en.wikiquote.org/wiki/Maryam_Mirzakhani)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
