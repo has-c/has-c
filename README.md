@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> When... a simple principle has been discovered... then this principle or law itself generally leads to the discovery of a still wider range of hitherto unregarded phenomena... Every great advance of science opens our eyes to facts which we had failed before to observe, and makes new demands...
+> Human Felicity is produc'd not so much by great Pieces of good Fortune that seldom happen, as by little Advantages that occur every Day.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *Benjamin Franklin* (Invention) · [source](https://en.wikiquote.org/wiki/Benjamin_Franklin)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
+> From then on, when anything went wrong with a computer, we said it had bugs in it.
 >
-> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
+> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
