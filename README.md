@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.
+> That axiom of Metaphysicians which is termed the principle of contradiction and which affirms that it is impossible for anything to possess a quality, and in the same time not to possess it, is a consequence of the fundamental law of thought, whose expression is x²=x.
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *George Boole* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_Boole)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Sir, an equation has no meaning for me unless it expresses a thought of GOD.
+> To this day I remain convinced of this basic philosophy: no matter what quandries we face...there is an idea that can enable us to prevail.
 >
-> — *Srinivasa Ramanujan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
+> — *Ray Kurzweil* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Ray_Kurzweil)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
