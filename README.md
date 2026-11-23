@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Defects are not free. Somebody makes them, and gets paid for making them.
+> When... a simple principle has been discovered... then this principle or law itself generally leads to the discovery of a still wider range of hitherto unregarded phenomena... Every great advance of science opens our eyes to facts which we had failed before to observe, and makes new demands...
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Before anything else, preparation is the key to success.
+> We toast the Lisp programmer who pens his thoughts within nests of parentheses.
 >
-> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
+> — *Alan Perlis* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Perlis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
