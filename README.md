@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The purpose of computing is insight, not numbers.
+> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
+> Sir, an equation has no meaning for me unless it expresses a thought of GOD.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *Srinivasa Ramanujan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
