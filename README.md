@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Formal proofs, where there is deliberately no meaning, can convince only formalists, and of the results they themselves seem to deny any meaning. Is that to be the mathematics we are to use to understand the world we live in?
+> The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made. When was the last time a technology with a scale like that was so error-free? The Web, in comparison, is a joke. The Web was done by amateurs.
 >
-> — *Richard Hamming* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Hamming)
+> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Although perhaps of no practical importance, the question is of theoretical interest, and it is hoped that a satisfactory solution of this problem will act as a wedge in attacking other problems of a similar nature and of greater significance.
+> It is characteristic of all deep human problems that they are not to be approached without some humor and some bewilderment.
 >
-> — *Claude Shannon* (Mathematics) · [source](https://en.wikiquote.org/wiki/Claude_Shannon)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
