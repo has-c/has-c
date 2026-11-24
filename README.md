@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> When a coin is tossed, it does not necessarily fall heads or tails; it can roll away or stand on its edge.
+> Are there mathematical propositions for which there is a considerable amount of computational evidence, evidence that is so persuasive that a physicist would regard them as experimentally verified?
 >
-> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
+> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
 
 **Qwen3.5 9B MTP · Mac**
 
-> These connections are partly responsible for rekindling my interest in RL as a way to improve our understanding of animal learning and behavior, in addition to being a collection of methods for finding good solutions to engineering problems.
+> We cannot hope to give here a final clarification of the essence of fact, judgement, object, property; this task leads into metaphysical abysses; about these one has to seek advice from men whose name cannot be stated without earning a compassionate smile—e.g. Fichte.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
