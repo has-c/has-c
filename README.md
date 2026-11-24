@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The Exclusion Principle is laid down purely for the benefit of the electrons themselves, who might be corrupted (and become dragons or demons) if allowed to associate too freely.
+> We need heuristic reasoning when we construct a strict proof as we need scaffolding when we erect a building.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 
 **Qwen3.5 9B MTP · Mac**
 
-> ... les traités de mécanique ne distinguent pas bien nettement ce qui est expérience, ce qui est raisonnement mathématique, ce qui est convention, ce qui est hypothèse.
+> A function of a variable quantity is an analytic expression composed in any way whatsoever of the variable quantity and numbers or constant quantities.
 >
-> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
