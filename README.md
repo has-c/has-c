@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Are there mathematical propositions for which there is a considerable amount of computational evidence, evidence that is so persuasive that a physicist would regard them as experimentally verified?
+> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We cannot hope to give here a final clarification of the essence of fact, judgement, object, property; this task leads into metaphysical abysses; about these one has to seek advice from men whose name cannot be stated without earning a compassionate smile—e.g. Fichte.
+> FEU. Dieu d'Abraham, Dieu d'Isaac, Dieu de Jacob, non des philosophes et savants. Certitude. Certitude. Sentiment. Joie. Paix.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
