@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Heuristic Search Hypothesis. The solutions to problems are represented as symbol structures. A physical symbol system exercises its intelligence in problem solving by search—that is, by generating and progressively modifying symbol structures until it produces a solution structure.
+> The Exclusion Principle is laid down purely for the benefit of the electrons themselves, who might be corrupted (and become dragons or demons) if allowed to associate too freely.
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The Physical Symbol System Hypothesis. A physical symbol system has the necessary and sufficient means for general intelligent action.
+> ... les traités de mécanique ne distinguent pas bien nettement ce qui est expérience, ce qui est raisonnement mathématique, ce qui est convention, ce qui est hypothèse.
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *Henri Poincaré* (Mathematics) · [source](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
