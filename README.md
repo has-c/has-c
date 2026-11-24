@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> Thinking doesn't guarantee that we won't make mistakes. But not thinking guarantees that we will.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Machines take me by surprise with great frequency.
+> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
