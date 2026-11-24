@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The whole intent of Perl 5's module system was to encourage the growth of Perl culture rather than the Perl core.
+> There are periods in the growth of science when it is well to turn our attention from its imposing superstructure and to carefully examine its foundations. The present book is primarily intended as a criticism of the fundamental concepts of modern science...
 >
-> — *Larry Wall* (Computer science) · [source](https://en.wikiquote.org/wiki/Larry_Wall)
+> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> We cannot rely on mass inspection to improve quality, though there are times when 100 percent inspection is necessary. As Harold S. Dodge said many years ago, 'You cannot inspect quality into a product.' The quality is there or it isn't by the time it's inspected.
+> Now, if someone tries to monopolize the Web, for example pushes proprietary variations on network protocols, then that would make me unhappy.
 >
-> — *W. Edwards Deming* (Statistics) · [source](https://en.wikiquote.org/wiki/W._Edwards_Deming)
+> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
