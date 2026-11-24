@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> C is quirky, flawed, and an enormous success.
+> When a coin is tossed, it does not necessarily fall heads or tails; it can roll away or stand on its edge.
 >
-> — *Dennis Ritchie* (Computer science) · [source](https://en.wikiquote.org/wiki/Dennis_Ritchie)
+> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701 (an early computer), writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs.
+> These connections are partly responsible for rekindling my interest in RL as a way to improve our understanding of animal learning and behavior, in addition to being a collection of methods for finding good solutions to engineering problems.
 >
-> — *John Backus* (Computer science) · [source](https://en.wikiquote.org/wiki/John_Backus)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
