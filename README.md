@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> There are periods in the growth of science when it is well to turn our attention from its imposing superstructure and to carefully examine its foundations. The present book is primarily intended as a criticism of the fundamental concepts of modern science...
+> Some people confess guilt to claim credit for the sin.
 >
-> — *Karl Pearson* (Statistics) · [source](https://en.wikiquote.org/wiki/Karl_Pearson)
+> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Now, if someone tries to monopolize the Web, for example pushes proprietary variations on network protocols, then that would make me unhappy.
+> I handed my passport to the immigration officer, and he looked at it and looked at me and said, "What are you?"
 >
-> — *Tim Berners-Lee* (Computer science) · [source](https://en.wikiquote.org/wiki/Tim_Berners-Lee)
+> — *Grace Hopper* (Computer science) · [source](https://en.wikiquote.org/wiki/Grace_Hopper)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
