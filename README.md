@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Thinking doesn't guarantee that we won't make mistakes. But not thinking guarantees that we will.
+> Even when the experts all agree, they may well be mistaken.
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
 
 **Qwen3.5 9B MTP · Mac**
 
-> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
+> No, I had the box set. You had to pull hard, but you could pull one of the box. Now I’m less likely to use any book for reference—I’m just likely to do a search.
 >
-> — *Leslie Lamport* (Computer science) · [source](https://en.wikiquote.org/wiki/Leslie_Lamport)
+> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
