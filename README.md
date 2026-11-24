@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> For scholars and laymen alike it is not philosophy but active experience in mathematics itself that can alone answer the question: What is mathematics?
+> One can even conjecture that Lisp owes its survival specifically to the fact that its programs are lists, which everyone, including me, has regarded as a disadvantage.
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Empirical evidence can never establish mathematical existence--nor can the mathematician's demand for existence be dismissed by the physicist as useless rigor. Only a mathematical existence proof can ensure that the mathematical description of a physical phenomenon is meaningful.
+> To every ω -consistent recursive class κ of formulae there correspond recursive class signs r, such that neither v Gen r nor Neg (v Gen r) belongs to Flg (κ) (where v is the free variable of r).
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *Kurt Gödel* (Mathematics) · [source](https://en.wikiquote.org/wiki/Kurt_G%C3%B6del)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
