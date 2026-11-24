@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> Conventional wisdom, fooled by our misleading "physical intuition", is that the real world is continuous, and that discrete models are necessary evils for approximating the "real" world, due to the innate discreteness of the digital computer.
 >
-> — *John von Neumann* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_von_Neumann)
+> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
 
 **Qwen3.5 9B MTP · Mac**
 
-> FEU. Dieu d'Abraham, Dieu d'Isaac, Dieu de Jacob, non des philosophes et savants. Certitude. Certitude. Sentiment. Joie. Paix.
+> There’s always enough random success to justify almost anything to someone who wants to believe.
 >
-> — *Blaise Pascal* (Mathematics) · [source](https://en.wikiquote.org/wiki/Blaise_Pascal)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
