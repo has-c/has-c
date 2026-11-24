@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Even when the experts all agree, they may well be mistaken.
+> From any vocabulary of ideas we can build other ideas by formal combinations of signs. But not any set of ideas will be instructive. One must have the right ideas.
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 
 **Qwen3.5 9B MTP · Mac**
 
-> No, I had the box set. You had to pull hard, but you could pull one of the box. Now I’m less likely to use any book for reference—I’m just likely to do a search.
+> Soldering things together, putting the chips together, designing them, drawing them on drafting tables — it was so much a passion in my life. And to this day, I'll go stay at the bottom of the org chart being an engineer, because that's where I want to be.
 >
-> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
+> — *Steve Wozniak* (Computer science) · [source](https://en.wikiquote.org/wiki/Steve_Wozniak)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
