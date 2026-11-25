@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> As long as algebra and geometry proceeded along separate paths, their advance was slow and their applications limited. But when these sciences joined company, they drew from each other fresh vitality and thenceforward marched on at a rapid pace toward perfection.
+> The future is not laid out on a track. It is something that we can decide, and to the extent that we do not violate any known laws of the universe, we can probably make it work the way that we want to.
 >
-> — *Joseph-Louis Lagrange* (Mathematics) · [source](https://en.wikiquote.org/wiki/Joseph-Louis_Lagrange)
+> — *Alan Kay* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Kay)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The SF created us to enjoy our suffering. … The sooner we die, the sooner we defy His plans.
+> It seems to be expected of every pilgrim up the slopes of the mathematical Parnassus, that he will at some point or other of his journey sit down and invent a definite integral or two towards the increase of the common stock.
 >
-> — *Paul Erdős* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Erd%C5%91s)
+> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
