@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Conventional wisdom, fooled by our misleading "physical intuition", is that the real world is continuous, and that discrete models are necessary evils for approximating the "real" world, due to the innate discreteness of the digital computer.
+> Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it concentrates on one point. And then that becomes his point of view.
 >
-> — *Doron Zeilberger* (Mathematics) · [source](https://en.wikiquote.org/wiki/Doron_Zeilberger)
+> — *David Hilbert* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Hilbert)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There’s always enough random success to justify almost anything to someone who wants to believe.
+> "How to test?" is a question that cannot be answered in general. "When to test?" however, does have a general answer: as early and as often as possible.
 >
-> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
+> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
