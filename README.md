@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Imagine, if you can, four things that have very different sizes. First, the entire universe. Second, the planet Earth. Third, the nucleus of an atom. Fourth, a superstring. The step in size from each of these things to the next is roughly the same... twenty powers of ten....
+> I guess I feel like language models are world models, but they could be better world models.
 >
-> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
+> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
 
 **Qwen3.5 9B MTP · Mac**
 
-> pause either further training, or pause deployment, or avoiding certain types of training that we think might be riskier. So just setting up some reasonable rules for what everyone should do to having everyone somewhat limit these things
+> The author discusses valueless measures in pointless spaces.
 >
-> — *John Schulman* (Reinforcement learning) · [source](https://en.wikiquote.org/wiki/John_Schulman)
+> — *Paul Halmos* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Halmos)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
