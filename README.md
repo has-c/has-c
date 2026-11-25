@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Probability fractions arise from our knowledge and from our ignorance.
+> " The most important property of a program is whether it accomplishes the intentions of its user. "
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I went drinking with Gray Powell and all I got was a lousy iPhone prototype.
+> I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed.
 >
-> — *Steve Wozniak* (Computer science) · [source](https://en.wikiquote.org/wiki/Steve_Wozniak)
+> — *C. A. R. Hoare* (Computer science) · [source](https://en.wikiquote.org/wiki/C._A._R._Hoare)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
