@@ -4,9 +4,60 @@
 
 ---
 
-### Featured Project
+## Featured Projects
 
-[**Pi Agent Python SDK**](https://github.com/cheenulabs/pi-agent-python-sdk) — Run Pi from Python with synchronous and async APIs for streaming responses, managing sessions, and controlling the coding agent. Includes an experimental Durable backend for crash-recoverable agent jobs.
+From agent tooling to applied machine learning and sensing.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Pi Agent Python SDK
+**Run Pi from Python.**
+
+Sync and async APIs for streaming responses, managing sessions, and controlling the coding agent. Experimental Durable support for crash-recoverable jobs.
+
+<sub>Python · Agent tooling · Open source</sub><br><br>
+<a href="https://github.com/cheenulabs/pi-agent-python-sdk"><b>Explore the SDK →</b></a> &nbsp;·&nbsp; <a href="https://pypi.org/project/pi-agent-python-sdk/">PyPI</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Occupancy Detection
+**Sense a room with millimetre-wave radar.**
+
+Real-time indoor people detection and tracking on Raspberry Pi, using density-based clustering and Kalman filtering. Research accepted at IEEE ICIEA 2020.
+
+<sub>mmWave radar · Raspberry Pi · Tracking</sub><br><br>
+<a href="https://github.com/has-c/OccupancyDetection"><b>Explore the research →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ User Mobility Mining
+**Model the places people visit.**
+
+Predict place categories from check-in data with spatial features and time-aware sequence models. Comparing neural networks, LSTMs, and XGBoost.
+
+<sub>Spatiotemporal ML · LSTM · XGBoost</sub><br><br>
+<a href="https://github.com/has-c/UserMobilityMining"><b>Explore the research →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 ML for Mass Spectrometry
+**Apply machine learning to mass spectrometry.**
+
+University of Auckland research exploring machine-learning analysis of mass spectrometry data, with links to subsequent work on AdductHunter.
+
+<sub>Machine learning · Mass spectrometry · Research</sub><br><br>
+<a href="https://github.com/has-c/MLMSA"><b>Explore the research →</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
