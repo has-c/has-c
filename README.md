@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I guess I feel like language models are world models, but they could be better world models.
+> Probability fractions arise from our knowledge and from our ignorance.
 >
-> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The author discusses valueless measures in pointless spaces.
+> I went drinking with Gray Powell and all I got was a lousy iPhone prototype.
 >
-> — *Paul Halmos* (Mathematics) · [source](https://en.wikiquote.org/wiki/Paul_Halmos)
+> — *Steve Wozniak* (Computer science) · [source](https://en.wikiquote.org/wiki/Steve_Wozniak)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
