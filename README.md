@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> I'm interested in the computer as a new idea, a new and fundamental philosophical concept that changes mathematics, that solves old problems better and suggests new problems, that changes our way of thinking and helps us to understand things better, that gives us radically new insights...
+> The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
 >
-> — *Gregory Chaitin* (Mathematics) · [source](https://en.wikiquote.org/wiki/Gregory_Chaitin)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Sir, an equation has no meaning for me unless it expresses a thought of GOD.
+> For scholars and laymen alike it is not philosophy but active experience in mathematics itself that can alone answer the question: What is mathematics?
 >
-> — *Srinivasa Ramanujan* (Mathematics) · [source](https://en.wikiquote.org/wiki/Srinivasa_Ramanujan)
+> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
