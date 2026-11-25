@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science seems to be at war with itself.... Naive realism leads to physics, and physics, if true, shows naive realism to be false. Therefore naive realism, if true, is false; therefore it is false.
+> Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "Ce que nous connaissons est peu de chose, ce que nous ignorons est immense."
+> Gullible citizens are a demagogue’s dream.
 >
-> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *John Allen Paulos* (Mathematics) · [source](https://en.wikiquote.org/wiki/John_Allen_Paulos)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
