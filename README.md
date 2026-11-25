@@ -26,10 +26,10 @@ Sync and async APIs for streaming responses, managing sessions, and controlling 
 ### 📡 Occupancy Detection
 **Sense a room with millimetre-wave radar.**
 
-Real-time indoor people detection and tracking on Raspberry Pi, using density-based clustering and Kalman filtering. Research accepted at IEEE ICIEA 2020.
+Real-time indoor people detection and tracking on Raspberry Pi, using density-based clustering and Kalman filtering. Published in the Journal of Sensors (2021).
 
 <sub>mmWave radar · Raspberry Pi · Tracking</sub><br><br>
-<a href="https://github.com/has-c/OccupancyDetection"><b>Explore the research →</b></a>
+<a href="https://github.com/has-c/OccupancyDetection"><b>Explore the research →</b></a> &nbsp;·&nbsp; <a href="https://doi.org/10.1155/2021/6657709" title="Indoor Detection and Tracking of People Using mmWave Sensor">Paper</a>
 
 </td>
 </tr>
@@ -47,13 +47,13 @@ Predict place categories from check-in data with spatial features and time-aware
 </td>
 <td width="50%" valign="top">
 
-### 🧪 ML for Mass Spectrometry
-**Apply machine learning to mass spectrometry.**
+### 🎬 Smell of Fear
+**Link shared experiences to biomarkers in breath.**
 
-University of Auckland research exploring machine-learning analysis of mass spectrometry data, with links to subsequent work on AdductHunter.
+Analyse cinema audiences’ breath alongside a film’s visual and auditory features, using regression and pattern mining to study collective biological responses. Published in IEEE Transactions on Affective Computing.
 
-<sub>Machine learning · Mass spectrometry · Research</sub><br><br>
-<a href="https://github.com/has-c/MLMSA"><b>Explore the research →</b></a>
+<sub>Affective computing · Breath biomarkers · Machine learning</sub><br><br>
+<a href="https://github.com/has-c/SmellOfFear"><b>Explore the research →</b></a> &nbsp;·&nbsp; <a href="https://doi.org/10.1109/TAFFC.2023.3275216" title="From What You See to What We Smell: Linking Human Emotions to Bio-Markers in Breath">Paper</a>
 
 </td>
 </tr>
