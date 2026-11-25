@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> To acquire immunity to eloquence is of the utmost importance to the citizens of a democracy.
+> This means that if in a city seven accidents occur each week, then (assuming that all possible distributions are equally likely) practically all weeks will contain days with two or more accidents, and on the average only one week out of 165 will show a uniform distribution of one accident per day.
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *William Feller* (Mathematics) · [source](https://en.wikiquote.org/wiki/William_Feller)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "Lisez Euler, lisez Euler, c'est notre maître à tous."
+> I worked on developing learning algorithms that are useful for engineering applications but that also make contact with learning as studied by psychologists and neuroscientists.
 >
-> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
