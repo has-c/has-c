@@ -6,7 +6,7 @@
 
 ### Find Me
 
-I write about data, ML, and markets on Substack:
+I write about data, ML/AI, and markets on Substack:
 
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@highstreetcapital)
 
