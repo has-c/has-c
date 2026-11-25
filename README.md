@@ -31,15 +31,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Number, place, and combination... the three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred.
+> Imagine, if you can, four things that have very different sizes. First, the entire universe. Second, the planet Earth. Third, the nucleus of an atom. Fourth, a superstring. The step in size from each of these things to the next is roughly the same... twenty powers of ten....
 >
-> — *James Joseph Sylvester* (Mathematics) · [source](https://en.wikiquote.org/wiki/James_Joseph_Sylvester)
+> — *Freeman Dyson* (Mathematics) · [source](https://en.wikiquote.org/wiki/Freeman_Dyson)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.
+> pause either further training, or pause deployment, or avoiding certain types of training that we think might be riskier. So just setting up some reasonable rules for what everyone should do to having everyone somewhat limit these things
 >
-> — *Alan Turing* (Computer science) · [source](https://en.wikiquote.org/wiki/Alan_Turing)
+> — *John Schulman* (Reinforcement learning) · [source](https://en.wikiquote.org/wiki/John_Schulman)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
