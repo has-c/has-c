@@ -4,6 +4,12 @@
 
 ---
 
+### Featured Project
+
+[**Pi Agent Python SDK**](https://github.com/cheenulabs/pi-agent-python-sdk) — Run Pi from Python with synchronous and async APIs for streaming responses, managing sessions, and controlling the coding agent. Includes an experimental Durable backend for crash-recoverable agent jobs.
+
+---
+
 ### Find Me
 
 I write about data, ML/AI, and markets on Substack:
