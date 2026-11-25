@@ -48,13 +48,13 @@ Real-time indoor people detection and tracking on Raspberry Pi, using density-ba
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ User Mobility Mining
-**Model the places people visit.**
+### 💬 OpenAssistant
+**Talk to an AI that can get things done.**
 
-Predict place categories from check-in data with spatial features and time-aware sequence models. Comparing neural networks, LSTMs, and XGBoost.
+A browser-based text and voice assistant powered by Pi, with tools, MCP integrations, and support for local models through vLLM. An experimental preview, revisiting a local-first desktop project started in 2023.
 
-<sub>Spatiotemporal ML · LSTM · XGBoost</sub><br><br>
-<a href="https://github.com/has-c/UserMobilityMining"><b>Explore the research →</b></a>
+<sub>Voice AI · Pi agents · Local models</sub><br><br>
+<a href="https://github.com/has-c/openassistant"><b>Explore the assistant →</b></a>
 
 </td>
 <td width="50%" valign="top">
