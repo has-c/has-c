@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Eventually, I decided that thinking was not getting me very far and it was time to try building.
+> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
 >
-> — *Rob Pike* (Computer science) · [source](https://en.wikiquote.org/wiki/Rob_Pike)
+> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Restlessness is discontent — and discontent is the first necessity of progress. Show me a thoroughly satisfied man — and I will show you a failure.
+> Time is the primitive form of the stream of consciousness....If we project ourselves outside the stream of consciousness and represent its content as an object, it becomes an event happening in time, the separate stages of which stand to one another in the relations of earlier and later.
 >
-> — *Thomas Edison* (Invention) · [source](https://en.wikiquote.org/wiki/Thomas_Edison)
+> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
