@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
+> You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Odious ideas are not entitled to hide from criticism behind the human shield of their believers ' feelings.
+> The inventor...looks upon the world and is not contented with things as they are. He wants to improve whatever he sees, he wants to benefit the world; he is haunted by an idea. The spirit of invention possesses him, seeking materialization.
 >
-> — *Richard Stallman* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Stallman)
+> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
