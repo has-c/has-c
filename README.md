@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The tool that is so dull that you cannot cut yourself on it is not likely to be sharp enough to be either useful or helpful.
+> He who refuses to do arithmetic is doomed to talk nonsense.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Time is the primitive form of the stream of consciousness....If we project ourselves outside the stream of consciousness and represent its content as an object, it becomes an event happening in time, the separate stages of which stand to one another in the relations of earlier and later.
+> We are in the position of the man who has only two ambitions in life. One is to invent the universal solvent which will dissolve any solid substance, and the second is to invent the universal container which will hold any liquid. Whatever this inventor does, he will be frustrated.
 >
-> — *Hermann Weyl* (Mathematics) · [source](https://en.wikiquote.org/wiki/Hermann_Weyl)
+> — *Norbert Wiener* (Mathematics) · [source](https://en.wikiquote.org/wiki/Norbert_Wiener)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
