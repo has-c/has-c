@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Science is knowledge which we understand so well that we can teach it to a computer; and if we don't fully understand something, it is an art to deal with it.
+> Empirical evidence can never establish mathematical existence--nor can the mathematician's demand for existence be dismissed by the physicist as useless rigor. Only a mathematical existence proof can ensure that the mathematical description of a physical phenomenon is meaningful.
 >
-> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
+> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
 
 **Qwen3.5 9B MTP · Mac**
 
-> There cannot be mental atrophy in any person who continues to observe, to remember what he observes, and to seek answers for his unceasing hows and whys about things.
+> Sometimes this process helped us realize that a different topic was more important, so we cut material we had developed to focus on something else.
 >
-> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
+> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
