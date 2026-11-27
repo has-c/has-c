@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> All models are wrong; some models are useful.
+> I guess I feel like language models are world models, but they could be better world models.
 >
-> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
+> — *Peter Norvig* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Peter_Norvig)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Pick a problem that you really believe in and go for it.
+> People get the government their behavior deserves. People deserve better than that.
 >
-> — *David Silver* (Reinforcement learning) · [source](https://www.talkrl.com/episodes/david-silver-rcl-2024/transcript)
+> — *Richard Stallman* (Computer science) · [source](https://en.wikiquote.org/wiki/Richard_Stallman)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
