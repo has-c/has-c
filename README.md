@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> "On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul; elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte."
+> Quanquam nobis in intima naturae mysteria penetrare, indeque veras caussas Phaenomenorum agnoscere neutiquam est concessum: tamen evenire potest, ut hypothesis quaedam ficta pluribus phaenomenis explicandis aeque satisfaciat, ac si vera caussa nobis esset perspecta.
 >
-> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> Arithmetic must be discovered in just the same sense in which Columbus discovered the West Indies, and we no more create numbers than he created the Indians.
 >
-> — *Nikola Tesla* (Invention) · [source](https://en.wikiquote.org/wiki/Nikola_Tesla)
+> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
