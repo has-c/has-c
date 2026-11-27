@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.
+> People who are more than casually interested in computers should have at least some idea of what the underlying hardware is like. Otherwise the programs they write will be pretty weird.
 >
-> — *John Tukey* (Statistics) · [source](https://en.wikiquote.org/wiki/John_Tukey)
+> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Especially exciting are the connections between temporal difference (TD) algorithms and the brain's dopamine system.
+> Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.
 >
-> — *Andrew G. Barto* (Reinforcement learning) · [source](https://people.cs.umass.edu/~barto/)
+> — *Donald Knuth* (Computer science) · [source](https://en.wikiquote.org/wiki/Donald_Knuth)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
