@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Quanquam nobis in intima naturae mysteria penetrare, indeque veras caussas Phaenomenorum agnoscere neutiquam est concessum: tamen evenire potest, ut hypothesis quaedam ficta pluribus phaenomenis explicandis aeque satisfaciat, ac si vera caussa nobis esset perspecta.
+> All models are wrong; some models are useful.
 >
-> — *Leonhard Euler* (Mathematics) · [source](https://en.wikiquote.org/wiki/Leonhard_Euler)
+> — *George Box* (Statistics) · [source](https://en.wikiquote.org/wiki/George_Box)
 
 **Qwen3.5 9B MTP · Mac**
 
-> Arithmetic must be discovered in just the same sense in which Columbus discovered the West Indies, and we no more create numbers than he created the Indians.
+> Pick a problem that you really believe in and go for it.
 >
-> — *Bertrand Russell* (Mathematics) · [source](https://en.wikiquote.org/wiki/Bertrand_Russell)
+> — *David Silver* (Reinforcement learning) · [source](https://www.talkrl.com/episodes/david-silver-rcl-2024/transcript)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
