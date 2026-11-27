@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> The analysis of variance is not a mathematical theorem, but rather a convenient method of arranging the arithmetic.
+> A single observation that is inconsistent with some generalization points to the falsehood of the generalization, and thereby 'points to itself'.
 >
-> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
+> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I do not think that safety should be bought at the cost of complicating the expression of good solutions to real-life problems.
+> As long as scientists are free to pursue the truth wherever it may lead, there will be a flow of new scientific knowledge to those who can apply it to practical problems.
 >
-> — *Bjarne Stroustrup* (Computer science) · [source](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
+> — *Vannevar Bush* (Computer science) · [source](https://en.wikiquote.org/wiki/Vannevar_Bush)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
