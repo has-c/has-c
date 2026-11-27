@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> A unified theory of cognition is a single set of mechanisms that cover all of cognition—problem solving, decision making, routine action, memory, learning, skill, perception, and motor behavior.
+> Debunking bad science should be constant obligation of the science community, even if it takes time away from serious research or seems to be a losing battle. One takes comfort from the fact there is no Gresham's laws in science. In the long run, good science drives out bad.
 >
-> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
+> — *Martin Gardner* (Mathematics) · [source](https://en.wikiquote.org/wiki/Martin_Gardner)
 
 **Qwen3.5 9B MTP · Mac**
 
-> I can think of nothing else than this machine.
+> Step one, solve intelligence; step two, use it to solve everything else.
 >
-> — *James Watt* (Invention) · [source](https://en.wikiquote.org/wiki/James_Watt)
+> — *Demis Hassabis* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Demis_Hassabis)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
