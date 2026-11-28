@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> For scholars and laymen alike it is not philosophy but active experience in mathematics itself that can alone answer the question: What is mathematics?
+> People tell you that wishful thinking is bad. Do not believe it, this is just one of those generally accepted errors.
 >
-> — *Richard Courant* (Mathematics) · [source](https://en.wikiquote.org/wiki/Richard_Courant)
+> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
 
 **Qwen3.5 9B MTP · Mac**
 
-> For those who are more advanced, you’ll find lesser-known perspectives on familiar territory.
+> The inventor...looks upon the world and is not contented with things as they are. He wants to improve whatever he sees, he wants to benefit the world; he is haunted by an idea. The spirit of invention possesses him, seeking materialization.
 >
-> — *Andrew Ng* (Artificial intelligence) · [source](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
