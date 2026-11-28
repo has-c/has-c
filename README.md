@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> People tell you that wishful thinking is bad. Do not believe it, this is just one of those generally accepted errors.
+> If you have a hammer, use it everywhere you can, but I do not claim that everything is fractal.
 >
-> — *George Pólya* (Mathematics) · [source](https://en.wikiquote.org/wiki/George_P%C3%B3lya)
+> — *Benoit Mandelbrot* (Mathematics) · [source](https://en.wikiquote.org/wiki/Benoit_Mandelbrot)
 
 **Qwen3.5 9B MTP · Mac**
 
-> The inventor...looks upon the world and is not contented with things as they are. He wants to improve whatever he sees, he wants to benefit the world; he is haunted by an idea. The spirit of invention possesses him, seeking materialization.
+> Everyone is a programmer now. You just have to say something to the computer.
 >
-> — *Alexander Graham Bell* (Invention) · [source](https://en.wikiquote.org/wiki/Alexander_Graham_Bell)
+> — *Jensen Huang* (Computing and invention) · [source](https://en.wikiquote.org/wiki/Jensen_Huang)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
