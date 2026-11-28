@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> We favor hypotheses for their simplicity and explanatory power, much as the architect of the world might have done in choosing which possibility to create.
+> The million, million, million … to one chance happens once in a million, million, million … times no matter how surprised we may be that it results in us.
 >
-> — *Ian Hacking* (Statistics) · [source](https://en.wikiquote.org/wiki/Ian_Hacking)
+> — *Ronald Fisher* (Statistics) · [source](https://en.wikiquote.org/wiki/Ronald_Fisher)
 
 **Qwen3.5 9B MTP · Mac**
 
-> "Nature laughs at the difficulties of integration."
+> Brooks's Law: Adding manpower to a late software project makes it later.
 >
-> — *Pierre-Simon Laplace* (Mathematics) · [source](https://en.wikiquote.org/wiki/Pierre-Simon_Laplace)
+> — *Fred Brooks* (Computer science) · [source](https://en.wikiquote.org/wiki/Fred_Brooks)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
