@@ -88,15 +88,15 @@ Watch Monty eat through my GitHub activity — updated daily:
 <!-- DAILY QUOTE -->
 **Qwen3.8 27B · GPU server**
 
-> Data do not understand causes and effects; humans do.
+> A unified theory of cognition is a single set of mechanisms that cover all of cognition—problem solving, decision making, routine action, memory, learning, skill, perception, and motor behavior.
 >
-> — *Judea Pearl* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Judea_Pearl)
+> — *Allen Newell* (Artificial intelligence) · [source](https://en.wikiquote.org/wiki/Allen_Newell)
 
 **Qwen3.5 9B MTP · Mac**
 
-> When there's a will to fail, obstacles can be found.
+> I am accustomed, as a professional mathematician, to living in a sort of vacuum, surrounded by people who declare with an odd sort of pride that they are mathematically illiterate.
 >
-> — *John McCarthy* (Computer science) · [source](https://en.wikiquote.org/wiki/John_McCarthy)
+> — *David Mumford* (Mathematics) · [source](https://en.wikiquote.org/wiki/David_Mumford)
 <!-- /DAILY QUOTE -->
 
 <sub>*Both quotes are generated daily on local hardware.*</sub>
